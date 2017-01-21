@@ -1,0 +1,10 @@
+contentdir    = "content"
+layoutdir     = "layouts"
+publishdir    = "public"
+baseurl       = "https://shirazlug.gitlab.io/websitemain"
+title         = "Hugo Blog Template for GitLab Pages"
+canonifyurls  = true
+theme         = "Lanyon"
+
+[indexes]
+  category  = "categories"
