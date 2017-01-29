@@ -1,8 +1,8 @@
 contentdir    = "content"
 layoutdir     = "layouts"
 publishdir    = "public"
-baseurl       = "https://shirazlug.gitlab.io/websitemain/"
-title         = "Hugo Blog Template for GitLab Pages"
+baseurl       = "https://shirazlug.gitlab.io"
+title         = "ShirazLUG"
 canonifyurls  = true
 theme         = "Lanyon"
 
