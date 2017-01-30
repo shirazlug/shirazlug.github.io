@@ -1,11 +1,16 @@
 ![Build Status](https://gitlab.com/pages/hugo/badges/master/build.svg)
 
 ---
+## داستان ما
 
-Example [Hugo] website using GitLab Pages.
+ اعضای جامعه ی کاربری  شیرازلاگ تصمیم گرفتند تا توسعه سایت را
+ به گیت لب و سرویس صفحات آن منتقل کنند.
 
-Learn more about GitLab Pages at https://pages.gitlab.io and the official
-documentation http://doc.gitlab.com/ee/pages/README.html.
+برخی از این نیاز ها عبارت اند از:
+- آسانی در مشارکت همگانی
+- انعطاف پذیری و کنترل بالا در توسعه
+- مزایای استفاده از یک سیستم مدیریت نسخه مانند گیت(git)
+
 
 ---
 
@@ -13,15 +18,15 @@ documentation http://doc.gitlab.com/ee/pages/README.html.
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-- [GitLab CI](#gitlab-ci)
-- [Building locally](#building-locally)
-- [GitLab User or Group Pages](#gitlab-user-or-group-pages)
-- [Did you fork this project?](#did-you-fork-this-project)
-- [Troubleshooting](#troubleshooting)
+- [سرویس گیت لب سی آی](#%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%DA%AF%DB%8C%D8%AA-%D9%84%D8%A8-%D8%B3%DB%8C-%D8%A2%DB%8C)
+- [چگونه میتوانید کمک کنید؟](#%DA%86%DA%AF%D9%88%D9%86%D9%87-%D9%85%DB%8C%D8%AA%D9%88%D8%A7%D9%86%DB%8C%D8%AF-%DA%A9%D9%85%DA%A9-%DA%A9%D9%86%DB%8C%D8%AF%D8%9F)
+    - [نحوه ی کار با پروژه بر روی کامپیوتر شخصی](#%D9%86%D8%AD%D9%88%D9%87-%DB%8C-%DA%A9%D8%A7%D8%B1-%D8%A8%D8%A7-%D9%BE%D8%B1%D9%88%DA%98%D9%87-%D8%A8%D8%B1-%D8%B1%D9%88%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1-%D8%B4%D8%AE%D8%B5%DB%8C)
+        - [پیش نمایش وبسایت](#%D9%BE%DB%8C%D8%B4-%D9%86%D9%85%D8%A7%DB%8C%D8%B4-%D9%88%D8%A8%D8%B3%D8%A7%DB%8C%D8%AA)
+    - [Troubleshooting](#troubleshooting)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## GitLab CI
+## سرویس گیت لب **سی آی**
 
 This project's static Pages are built by [GitLab CI][ci], following the steps
 defined in [`.gitlab-ci.yml`](.gitlab-ci.yml):
@@ -45,42 +50,25 @@ pages:
   only:
   - master
 ```
+# چگونه میتوانید کمک کنید؟
 
-## Building locally
+## نحوه ی کار با پروژه بر روی کامپیوتر شخصی
 
 To work locally with this project, you'll have to follow the steps below:
 
-1. Fork, clone or download this project
-1. [Install][] Hugo
+1. **Fork**, clone or download this project
+1. [Install][] **Hugo**
 1. Preview your project: `hugo server`
 1. Add content
-1. Generate the website: `hugo` (optional)
+1. Generate the website: `hugo` (غیر لازم برای این پروژه)
 
-Read more at Hugo's [documentation][].
+برای مطالعه ی بیشتر برای کار با هوگو به وبسایت آن مراجعه کنید. [documentation][].
 
-### Preview your site
+### پیش نمایش وبسایت
 
-If you clone or download this project to your local computer and run `hugo server`,
+If you **clone** or **download** this project to your local computer and run `hugo server`,
 your site can be accessed under `localhost:1313/hugo/`.
 
-## GitLab User or Group Pages
-
-To use this project as your user/group website, you will need one additional
-step: just rename your project to `namespace.gitlab.io`, where `namespace` is
-your `username` or `groupname`. This can be done by navigating to your
-project's **Settings**.
-
-You'll need to configure your site too: change this line
-in your `config.toml`, from `"https://pages.gitlab.io/hugo/"` to `baseurl = "https://namespace.gitlab.io"`.
-Proceed equaly if you are using a [custom domain][post]: `baseurl = "http(s)://example.com"`. 
-
-Read more about [user/group Pages][userpages] and [project Pages][projpages].
-
-## Did you fork this project?
-
-If you forked this project for your own use, please go to your project's
-**Settings** and remove the forking relationship, which won't be necessary
-unless you want to contribute back to the upstream project.
 
 ## Troubleshooting
 
