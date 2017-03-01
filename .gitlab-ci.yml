@@ -4,7 +4,7 @@ before_script:
   - apk update && apk add openssl
   - wget https://github.com/spf13/hugo/releases/download/v0.19/hugo_0.19_Linux-64bit.tar.gz
   # - echo "3fc43b23a35dfe5290196bd0fc01f13f hugo_0.19_Linux-64bit.tar.gz" | md5sum -c
-  - tar xf hugo_0.19_Linux-64bit.tar.gz && cp ./hugo /usr/bin
+  - tar xf hugo_0.19_Linux-64bit.tar.gz && cp ./hugo_0.19_linux_amd64/hugo_0.19_linux_amd64 /usr/bin/hugo
   - hugo version
 
 test:
