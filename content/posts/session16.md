@@ -1,6 +1,6 @@
 ---
 title: "جلسه 16"
-date: "1394-02-30"
+date: "1394-02-28"
 categories:
     - "sessions"
 ---
