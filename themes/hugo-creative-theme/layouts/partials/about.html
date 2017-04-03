@@ -1,0 +1,21 @@
+{{ "<!-- ABOUT -->" | safeHTML }}
+<section class="bg-primary" id="about" style="background-color:#fcea3a; color:#393939">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 text-center">
+                {{ with .Site.Params.about.headline }}
+                    <h2 class="section-heading">{{ . }}</h2>
+                {{ end }}
+                {{ if and .Site.Params.about.headline .Site.Params.about.description }}
+                    <hr style="border-color:#393939">
+                {{ end }}
+                {{ with .Site.Params.about.description }}
+                    <p class="text-faded" style="color:#393939">{{ . | markdownify }}</p>
+                {{ end }}
+                {{ with .Site.Params.about.buttonText }}
+                    <a href="#next_session" class="btn btn-default btn-xl page-scroll" style="background-color:#13202d; color:white">{{ . }}</a>
+                {{ end }}
+            </div>
+        </div>
+    </div>
+</section>
