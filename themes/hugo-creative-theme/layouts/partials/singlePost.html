@@ -1,0 +1,17 @@
+{{ "<!-- ABOUT -->" | safeHTML }}
+<section class="bg-primary" id="singlePost" style="background-color:white; color:black">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 text-center" >
+              {{ range first 1 .Data.Pages }}
+                <h2 class="section-heading">{{ .Title }}</h2>
+                <hr>
+                <p class="text-faded" style="color:black">{{ .Content }}</p>
+              {{ end }}
+              {{ with .Site.Params.post.buttonText }}
+                  <a href="/posts" class="btn btn-default btn-xl" style="background-color:#1a1a1a; color:#e7e7e7">{{ . }}</a>
+              {{ end }}
+            </div>
+        </div>
+    </div>
+</section>
