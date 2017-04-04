@@ -4,7 +4,7 @@
         {{ partial "head.html" . }}
         <link rel="canonical" href="{{ .Permalink }}">
     </head>
-    <body id="page-top">
+    <body id="page-top" dir="rtl">
         {{ if or .Site.Params.navigation.links.about .Site.Params.navigation.links.services .Site.Params.navigation.links.portfolio .Site.Params.navigation.links.contact }}
             {{ partial "nav.html" . }}
         {{ end }}
