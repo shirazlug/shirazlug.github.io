@@ -6,7 +6,7 @@
               {{ range first 1 .Data.Pages }}
                 <h2 class="section-heading">{{ .Title }}</h2>
                 <hr>
-                <p class="text-faded" style="color:black">{{ .Content }}</p>
+                <p class="text-faded" style="color:black">{{ .Summary }}</p>
               {{ end }}
               {{ with .Site.Params.post.buttonText }}
                   <a href="/posts" class="btn btn-default btn-xl" style="background-color:#1a1a1a; color:#e7e7e7">{{ . }}</a>
