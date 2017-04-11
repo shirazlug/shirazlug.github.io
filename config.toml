@@ -142,8 +142,8 @@ canonifyurls  = true
 
 	# Google Maps section
 	[params.location]
-	 	latitude  = "34.007850"
-	 	longitude = "-118.499305"
+	 	latitude  = "29.62499"
+	 	longitude = "52.52045"
 	 	maps_api_key = ""
 
 [indexes]
