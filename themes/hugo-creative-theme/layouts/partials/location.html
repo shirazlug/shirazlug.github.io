@@ -1,4 +1,3 @@
-
 {{ if and .Site.Params.location.latitude .Site.Params.location.longitude }}
 <section id="location" class="no-padding">
     <div class="hidden">
@@ -8,7 +7,7 @@
 <!--
         <a href="https://www.google.com/maps?z=16&q={{ .Site.Params.location.latitude }},{{ .Site.Params.location.longitude }}&ll={{ .Site.Params.location.latitude }},{{ .Site.Params.location.longitude }}">
 -->
-        <a href="http://www.openstreetmap.org/?mlat={{ .Site.Params.location.latitude }}&mlon={{ .Site.Params.location.longitude }}#map=19/{{ .Site.Params.location.latitude }}/{{ .Site.Params.location.longitude }}">
+        <a href="https://www.openstreetmap.org/?mlat={{ .Site.Params.location.latitude }}&mlon={{ .Site.Params.location.longitude }}#map=19/{{ .Site.Params.location.latitude }}/{{ .Site.Params.location.longitude }}">
         <div id="map">
             &nbsp;
         </div>
