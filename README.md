@@ -1,4 +1,4 @@
-![Build Status](https://gitlab.com/pages/hugo/badges/master/build.svg)
+![Build Status](https://gitlab.com/shirazlug/shirazlug.gitlab.io/badges/master/build.svg)
 
 ---
 ## داستان ما
