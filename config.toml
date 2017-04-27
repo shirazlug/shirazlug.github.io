@@ -137,8 +137,8 @@ canonifyurls  = true
 	[params.contact]
 		headline = "ما را دنبال کنید"
 		description = ""
-		phone = "123-456-6789"
-		email = "feedback@startbootstrap.com"
+		phone = "0911-777-14-33"
+		email = "mailto:hadi@shirazlug.ir"
 
 	# Google Maps section
 	[params.location]
