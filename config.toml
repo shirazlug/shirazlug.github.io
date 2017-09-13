@@ -1,150 +1,90 @@
-baseurl = "https://shirazlug.gitlab.io/"
+baseURL = "https://shirazlug.gitlab.io/"
 languageCode = "en-us"
-title = "ShirazLUG"
-theme = "hugo-creative-theme"
-googleAnalytics = ""
-contentdir = "content"
-layoutdir     = "layouts"
-publishdir    = "public"
-canonifyurls  = true
-
+title = "شیراز لاگ"
+theme = "minimal"
+disqusShortname = "username" # delete this to disable disqus comments
 
 [params]
+    author = "Calin Tataru"
+    description = "به شیراز لاگ خوش آمدید:) لاگ یه گروهی است از آدم های مختلف که به منظور تبادل اطلاعات در حوزه ی کامپیوتر دور هم جمع می شوند، اگر می خوای یه چیزی یاد بگیری یا صرفا کنجکاوی که چیزای جدیدی که اسمشون ر تا حالا نشنیدی رو بشنوی، یا از کنار چند تا آدم جالب بودن لذت ببری و حتی چند تا دوست پیدا کنی،با ما همراه باش"
+    githubUsername = "#"
+    accent = "red"
+    showBorder = true
+    backgroundColor = "white"
+    font = "Raleway" #vazir  # should match the name on Google Fonts!
+    highlight = true
+    highlightStyle = "solarized-dark"
+    highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift", "c++", "c", "python", "ruby"]
 
-	# You can use Markdown syntax for urls [text](//url.to/source) for
-	# most longer texts.
+[[menu.main]]
+    url = "/"
+    name = "خانه"
+    weight = 1
 
-	# All icons using Fontawesome's icon font. Look at http://fontawesome.io/icons/
-	# for more icons. The icons are represented by their corresponding
-	# CSS class.
+[[menu.main]]
+    url = "/session/"
+    name = "جلسه آینده"
+    weight = 2
 
-	# All projects of the portfolio are defined in their own files.
-	# You can find example projects at 'exampleSite/data/projects'. Copy the 'projects'
-	# folder into the 'data' directory at the root of this Hugo site.
-	# For more information take a look at the README.
+[[menu.main]]
+    url = "/about/"
+    name = "درباره ما"
+    weight = 3
 
-	# To provide some metadata for search engines feel free to add some
-	# information about you and your website.
-	name = "Your name"
-	description = "Your description"
+[[menu.main]]
+    url = "/new/"
+    name = "اخبار"
+    weight = 4
 
-	# The path must be relative to the static folder
-	favicon = "favicon.ico"
+[[menu.main]]
+    url = "/event/"
+    name = "رویداد ها"
+    weight = 5
 
-	# Navigation
-	[params.navigation]
-		brand = "shirazLUG.ir"
+[[menu.main]]
+    url = "/post/"
+    name = "پست های آزاد"
+    weight = 6
 
-		[params.navigation.links]
-			about     		= "درباره"
-			services 		  = ""
-			portfolio 		= "Portfolio"
-			contact   	  = "تماس با ما"
-			last_session  = "خلاصه آخرین جلسه"
-			blog 					= "بلاگ"
-			next_session  = "جلسه آینده"
+# Social icons to be shown on the right-hand side of the navigation bar
+# The "name" field should match the name of the icon to be used
+# The list of available icons can be found at http://fontawesome.io/icons/
+[[menu.icon]]
+    url = "https://www.openstreetmap.org/?mlat=29.62499&mlon=52.52045#map=19/29.62499/52.52045"
+    name = "map-marker"
+    weight = 1
 
+[[menu.icon]]
+    url = "mailto:hadi@hirazlug.ir"
+    name = "envelope-o"
+    weight = 2
 
-	# Hero section
-	[params.hero]
-		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
-		slogan     = "شیراز لاگ"
-		subtitle   = "به شیراز لاگ خوش آمدید:) لاگ یه گروهی است از آدم های مختلف که به منظور تبادل اطلاعات در حوزه ی کامپیوتر دور هم جمع می شوند، اگر می خوای یه چیزی یاد بگیری یا صرفا کنجکاوی که چیزای جدیدی که اسمشون ر تا حالا نشنیدی رو بشنوی، یا از کنار چند تا آدم جالب بودن لذت ببری و حتی چند تا دوست پیدا کنی،با ما همراه باش"
-		buttonText = "درباره"
+[[menu.icon]]
+    url = "https://telegram.me/joinchat/AYtPuT58Mz94GAd_-NxodQ"
+    name = "telegram"
+    weight = 3
 
-	# About section
-	[params.about]
-		headline    = "درباره شیراز لاگ"
-		description = "گروه کاربران گنو/لینوکس شیراز یا «شیرازلاگ» گروهی مستقل، مردم‌نهاد، ناسودبر و عمومی از کاربران رایانه علاقه‌مند به گنو/لینوکس ساکن شیراز می‌باشد. تم محوری جلسه‌های شیرازلاگ عبارت است از مبانی فکری-تاریخی نرم‌افزارهای آزاد، معرفی، نصب و  استفاده از توزیع‌های مختلف گنو/لینوکس، توسعه‌ی توزیع‌های گنو/لینوکس و دیگر نرم‌افزارهای آزاد، معرفی زبان‌های برنامه‌نویسی آزاد و چگونگی برنامه‌نویسی با آن‌ها، امنیت عمومی داده‌ها در اینترنت، نرم‌افزارهای چندسکویی، بحث آزاد در حوزه‌ی نرم‌افزار آزاد و دیگر مسایل مرتبط با نرم‌افزارهای آزاد یا اجتماع‌های کاربری مرتبط با آن‌ها.  در واقع شیرازلاگ یک اجتماع از کاربران نرم افزار آزاد است که مایلند دقایقی را در کنار هم سپری کنند.<br> شرکت در جلسات این گروه برای عموم آزاد و رایگان است. شما نیز چنانچه علاقه‌مند هستید میتوانید در جلسات آن شرکت کنید و دانش خود را با سایر اعضا به اشتراک گذاشته و یا از دانش آنان استفاده کنید. شرط لازم برای شرکت در جلسه‌ها هیچ‌گونه پیش‌نیاز قبلی نیست و تمامی علاقه‌مندان می‌توانند در این جلسه‌ها شرکت کنند."
-		buttonText  = "جلسه آینده"
+#[[menu.icon]]
+#    url = "https://github.com/username/"
+#    name = "github"
+#    weight =
 
-  # Post section
-	[params.post]
-		headline    = "ok!"
-		description = "ok!"
-		buttonText  = "بلاگ"
+[[menu.icon]]
+    url = "https://twitter.com/LugShiraz"
+    name = "twitter"
+    weight = 4
 
-	# next_session
-	[params.next_session]
-		headline    = "ok!"
-		description = "ok!"
-		buttonText  = "مکان برگزاری"
+#[[menu.icon]]
+#    url = "https://www.linkedin.com/in/username/"
+#    name = "linkedin"
+#    weight =
 
-	# Service section
-	[params.services]
-		headline = "At your service"
+#[[menu.icon]]
+#    url = "https://www.stackoverflow.com/username/"
+#    name = "stack-overflow"
+#    weight =
 
-    [[params.services.list]]
-      icon = "fa-diamond"
-      title = "Sturdy Templates"
-      description = "Our templates are updated regularly so they don't break."
-
-    [[params.services.list]]
-			icon = "fa-paper-plane"
-			title = "Ready to Ship"
-			description = "You can use this theme as is, or you can make changes!"
-
-		[[params.services.list]]
-      icon = "fa-newspaper-o"
-      title = "Up to Date"
-      description = "We update dependencies to keep things fresh."
-
-    [[params.services.list]]
-      icon = "fa-heart"
-      title = "Made with Love"
-      description = "You have to make your websites with love these days!"
-
-	# intoduction free_app section
-	[params.free_app]
-		headline = "چند نرم افزار کاربردی آزاد(سورس باز)"
-
-		[[params.free_app.list]]
-			icon = "img/free_app/atom.svg"
-			title = "اتم"
-			description = "اتم یک ادیتور متن چند سکویه برای کد زدن میباشد.اتم از اکثر زبان ها پشتیبانی میکند و همچنین دارایه امکانات زیادی میباشد. وب سایت رسمی : ATOM ."
-
-		[[params.free_app.list]]
-			icon = "img/free_app/gimp.svg"
-			title = "گیمپ"
-			description = "گیمپ یک نرم افزار چند سکویی برای ادیت عکس است.وب سایت رسمی: GIMP."
-
-		[[params.free_app.list]]
-			icon = "img/free_app/vlc.svg"
-			title = "VLC"
-			description = "یک نرم افزار برای نمایش فیلم ، موسیقی و رسانه های تصویر می باشد و همچنین چند سکویه است."
-
-		[[params.free_app.list]]
-			icon = "img/free_app/telegram.svg"
-			title = "تلگرام"
-			description = "یک نرم افزار چت آنلاین است، که امروزه در ایران بسیار طرف دار دارد، این نرم افزار هم چند سکویه میباشد."
-
-  # Portfolio modals
-	[params.portfolio.modal]
-        client = "Client"
-        date = "Date"
-        category = "Category"
-        buttonText = "Close"
-
-  # Aside section
-	[params.aside]
-		headline = "Get the Creative Theme for Hugo"
-
-		[params.aside.button]
-			text = "Download now"
-			link = "//github.com/digitalcraftsman/hugo-creative-theme"
-
-	# Contact section
-	[params.contact]
-		headline = "ما را دنبال کنید"
-		description = ""
-		phone = "0911-777-14-33"
-		email = "mailto:hadi@shirazlug.ir"
-
-	# Google Maps section
-	[params.location]
-	 	latitude  = "29.62499"
-	 	longitude = "52.52045"
-	 	maps_api_key = ""
-
-[indexes]
-  category  = "categories"
+[[menu.icon]]
+    url = "https://gitlab.com/shirazlug"
+    name = "gitlab"
+    weight = 5
