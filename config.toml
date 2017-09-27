@@ -19,32 +19,32 @@ disqusShortname = "username" # delete this to disable disqus comments
 [[menu.main]]
     url = "/"
     name = "خانه"
-    weight = 1
+    weight = 6
 
 [[menu.main]]
     url = "/session/"
     name = "جلسه آینده"
-    weight = 2
+    weight = 5
 
 [[menu.main]]
     url = "/about/"
     name = "درباره ما"
-    weight = 3
+    weight = 4
 
 [[menu.main]]
     url = "/new/"
     name = "اخبار"
-    weight = 4
+    weight = 3
 
 [[menu.main]]
     url = "/event/"
     name = "رویداد ها"
-    weight = 5
+    weight = 2
 
 [[menu.main]]
     url = "/post/"
     name = "پست های آزاد"
-    weight = 6
+    weight = 1
 
 # Social icons to be shown on the right-hand side of the navigation bar
 # The "name" field should match the name of the icon to be used
@@ -52,27 +52,35 @@ disqusShortname = "username" # delete this to disable disqus comments
 [[menu.icon]]
     url = "https://www.openstreetmap.org/?mlat=29.62499&mlon=52.52045#map=19/29.62499/52.52045"
     name = "map-marker"
-    weight = 1
+    weight = 6
 
 [[menu.icon]]
     url = "mailto:hadi@hirazlug.ir"
     name = "envelope-o"
-    weight = 2
+    weight = 5
 
 [[menu.icon]]
     url = "https://telegram.me/joinchat/AYtPuT58Mz94GAd_-NxodQ"
     name = "telegram"
-    weight = 3
+    weight = 4
 
 #[[menu.icon]]
 #    url = "https://github.com/username/"
 #    name = "github"
 #    weight =
 
+
+[[menu.icon]]
+    url = "https://www.instagram.com/lugshiraz/"
+    name = "instagram"
+    weight = 3
+
+
 [[menu.icon]]
     url = "https://twitter.com/LugShiraz"
     name = "twitter"
-    weight = 4
+    weight = 2
+
 
 #[[menu.icon]]
 #    url = "https://www.linkedin.com/in/username/"
@@ -87,4 +95,4 @@ disqusShortname = "username" # delete this to disable disqus comments
 [[menu.icon]]
     url = "https://gitlab.com/shirazlug"
     name = "gitlab"
-    weight = 5
+    weight = 1
