@@ -23,7 +23,7 @@ disqusShortname = "username" # delete this to disable disqus comments
 
 [[menu.main]]
     url = "/session/"
-    name = "جلسه آینده"
+    name = "جلسه‌های لاگ"
     weight = 5
 
 [[menu.main]]
@@ -55,7 +55,7 @@ disqusShortname = "username" # delete this to disable disqus comments
     weight = 6
 
 [[menu.icon]]
-    url = "mailto:hadi@hirazlug.ir"
+    url = "mailto:admin@hirazlug.ir"
     name = "envelope-o"
     weight = 5
 
