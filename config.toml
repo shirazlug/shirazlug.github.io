@@ -50,7 +50,7 @@ disqusShortname = "username" # delete this to disable disqus comments
 # The "name" field should match the name of the icon to be used
 # The list of available icons can be found at http://fontawesome.io/icons/
 [[menu.icon]]
-    url = "https://www.openstreetmap.org/?mlat=29.62499&mlon=52.52045#map=19/29.62499/52.52045"
+    url = "https://www.openstreetmap.org/?mlat=29.62560&mlon=52.49326#map=19/29.62560/52.49326&layers=N"
     name = "map-marker"
     weight = 7
 
