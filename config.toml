@@ -52,34 +52,34 @@ disqusShortname = "username" # delete this to disable disqus comments
 [[menu.icon]]
     url = "https://www.openstreetmap.org/?mlat=29.62499&mlon=52.52045#map=19/29.62499/52.52045"
     name = "map-marker"
-    weight = 6
+    weight = 7
 
 [[menu.icon]]
-    url = "mailto:admin@hirazlug.ir"
+    url = "mailto:admin@shirazlug.ir"
     name = "envelope-o"
-    weight = 5
+    weight = 6
 
 [[menu.icon]]
     url = "https://telegram.me/joinchat/AYtPuT58Mz94GAd_-NxodQ"
     name = "telegram"
-    weight = 4
+    weight = 5
 
-#[[menu.icon]]
-#    url = "https://github.com/username/"
-#    name = "github"
-#    weight =
+[[menu.icon]]
+    url = "https://github.com/shirazlug/"
+    name = "github"
+    weight = 2
 
 
 [[menu.icon]]
     url = "https://www.instagram.com/lugshiraz/"
     name = "instagram"
-    weight = 3
+    weight = 4
 
 
 [[menu.icon]]
     url = "https://twitter.com/LugShiraz"
     name = "twitter"
-    weight = 2
+    weight = 3
 
 
 #[[menu.icon]]
