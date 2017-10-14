@@ -1,5 +1,5 @@
 ---
-title: "جلسه 34"
+title: "جلسه ۳۴"
 date: "1394-07-18"
 categories:
     - "sessions"

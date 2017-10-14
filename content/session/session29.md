@@ -1,5 +1,5 @@
 ---
-title: "جلسه 29"
+title: "جلسه ۲۹"
 date: "1394-06-05"
 categories:
     - "sessions"

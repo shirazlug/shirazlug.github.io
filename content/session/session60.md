@@ -1,5 +1,5 @@
 ---
-title: "جلسه 60"
+title: "جلسه ۶۰"
 date: "1395-02-26"
 categories:
     - "sessions"
