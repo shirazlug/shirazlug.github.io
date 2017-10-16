@@ -1,5 +1,5 @@
 ---
-title: "جلسه ی 23"
+title: "جلسه ی ۲۳"
 date: "1394-04-28"
 categories:
     - "sessions"

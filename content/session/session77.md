@@ -1,5 +1,5 @@
 ---
-title: "جلسه 77"
+title: "جلسه ۷۷"
 date: "1395-07-12"
 categories:
     - "sessions"
