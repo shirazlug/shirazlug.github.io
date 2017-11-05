@@ -1,4 +1,5 @@
-html, body {
+html,
+body {
     height: 100%;
 }
 
@@ -12,9 +13,12 @@ body {
 main {
     margin: auto;
     padding: 25px;
+    font-size: 20px;
     flex: 1 0 auto;
-    max-width: 850px; /* 750px */
+    max-width: 850px;
+    /* 750px */
 }
+
 
 /*footer*/
 
@@ -22,25 +26,29 @@ main {
     margin: 15px 0;
 }
 
+
 /*home page*/
 
 .intro {
-    margin: 10vh 0; /* 25vh 0 */
+    margin: 10vh 0;
+    /* 25vh 0 */
 }
 
-.intro > h1 {
+.intro>h1 {
     color: #212121;
     font-size: 12vh;
 }
 
-.intro > h2 {
+.intro>h2 {
     color: #757575;
     font-size: 3vmin;
 }
 
+
 /*apply accent colour to links*/
 
-a:link, a:visited {
+a:link,
+a:visited {
     color: var(--accent);
 }
 
@@ -52,6 +60,7 @@ a:hover {
     color: var(--accent) !important;
 }
 
+
 /*paginator at bottom of list view*/
 
 .pages {
@@ -61,6 +70,7 @@ a:hover {
 .pages-icon {
     padding: 0 15px;
 }
+
 
 /*list item for posts and projects*/
 
@@ -72,12 +82,14 @@ a:hover {
     background-color: var(--accent);
 }
 
+
 /*navigation bar icons*/
 
 .navbar-icon {
     font-size: 125%;
     display: inline-block !important;
 }
+
 
 /*coloured borders at top and bottom of the page*/
 
