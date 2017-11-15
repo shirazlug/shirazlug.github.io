@@ -14,3 +14,7 @@ categories:
 آقای خزاعی در این ارائه تعدادی از تکنولوژی های موجود در گنوم مانند GIO، PulseAudio، Flatpak و ... را توضیح داده و برخی از افزونه های پرکاربرد گنوم را نیز معرفی کردند.
 
 [![session120](../../img/IMGsession120_1.jpg)](img/IMGsession120_1.jpg)
+
+فایل های مربوط به این ارائه را می توانید از [اینجا](https://gitlab.com/shirazlug/resources/tree/master/presentations/session_120)
+یا [اینجا](https://www.slideshare.net/secret/DfMQWwbgnofLJO)
+دریافت کنید.
