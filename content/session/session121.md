@@ -11,6 +11,8 @@ categories:
 آقای فیروزی در این ارائه ابزارهایی مانند webgl، webcl، canvas، webrtc و ... را معرفی کردند و دلیل ایجاد و توسعه و نحوه استفاده از هر کدام را توضیح دادند.
 در پایان نیز جلسه پرسش و پاسخ در مورد این ارائه و مسائل دیگر برگزار شد.
 
-فایل این ارائه را می توانید از [اینجا](http://tiny.cc/shirazlug_s121)
+فایل این ارائه را می توانید از [اینجا](https://gitlab.com/shirazlug/resources/tree/master/presentations/session_121)
+یا
+ [اینجا](http://tiny.cc/shirazlug_s121)
 دریافت کنید.
 

@@ -17,3 +17,7 @@ categories:
 
 
 از محورهای مورد بحث در این ارائه، آشنایی با لاتک و تاریخچه آن، معرفی ویرایشگرهای موجود، آشنایی با TeXstudi، بررسی قالب های مجلات معتبر، ایجاد اولین پروژه و درج شکل و ارجاع دهی و فرمول های ریاضی بود.
+
+فایل های این ارائه را می توانید از [اینجا](https://gitlab.com/shirazlug/resources/tree/master/presentations/session_123)
+یا [اینجا](https://www.slideshare.net/ShirazLUG/shirazlug-s123-latex)
+دریافت کنید.
