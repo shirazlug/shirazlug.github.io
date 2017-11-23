@@ -55,7 +55,7 @@ disqusShortname = "username" # delete this to disable disqus comments
     weight = 7
 
 [[menu.icon]]
-    url = "mailto:admin@shirazlug.ir"
+    url = "mailto:contact@shirazlug.ir"
     name = "envelope-o"
     weight = 6
 
@@ -71,26 +71,26 @@ disqusShortname = "username" # delete this to disable disqus comments
 
 
 [[menu.icon]]
-    url = "https://www.instagram.com/lugshiraz/"
+    url = "https://www.instagram.com/ShirazLUG.ir/"
     name = "instagram"
     weight = 4
 
 
 [[menu.icon]]
-    url = "https://twitter.com/LugShiraz"
+    url = "https://twitter.com/ShirazLUG_ir"
     name = "twitter"
     weight = 3
 
 
-#[[menu.icon]]
-#    url = "https://www.linkedin.com/in/username/"
-#    name = "linkedin"
-#    weight =
+[[menu.icon]]
+    url = "https://www.linkedin.com/in/shiraz-lug-5291a2152/"
+    name = "linkedin"
+    weight = 8
 
-#[[menu.icon]]
-#    url = "https://www.stackoverflow.com/username/"
-#    name = "stack-overflow"
-#    weight =
+[[menu.icon]]
+    url = "https://www.facebook.com/ShirazLUG.ir/"
+    name = "facebook"
+    weight = 9
 
 [[menu.icon]]
     url = "https://gitlab.com/shirazlug"
