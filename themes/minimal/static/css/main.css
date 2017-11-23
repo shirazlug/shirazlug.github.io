@@ -42,6 +42,8 @@ main {
 .intro>h2 {
     color: #757575;
     font-size: 3vmin;
+    text-align: justify;
+    text-justify: inter-word;
 }
 
 
