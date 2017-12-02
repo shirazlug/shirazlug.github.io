@@ -4,7 +4,7 @@ date: "1396-08-29"
 categories:
     - "sessions"
 ---
-[![poster124](../../img/poster124.jpg)](img/poster124.jpg)
+[![poster124](../../img/poster124.jpg)](../../img/poster124.jpg)
 
 صد و بیست و چهارمین نشست گروه کاربران لینوکس شیراز، با ارائه محسن نظام الملکی در دانشگاه زند برگزار شد. آقای نظام الملکی در این جلسه، به معرفی کتابخانه [STL](http://www.sgi.com/tech/stl/table_of_contents.html)
 که یکی از کتابخانه های پرکاربرد در ++C می باشد، پرداختند.
