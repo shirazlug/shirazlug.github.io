@@ -4,7 +4,7 @@ date: "1396-08-01"
 categories:
     - "sessions"
 ---
-[![poster120](../../img/poster120.jpg)](img/poster120.jpg)
+[![poster120](../../img/poster120.jpg)](../../img/poster120.jpg)
 
 صد و بیستمین جلسه شیرازلاگ در دانشگاه زند با ارائه امین خزاعی برگزار شد. در این جلسه آقای خزاعی به معرفی گنوم شل
  [Gnome Shell] (https://www.gnome.org/) پرداختند. 
@@ -13,7 +13,7 @@ categories:
 گنوم شل پوسته گرافیکی میزکار گنوم است که هدف از طراحی آن کارآمد بودن بر روی همه نوع نمایش‌گر، چه رایانه رومیزی دارای نمایش‌گر متوسط یا بزرگ که با صفحه کلید و ماوس کنترل می‌شود و چه رایانه‌های قابل حمل دارای نمایش‌گر کوچک‌تر مانند لپ تاپ و تبلت که با صفحه کلید، تاچ‌پد یا صفحه لمسی کنترل می‌شوند.
 آقای خزاعی در این ارائه تعدادی از تکنولوژی های موجود در گنوم مانند GIO، PulseAudio، Flatpak و ... را توضیح داده و برخی از افزونه های پرکاربرد گنوم را نیز معرفی کردند.
 
-[![session120](../../img/IMGsession120_1.jpg)](img/IMGsession120_1.jpg)
+[![session120](../../img/IMGsession120_1.jpg)](../../img/IMGsession120_1.jpg)
 
 فایل های مربوط به این ارائه را می توانید از [اینجا](https://gitlab.com/shirazlug/resources/tree/master/presentations/session_120)
 یا [اینجا](https://www.slideshare.net/secret/DfMQWwbgnofLJO)
