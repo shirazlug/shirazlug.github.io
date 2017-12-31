@@ -15,7 +15,7 @@ disqusShortname = "username" # delete this to disable disqus comments
     highlight = true
     highlightStyle = "solarized-dark"
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift", "c++", "c", "python", "ruby"]
-    address = "آدرس محل برگزاری: ستارخان، انتهای خیابان نمازی، دانشگاه زند"
+    address = "آدرس: انتهای بلوار همت جنوبی، کوچه ۱۲، موسسه آموزش عالی زند"
 [[menu.main]]
     url = "/"
     name = "خانه"
@@ -50,7 +50,7 @@ disqusShortname = "username" # delete this to disable disqus comments
 # The "name" field should match the name of the icon to be used
 # The list of available icons can be found at http://fontawesome.io/icons/
 [[menu.icon]]
-    url = "https://www.openstreetmap.org/?mlat=29.62560&mlon=52.49326#map=19/29.62560/52.49326"
+    url = "http://www.openstreetmap.org/export/embed.html?bbox=52.45405%2C29.63653%2C52.46161%2C29.63226&amp;layer=mapnik&amp;marker=29.63333927247996%2C52.45676636695862"
     name = "map-marker"
     weight = 7
 
@@ -83,7 +83,7 @@ disqusShortname = "username" # delete this to disable disqus comments
 
 
 [[menu.icon]]
-    url = "https://www.linkedin.com/in/shiraz-lug-5291a2152/"
+    url = "https://www.linkedin.com/groups/8644227"
     name = "linkedin"
     weight = 8
 
