@@ -1,4 +1,4 @@
-baseURL = "https://shirazlug.gitlab.io/"
+baseURL = "http://shirazlug.ir/"
 languageCode = "en-us"
 title = "شیرازلاگ"
 theme = "minimal"
