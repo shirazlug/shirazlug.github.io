@@ -1,6 +1,6 @@
 ---
 title: "جلسه ۱۳۲"
-date: "1396-10-2"
+date: "1396-10-25"
 categories:
     - "sessions"
 ---
