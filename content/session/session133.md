@@ -1,6 +1,6 @@
 ---
 title: "جلسه ۱۳۳"
-date: "1396-11-9"
+date: "1396-10-25"
 categories:
     - "sessions"
 ---
