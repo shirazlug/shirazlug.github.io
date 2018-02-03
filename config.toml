@@ -5,7 +5,7 @@ theme = "minimal"
 disqusShortname = "username" # delete this to disable disqus comments
 
 [params]
-    author = "Nikkhah V., Khozaei A."
+    author = "Khozaei A."
     description = "به شیرازلاگ خوش آمدید :) لاگ به معنی گروه کاربران گنو/لینوکس است و از افراد مختلف که به منظور تبادل اطلاعات در حوزه‌ی نرم‌افزارهای آزاد و متن‌باز دور هم جمع می‌شوند، تشکیل شده است. اگر تمایل دارید دانش خود را با دیگران به اشتراک بگذارید یا کنجکاوید تا از تکنولوژی‌های آزاد جدید اطلاعاتی کسب کنید و یا از بودن در کنار چند دوست فعال در این زمینه لذت می‌برید، با ما همراه شوید. در ضمن، شرکت در جلسات برای عموم آزاد و رایگان است."
     githubUsername = "#"
     accent = "red"
@@ -15,7 +15,7 @@ disqusShortname = "username" # delete this to disable disqus comments
     highlight = true
     highlightStyle = "solarized-dark"
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift", "c++", "c", "python", "ruby"]
-    address = "آدرس: انتهای بلوار همت جنوبی، کوچه ۱۲، موسسه آموزش عالی زند"
+    address = "آدرس: خیابان ستارخان، انتهای خیابان نمازی، دانشگاه زند"
 [[menu.main]]
     url = "/"
     name = "خانه"
