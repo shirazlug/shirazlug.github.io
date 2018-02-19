@@ -5,5 +5,3 @@ categories:
     - "sessions"
 ---
 [![poster136](../../img/poster136.jpg)](../../img/poster136.jpg)
-
-
