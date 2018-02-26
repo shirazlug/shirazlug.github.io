@@ -5,4 +5,4 @@ description= " کارگاه عملی، پنجشنبه ۷ دی"
 weight= -1
 +++
 
-[![voip](../../img/voip-event.png)](../../img/voip-event.png)
+[![voip](../../img/voip-event.jpg)](../../img/voip-event.jpg)
