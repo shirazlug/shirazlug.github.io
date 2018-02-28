@@ -44,7 +44,7 @@ categories:
     <div class="modal-dialog">
         <div class="modal-content">
             <div class="modal-header">
-                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span><span class="sr-only">بستن</span></button>
                 <h4 class="modal-title" id="image-gallery-title"></h4>
             </div>
             <div class="modal-body">
@@ -52,13 +52,13 @@ categories:
             </div>
             <div class="modal-footer">
                 <div class="col-md-2">
-                    <button type="button" class="btn btn-primary" id="show-previous-image">Previous</button>
+                    <button type="button" class="btn btn-primary" id="show-previous-image">قبل</button>
                 </div>
                 <div class="col-md-8 text-justify" id="image-gallery-caption">
                     This text will be overwritten by jQuery
                 </div>
                 <div class="col-md-2">
-                    <button type="button" id="show-next-image" class="btn btn-default">Next</button>
+                    <button type="button" id="show-next-image" class="btn btn-default">بعد</button>
                 </div>
             </div>
         </div>
