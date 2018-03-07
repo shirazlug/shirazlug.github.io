@@ -1,9 +1,11 @@
-# This file is a template, and might need editing before it works on your project.
-# Full project: https://gitlab.com/pages/hugo
-image: publysher/hugo
+# All available Hugo versions are listed here: https://gitlab.com/pages/hugo/container_registry
+image: registry.gitlab.com/pages/hugo:latest
 
-before_script:
-  - hugo version
+test:
+  script:
+  - hugo
+  except:
+  - master
 
 pages:
   script:
@@ -13,13 +15,6 @@ pages:
     - public
   only:
   - master
-  
-test:
-  script:
-  - hugo
-  except:
-  - master
-
 
 
 # image: alpine:3.4
