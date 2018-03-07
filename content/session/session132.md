@@ -1,6 +1,7 @@
 ---
 title: "جلسه ۱۳۲"
 date: "1396-11-02"
+author: "مریم بهزادی"
 categories:
     - "sessions"
 ---

@@ -1,6 +1,7 @@
 ---
 title: "جلسه ۱۲۱"
 date: "1396-08-08"
+author: "وجیهه نیکخواه"
 categories:
     - "sessions"
 ---

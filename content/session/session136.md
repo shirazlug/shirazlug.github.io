@@ -1,6 +1,7 @@
 ---
 title: "جلسه ۱۳۶"
 date: "1396-11-30"
+author: "مریم بهزادی"
 categories:
     - "sessions"
 ---

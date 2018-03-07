@@ -1,6 +1,7 @@
 ---
 title: "جلسه ۱۲۴"
 date: "1396-08-29"
+author: "مریم بهزادی, وجیهه نیکخواه"
 categories:
     - "sessions"
 ---

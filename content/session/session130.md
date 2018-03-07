@@ -1,6 +1,7 @@
 ---
 title: "جلسه ۱۳۰"
 date: "1396-10-18"
+author: "مریم بهزادی"
 categories:
     - "sessions"
 ---

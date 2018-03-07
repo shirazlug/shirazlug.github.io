@@ -1,6 +1,7 @@
 ---
 title: "جلسه ۱۲۷"
 date: "1396-09-27"
+author: "مریم بهزادی"
 categories:
     - "sessions"
 ---

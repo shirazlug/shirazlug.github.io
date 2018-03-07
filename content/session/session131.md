@@ -1,6 +1,7 @@
 ---
 title: "جلسه ۱۳۱"
 date: "1396-10-25"
+author: "مریم بهزادی"
 categories:
     - "sessions"
 ---
