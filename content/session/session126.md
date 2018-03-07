@@ -1,6 +1,7 @@
 ---
 title: "جلسه ۱۲۶"
 date: "1396-09-20"
+author: "مریم بهزادی"
 categories:
     - "sessions"
 ---

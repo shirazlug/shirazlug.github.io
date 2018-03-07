@@ -1,6 +1,7 @@
 ---
 title: "جلسه ۱۲۸"
 date: "1396-10-04"
+author: "مریم بهزادی"
 categories:
     - "sessions"
 ---

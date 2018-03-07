@@ -1,6 +1,8 @@
 ---
 title: "جلسه ۱۳۳"
 date: "1396-11-09"
+author: "مریم بهزادی"
+
 categories:
     - "sessions"
 ---
@@ -52,13 +54,13 @@ categories:
             </div>
             <div class="modal-footer">
                 <div class="col-md-2">
-                    <button type="button" class="btn btn-primary" id="show-previous-image">قبل</button>
+                    <button type="button" class="btn btn-primary" id="show-previous-image">بعدی</button>
                 </div>
                 <div class="col-md-8 text-justify" id="image-gallery-caption">
                     This text will be overwritten by jQuery
                 </div>
                 <div class="col-md-2">
-                    <button type="button" id="show-next-image" class="btn btn-default">بعد</button>
+                    <button type="button" id="show-next-image" class="btn btn-default">قبلی</button>
                 </div>
             </div>
         </div>
