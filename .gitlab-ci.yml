@@ -1,11 +1,5 @@
-image: alpine:3.4
-
-before_script:
-  - apk update && apk add openssl
-  - wget https://github.com/gohugoio/hugo/releases/download/v0.30.2/hugo_0.30.2_Linux-64bit.tar.gz
-  # - echo "3fc43b23a35dfe5290196bd0fc01f13f hugo_0.19_Linux-64bit.tar.gz" | md5sum -c
-  - tar xf hugo_0.30.2_Linux-64bit.tar.gz && cp ./hugo /usr/bin/hugo
-  - hugo version
+# All available Hugo versions are listed here: https://gitlab.com/pages/hugo/container_registry
+image: registry.gitlab.com/pages/hugo:latest
 
 test:
   script:
@@ -21,3 +15,28 @@ pages:
     - public
   only:
   - master
+
+
+# image: alpine:3.4
+
+# before_script:
+#   - apk update && apk add openssl
+#   - wget https://github.com/gohugoio/hugo/releases/download/v0.30.2/hugo_0.30.2_Linux-64bit.tar.gz
+#   # - echo "3fc43b23a35dfe5290196bd0fc01f13f hugo_0.19_Linux-64bit.tar.gz" | md5sum -c
+#   - tar xf hugo_0.30.2_Linux-64bit.tar.gz && cp ./hugo /usr/bin/hugo
+#   - hugo version
+
+# test:
+#   script:
+#   - hugo
+#   except:
+#   - master
+
+# pages:
+#   script:
+#   - hugo
+#   artifacts:
+#     paths:
+#     - public
+#   only:
+#   - master
