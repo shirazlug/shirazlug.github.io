@@ -11,6 +11,7 @@
     {{ $related := first 3 (where (where (where .Site.Pages.ByDate.Reverse ".Type" "==" "post") ".Params.tags" "intersect" .Params.tags) "Permalink" "!=" .Permalink) }} {{ if $related }}
 
     <h4 class="page-header">Related</h4>
+    
 
     {{ range $related }} {{ partial "list-item" . }} {{ end }} {{ end }} {{ if and .Site.DisqusShortname (not .Params.disableComments) }}
 
