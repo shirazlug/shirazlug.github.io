@@ -1,6 +1,7 @@
 ---
 title: "جلسه ۱۱۷"
 date: "1396-07-10"
+author: "وجیهه نیکخواه"
 categories:
     - "sessions"
 ---

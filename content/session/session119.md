@@ -1,6 +1,7 @@
 ---
 title: "جلسه ۱۱۹"
 date: "1396-07-24"
+author: "وجیهه نیکخواه"
 categories:
     - "sessions"
 ---
