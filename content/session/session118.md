@@ -1,6 +1,7 @@
 ---
 title: "جلسه ۱۱۸"
 date: "1396-07-17"
+author: "وجیهه نیکخواه"
 categories:
     - "sessions"
 ---

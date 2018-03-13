@@ -1,6 +1,7 @@
 ---
 title: "جلسه ۱۲۰"
 date: "1396-08-01"
+author: "وجیهه نیکخواه"
 categories:
     - "sessions"
 ---

@@ -1,6 +1,7 @@
 ---
 title: "جلسه ۱۱۵"
 date: "1396-06-27"
+author: "وجیهه نیکخواه"
 categories:
     - "sessions"
 ---

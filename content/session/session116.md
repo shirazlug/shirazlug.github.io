@@ -1,6 +1,7 @@
 ---
 title: "جلسه ۱۱۶"
 date: "1396-07-03"
+author: "وجیهه نیکخواه"
 categories:
     - "sessions"
 ---
