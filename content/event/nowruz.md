@@ -6,4 +6,4 @@ weight= 2
 author= "مریم بهزادی"
 +++
 
-[![voip](../../img/norouz-event.jpg)](../../img/norouz-event.jpg)
+[![voip](../../img/events/nowruz.jpg)](../../img/events/nowruz.jpg)
