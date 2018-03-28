@@ -6,4 +6,4 @@ weight= 1
 author= "مریم بهزادی"
 +++
 
-[![voip](../../img/voip-event.jpg)](../../img/voip-event.jpg)
+[![voip](../../img/events/voip.jpg)](../../img/events/voip.jpg)
