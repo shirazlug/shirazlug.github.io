@@ -1,7 +1,7 @@
 +++
 title = "جلسه آینده"
 draft = false
-description= "نشست ۱۴۰. دوشنبه ۲۰ فروردین"
+description= "نشست ۱۴۱. دوشنبه ۲۷ فروردین"
 weight= -1
 +++
 
