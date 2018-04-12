@@ -1,8 +1,7 @@
 +++
 title = "جلسه آینده"
 draft = false
-description= "پیام تبریک عید نوروز"
-olddescription= "نشست ۱۳۹. دوشنبه ۲۳ اسفند"
+description= "نشست ۱۴۰. دوشنبه ۲۰ فروردین"
 weight= -1
 +++
 
