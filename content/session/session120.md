@@ -5,7 +5,7 @@ author: "وجیهه نیکخواه"
 categories:
     - "sessions"
 ---
-[![poster120](../../img/poster120.jpg)](../../img/poster120.jpg)
+[![poster120](../../img/posters/poster120.jpg)](../../img/poster120.jpg)
 
 صد و بیستمین جلسه شیرازلاگ در دانشگاه زند با ارائه امین خزاعی برگزار شد. در این جلسه امین به معرفی گنوم شل
  [Gnome Shell] (https://www.gnome.org/) پرداخت. 

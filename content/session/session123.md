@@ -5,7 +5,7 @@ author: "وجیهه نیکخواه"
 categories:
     - "sessions"
 ---
-[![poster123](../../img/poster123.jpg)](../../img/poster123.jpg)
+[![poster123](../../img/posters/poster123.jpg)](../../img/poster123.jpg)
 
 نشست صد و بیست و سوم شیرازلاگ با ارائه مریم بهزادی در دانشگاه زند برگزار شد. خانم بهزادی در این ارائه به معرفی ابزار [latex](https://www.latex-project.org/)
 پرداختند. 

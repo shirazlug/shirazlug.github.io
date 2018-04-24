@@ -5,7 +5,7 @@ author: "مریم بهزادی"
 categories:
     - "sessions"
 ---
-[![poster135](../../img/poster135.jpg)](../../img/poster135.jpg)
+[![poster135](../../img/posters/poster135.jpg)](../../img/poster135.jpg)
 
 صد و سی و پنجمین نشست شیرازلاگ در دانشگاه زند با ارائه هادی یداللهی و موضوع توانمندسازی سازمان‌های مردم‌نهاد برگزار شد.
 

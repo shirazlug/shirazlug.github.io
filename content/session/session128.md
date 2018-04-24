@@ -5,7 +5,7 @@ author: "مریم بهزادی"
 categories:
     - "sessions"
 ---
-[![poster127](../../img/poster128.jpg)](../../img/poster127.jpg)
+[![poster127](../../img/posters/poster128.jpg)](../../img/poster127.jpg)
 
 صد و بیست و هشتمین نشست شیرازلاگ، با موضوع آشنایی با برنامه نویسی Ruby در دانشگاه زند و با ارائه گودرز جعفری برگزار شد.
 
