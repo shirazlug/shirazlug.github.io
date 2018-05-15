@@ -11,4 +11,8 @@ categories:
 
 فایل های این ارائه را می توانید از 
 [اینجا](https://gitlab.com/shirazlug/resources/tree/master/presentations/session_141)
+یا
+[قسمت اول](https://www.slideshare.net/ShirazLUG/ss-97134225)
+و
+[قسمت دوم](https://www.slideshare.net/ShirazLUG/ss-97134890)
 دانلود کنید.
