@@ -1,7 +1,7 @@
 ---
 title: "جلسه ۱۴۳"
 date: "1397-02-10"
-author: "امین خزاعی"
+author: "امین خزاعی، وجیهه نیکخواه"
 categories:
     - "sessions"
 ---
