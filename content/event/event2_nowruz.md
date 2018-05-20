@@ -4,6 +4,7 @@ draft = false
 description= "پیام تبریک عید نوروز"
 weight= 2
 author= "مریم بهزادی"
+date= "1397-01-01"
 +++
 
-[![voip](../../img/events/nowruz.jpg)](../../img/events/nowruz.jpg)
+[![nowruz](../../img/events/nowruz.jpg)](../../img/events/nowruz.jpg)
