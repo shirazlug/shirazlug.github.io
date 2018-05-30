@@ -31,6 +31,16 @@ categories:
             </a>
         </div>
         <div class="col-lg-4 col-md-4 col-xs-6 thumb">
+            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="../../img/photo_2018-05-30_11-27-06.jpg" data-target="#image-gallery">
+                <img class="img-responsive" src="../../img/photo_2018-05-30_11-27-06.jpg" alt="جلسات هفتگی شیرازلاگ">
+            </a>
+        </div>
+        <div class="col-lg-4 col-md-4 col-xs-6 thumb">
+            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="../../img/photo_2018-05-30_11-27-10.jpg" data-target="#image-gallery">
+                <img class="img-responsive" src="../../img/photo_2018-05-30_11-27-10.jpg" alt="جلسات هفتگی شیرازلاگ">
+            </a>
+        </div>
+        <div class="col-lg-4 col-md-4 col-xs-6 thumb">
             <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="../../img/photo_2018-04-23_20-24-17.jpg" data-target="#image-gallery">
                 <img class="img-responsive" src="../../img/photo_2018-04-23_20-24-17.jpg" alt="جلسات هفتگی شیرازلاگ">
             </a>
