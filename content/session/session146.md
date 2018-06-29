@@ -6,7 +6,7 @@ draft: false
 categories:
     - "sessions"
 ---
-[![poster145](../../img/posters/poster146.jpg)](../../img/poster146.jpg)
+[![poster146](../../img/posters/poster146.jpg)](../../img/poster146.jpg)
 
 صد و چهل و ششمین نشست شیرازلاگ با ارائه سید رحیم فیروزی در دانشگاه شیراز با محوریت پروژه های پیشنهادی fsf و گنو، برگزار شد.
 
