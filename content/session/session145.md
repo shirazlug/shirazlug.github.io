@@ -30,6 +30,12 @@ categories:
 از اون جایی که این جلسه استقبال زیادی از موضوع و ارائه شد، و همچنین به دلیل درخواست مکرر دوستان در رابطه با ادامه مبحث، سعی می کنیم در آینده جلسات یا کارگاه هایی در این زمینه داشته باشیم.
 
 
+فایل های این ارائه را می توانید از 
+[اینجا](https://gitlab.com/shirazlug/resources/tree/master/presentations/session_145) 
+یا
+[اینجا](https://www.slideshare.net/ShirazLUG/embedded-linux-103645191) 
+دانلود کنید.
+
 <div class="row">
     <div class="col-lg-12">
         <h1 class="page-header">گالری تصاویر</h1>    
