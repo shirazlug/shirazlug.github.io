@@ -1,7 +1,7 @@
 ---
 title: "جلسه ۱۴۶"
 date: "1397-03-21"
-author: "وجیهه نیکخواه"
+author: "وجیهه نیکخواه، مریم بهزادی"
 draft: false
 categories:
     - "sessions"
@@ -30,7 +30,9 @@ categories:
  **آقای محمود توافقی**
 
  **آقای گودرز جعفری**
-
+	
 فایل های این ارائه را می توانید از 
 [اینجا](https://gitlab.com/shirazlug/resources/tree/master/presentations/session_146) 
+یا
+[اینجا](https://www.slideshare.net/ShirazLUG/gnu-fsf) 
 دانلود کنید.
