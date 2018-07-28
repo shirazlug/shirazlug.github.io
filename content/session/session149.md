@@ -1,7 +1,7 @@
 ---
 title: "جلسه ۱۴۹"
 date: "1397-05-08"
-author: "وجیهه نیکخواه"
+author: "فرزانه نجفی"
 draft: false
 categories:
     - "sessions"
