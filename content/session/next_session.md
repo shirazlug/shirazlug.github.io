@@ -1,8 +1,8 @@
 +++
 title = "جلسه آینده"
 draft = false
-description= "نشست ۱۵۰. دوشنبه ۲۲ مرداد ماه"
+description= "نشست ۱۵۱. دوشنبه ۵ شهریور ماه"
 weight= -1
 +++
 
-[![next_session](../../img/next_session.jpg)](../../img/next_session.jpg)
+[![next_session](../../img/next_session.png)](../../img/next_session.png)
