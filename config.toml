@@ -1,5 +1,5 @@
 baseURL = "https://shirazlug.ir/"
-languageCode = "en-us"
+languageCode = "fa-IR"
 title = "شیرازلاگ"
 theme = "minimal"
 disqusShortname = "username" # delete this to disable disqus comments
@@ -15,7 +15,7 @@ disqusShortname = "username" # delete this to disable disqus comments
     highlight = true
     highlightStyle = "solarized-dark"
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift", "c++", "c", "python", "ruby"]
-    address = "آدرس: میدان نمازی، ساختمان فنی مهندسی یک، کلاس ۲۱۸"
+    address = "آدرس: بولوار مدرس، روبروی فضل آباد، دانشگاه صنعتی شیراز، ساختمان مدیریت"
 [[menu.main]]
     url = "/"
     name = "خانه"
@@ -27,8 +27,8 @@ disqusShortname = "username" # delete this to disable disqus comments
     weight = 5
 
 [[menu.main]]
-    url = "/about/"
-    name = "درباره ما"
+    url = "/post/"
+    name = "پست های آزاد"
     weight = 4
 
 [[menu.main]]
@@ -42,15 +42,15 @@ disqusShortname = "username" # delete this to disable disqus comments
     weight = 2
 
 [[menu.main]]
-    url = "/post/"
-    name = "پست های آزاد"
+    url = "/about/"
+    name = "درباره ما"
     weight = 1
 
 # Social icons to be shown on the right-hand side of the navigation bar
 # The "name" field should match the name of the icon to be used
 # The list of available icons can be found at http://fontawesome.io/icons/
 [[menu.icon]]
-    url = "http://www.openstreetmap.org/export/embed.html?bbox=52.52060025930405%2C29.630067105274705%2C52.523593604564674%2C29.631512607278584&amp;layer=mapnik&amp;marker=29.630789858869484%2C52.52209693193436"
+    url = "https://www.openstreetmap.org/export/embed.html?bbox=52.57729303797534%2C29.582537620493266%2C52.58231413325122%2C29.585653886990446&amp;layer=mapnik&amp;marker=29.584095765769607%2C52.57980358561326"
     name = "map-marker"
     weight = 7
 
