@@ -15,7 +15,7 @@ disqusShortname = "username" # delete this to disable disqus comments
     highlight = true
     highlightStyle = "solarized-dark"
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift", "c++", "c", "python", "ruby"]
-    address = "آدرس: بولوار مدرس، روبروی فضل آباد، دانشگاه صنعتی شیراز، ساختمان مدیریت"
+    address = "آدرس: بولوار مدرس، روبروی فضل آباد، دانشگاه صنعتی شیراز"
 [[menu.main]]
     url = "/"
     name = "خانه"
