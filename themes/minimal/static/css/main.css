@@ -63,9 +63,9 @@ main {
     font-weight: bold;
 }
 
-.intro>h2 {
+.intro>h3 {
     color: #757575;
-    font-size: 3vmin;
+    /* font-size: 3vmin; */
     text-align: justify;
     text-justify: inter-word;
     font-weight: 600;
