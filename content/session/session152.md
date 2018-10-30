@@ -6,4 +6,4 @@ draft: false
 categories:
     - "sessions"
 ---
-[![poster152](../../img/posters/poster152.png)](../../img/poster152.png)
+[![poster152](../../img/posters/poster152.jpg)](../../img/poster152.jpg)
