@@ -1,13 +1,13 @@
 ---
-title: "جلسه ۱۵4"
+title: "جلسه ۱۵۴"
 date: "1397-07-26"
 author: "آرمان علی قنبری"
 draft: false
 categories:
     - "sessions"
 ---
-[![poster151](../../img/posters/poster154.png)](../../img/poster154.png)
-صد وپجاه و چهارمین جلسه لاگ با اراعه امین خزاعی با موضوع اشنایی با زبان cبه معرفی کتاب خانه های پر کاربرد و کاربرد     زبان c در  محل دانشگاه صنعتی شیراز پرداخت
+[![poster154](../../img/posters/poster154.png)](../../img/poster154.png)
+صد و پنجاه و چهارمین جلسه لاگ با ارائه امین خزاعی با موضوع آشنایی با زبان C و کاربردهای آن در دانشگاه صنعتی برگزار شد. امین در این جلسه به معرفی این زبان پرکاربرد پرداخت و به کاربردهای بیشمار آن اشاره کرد. همچنین کتابخانه‌های مختلف این زبان معرفی شدند.
 
 <div class="row">
     <div class="col-lg-12">
@@ -18,7 +18,7 @@ categories:
             </a>
         </div>
             <div class="col-lg-4 col-md-4 col-xs-6 thumb">
-            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="../../img/photo_2018-08-28_08-37-59.jpg" data-target="#image-gallery">
+            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="../../img/photo_2018-10-17_23-51-59.jpg" data-target="#image-gallery">
                 <img class="img-responsive" src="../../img/photo_2018-10-17_23-51-59.jpg" alt="جلسات هفتگی شیرازلاگ">
             </a>
         </div>
@@ -27,15 +27,11 @@ categories:
                 <img class="img-responsive" src="../../img/photo_2018-10-17_23-52-04.jpg" alt="جلسات هفتگی شیرازلاگ">
             </a>
         </div>
-<div class="row">
-    <div class="col-lg-12">
-        <h1 class="page-header">گالری تصاویر</h1>    
-            <div class="col-lg-4 col-md-4 col-xs-6 thumb">
-            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="../../img/photo_2018-10-17_23-52-06.jpg" data-target="#image-gallery">
-              <img class="img-responsive" src="../../img/photo_2018-10-17_23-52-06.jpg" alt="جلسات هفتگی شیرازلاگ">
- </a>
-        </div>
-</div>
+        <div class="col-lg-4 col-md-4 col-xs-6 thumb">
+        <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="../../img/photo_2018-10-17_23-52-06.jpg" data-target="#image-gallery">
+          <img class="img-responsive" src="../../img/photo_2018-10-17_23-52-06.jpg" alt="جلسات هفتگی شیرازلاگ">
+        </a>
+    </div>
 
 <div class="modal fade" id="image-gallery" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
     <div class="modal-dialog">
