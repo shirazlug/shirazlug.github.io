@@ -51,7 +51,7 @@ disqusShortname = "username" # delete this to disable disqus comments
 # The "name" field should match the name of the icon to be used
 # The list of available icons can be found at http://fontawesome.io/icons/
 [[menu.icon]]
-    url = "https://www.openstreetmap.org/export/embed.html?bbox=52.57729303797534%2C29.582537620493266%2C52.58231413325122%2C29.585653886990446&amp;layer=mapnik&amp;marker=29.584095765769607%2C52.57980358561326"
+    url = "https://osm.org/go/zGYksxTI0-?layers=N"
     name = "map-marker"
     weight = 7
 
