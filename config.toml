@@ -94,6 +94,6 @@ disqusShortname = "username" # delete this to disable disqus comments
     weight = 9
 
 [[menu.icon]]
-    url = "https://gitlab.com/shirazlug"
+    url = "https://framagit.org/shirazlug"
     name = "gitlab"
     weight = 1
