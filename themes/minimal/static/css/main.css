@@ -147,3 +147,7 @@ footer {
     display: block;
     margin: auto;
 }
+
+img[alt^='poster']{
+    width: 90%;
+}
