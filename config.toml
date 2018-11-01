@@ -14,7 +14,7 @@ disqusShortname = "username" # delete this to disable disqus comments
     font = "Vazir"#"Raleway" #vazir  # should match the name on Google Fonts!
     highlight = true
     highlightStyle = "monokai"
-    highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift", "c++", "c", "python", "ruby"]
+    highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift", "c++", "c", "python", "ruby", "bash", "toml"]
     address = "آدرس: خ همت جنوبی، کوچه ۱۰/۲، سالن همایش امام رضا (ع)"
     # address = "آدرس: بولوار مدرس، روبروی فضل آباد، دانشگاه صنعتی شیراز"
 [[menu.main]]

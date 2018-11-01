@@ -149,5 +149,9 @@ footer {
 }
 
 img[alt^='poster']{
-    width: 90%;
+    width: 100%;
+}
+
+code{
+    direction: ltr;
 }
