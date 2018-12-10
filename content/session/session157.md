@@ -7,14 +7,15 @@ categories:
     - "sessions"
 ---
 [![poster157](../../img/posters/session157.jpg)](../../img/session157.png)
-  
-صد و پنجاه و ششمین جلسه لاگ با ارایه ‍ پویا برزگر در خانه فرهنگ واقع در دانشگاه صنعتی شیراز در تاریخ ۹۷/۸/۲۳ با موضوع  web scrapingبا پایتون با حضور جمعی از دوستان وعلاقه مندان برگزار شد .در این جلسه پویا با پکیج پایتونBeautiful Soup به استخراج اطلاعات سایت های دیوار , مکتب خونه وarch linuxپرداخت وکاربد های این پکیج رادر data miningبه ما نشان داد 
+
+پswwedrrrcgccfdcfctcc4ctcc
 
 <div class="row">
     <div class="col-lg-12">
         <h1 class="page-header">گالری تصاویر</h1>    
             <div class="col-lg-4 col-md-4 col-xs-6 thumb">
-            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="../../img/446424416_464765.jpg" data-target="#image-gallery">
+            <a class="thumbnail" href="#" d </a>
+    </div>ata-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="../../img/446424416_464765.jpg" data-target="#image-gallery">
               <img class="img-responsive" src="../../img/446424416_464765.jpg" 
               alt="جلسات هفتگی شیرازلاگ">
             </a>
