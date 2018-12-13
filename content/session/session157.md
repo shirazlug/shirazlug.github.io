@@ -1,6 +1,6 @@
 ---
 title: "جلسه 157"
-date: "1397-09-7"
+date: "1397-09-07"
 author: "ارمان علی قنبری"
 draft: false
 categories:
