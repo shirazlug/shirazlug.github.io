@@ -6,45 +6,32 @@ draft: false
 categories:
     - "sessions"
 ---
-[![poster157](../../img/posters/session157.jpg)](../../img/session157.png)
+[![poster157](../../img/posters/session157.jpg)](../..۷/img/session157)
 
-پswwedrrrcgccfdcfctcc4ctcc
+صد و پنجاه هفتمین جلسه شیراز لاگ باموضوع تور در خانه فرهنگ دانشگاه صنعتی شیراز برگزار شد .در این نشست مهندس مولایی به توضیح نحوه نصب وراه انذازی torکاربرد  هاو وسرویس های مخفی درtor  پرداخت.
 
 <div class="row">
     <div class="col-lg-12">
         <h1 class="page-header">گالری تصاویر</h1>    
             <div class="col-lg-4 col-md-4 col-xs-6 thumb">
-            <a class="thumbnail" href="#" d </a>
-    </div>ata-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="../../img/446424416_464765.jpg" data-target="#image-gallery">
-              <img class="img-responsive" src="../../img/446424416_464765.jpg" 
+            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="../../img/photo_2018-12-14_01-29-12.jpg" data-target="#image-gallery">
+              <img class="img-responsive" src="../../img/photo_2018-12-14_01-29-12.jpg" 
               alt="جلسات هفتگی شیرازلاگ">
             </a>
         </div>
-            <div class="col-lg-4 col-md-4 col-xs-6 thumb">
-            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="../../img/446429351_463607.jpg" data-target="#image-gallery">
-                <img class="img-responsive" src="../../img/446429351_463607.jpg" 
-                alt="جلسات هفتگی شیرازلاگ">
-            </a>
-        </div>
-            <div class="col-lg-4 col-md-4 col-xs-6 thumb">
-            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="../..//img/446516405_464281.jpg" data-target="#image-gallery">
-                <img class="img-responsive" src="../..//img/446516405_464281.jpg" 
-                alt="جلسات هفتگی شیرازلاگ">
-            </a>
-        </div>
-        <div class="col-lg-4 col-md-4 col-xs-6 thumb">
-        <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="../..//img/448409712_329772.jpg" data-target="#image-gallery">
-          <img class="img-responsive" src="../../img/448409712_329772.jpg" 
-          alt="جلسات هفتگی شیرازلاگ">
-        </a>
-    </div>
-        <div class="col-lg-4 col-md-4 col-xs-6 thumb">
-        <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="../../img/449014880_54361.jpg" data-target="#image-gallery">
-          <img class="img-responsive" src="../../img/449014880_54361.jpg" 
-          alt="جلسات هفتگی شیرازلاگ">
-        </a>
-    </div>
 
+  <div class="col-lg-4 col-md-4 col-xs-6 thumb">
+            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="../../img/photo_2018-11-28_23-29-16.jpg" data-target="#image-gallery">
+                <img class="img-responsive" src="../../img/photo_2018-11-28_23-29-16.jpg" 
+                alt="جلسات هفتگی شیرازلاگ">
+            </a>
+        </div>
+            <div class="col-lg-4 col-md-4 col-xs-6 thumb">
+            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="../..//img/photo_2018-11-28_23-29-27.jpg" data-target="#image-gallery">
+                <img class="img-responsive" src="../..//img/photo_2018-11-28_23-29-27.jpg" 
+                alt="جلسات هفتگی شیرازلاگ">
+            </a>
+        </div>
 <div class="modal fade" id="image-gallery" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
     <div class="modal-dialog">
         <div class="modal-content">
