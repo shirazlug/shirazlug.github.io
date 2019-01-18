@@ -16,8 +16,8 @@ disqusShortname = "username" # delete this to disable disqus comments
     highlightStyle = "monokai"
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift", "c++", "c", "python", "ruby", "bash", "toml"]
     # address = "آدرس: خ همت جنوبی، کوچه ۱۰/۲، سالن همایش امام رضا (ع)"
-    # address = "آدرس: ستارخان، انتهای خ نمازی، دانشگاه زند، سالن همایش"
-    address = "آدرس: بولوار مدرس، روبروی فضل آباد، دانشگاه صنعتی شیراز"
+    address = "آدرس: ستارخان، انتهای خ نمازی، دانشگاه زند، سالن همایش"
+    #address = "آدرس: بولوار مدرس، روبروی فضل آباد، دانشگاه صنعتی شیراز"
 [[menu.main]]
     url = "/"
     name = "خانه"
