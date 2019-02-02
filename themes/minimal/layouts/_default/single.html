@@ -2,7 +2,13 @@
 
 <main>
 
-    {{ partial "list-item" . }}
+    <!-- {{ partial "list-item" . }}  -->
+
+    <h4><a href="{{ .Scratch.Get "link" }}">{{ .Title }}</a></h4>
+
+    <h5>نویسنده: {{ if isset .Params "author" }} {{ .Params.author }} {{else }} {{ .Site.Params.author }} {{end}}
+        &nbsp; &nbsp; &nbsp; &nbsp;
+        {{ $.Scratch.Get "subtitle" }}</h5>
 
     <br>
     <div class="text-justify post-content">{{ .Content }}</div>
