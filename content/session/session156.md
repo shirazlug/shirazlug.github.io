@@ -6,7 +6,7 @@ draft: false
 categories:
     - "sessions"
 ---
-[![poster156](../../img/posters/session156.jpg)](../../img/session156.png)
+[![poster156](../../img/posters/poster156.jpg)](../../img/poster156.png)
   
 صد و پنجاه و ششمین جلسه لاگ با ارایه ‍ پویا برزگر در خانه فرهنگ واقع در دانشگاه صنعتی شیراز در تاریخ ۹۷/۸/۲۳ با موضوع  web scrapingبا پایتون با حضور جمعی از دوستان وعلاقه مندان برگزار شد .در این جلسه پویا با پکیج پایتونBeautiful Soup به استخراج اطلاعات سایت های دیوار , مکتب خونه وarch linuxپرداخت وکاربد های این پکیج رادر data miningبه ما نشان داد 
 

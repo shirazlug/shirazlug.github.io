@@ -6,7 +6,7 @@ draft: false
 categories:
     - "sessions"
 ---
-[![poster157](../../img/posters/session157.jpg)](../..۷/img/session157)
+[![poster157](../../img/posters/poster157.jpg)](../..۷/img/poster157)
 
 صد و پنجاه هفتمین جلسه شیراز لاگ باموضوع تور در خانه فرهنگ دانشگاه صنعتی شیراز برگزار شد .در این نشست مهندس مولایی به توضیح نحوه نصب وراه انذازی torکاربرد  هاو وسرویس های مخفی درtor  پرداخت.
 
