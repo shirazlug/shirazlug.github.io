@@ -1,5 +1,5 @@
 ---
-title: "جلسه 160"
+title: "جلسه ۱۶۰"
 date: "1397-10-19"
 author: "ارمان علی قنبری"
 draft: false
