@@ -1,8 +1,7 @@
 +++
 title = "سال نو مبارک"
 draft = false
-description= "پیام تبریک عید نوروز"
-weight= 2
+description= "پیام تبریک عید نوروز ۹۷"
 author= "مریم بهزادی"
 date= "1397-01-01"
 +++
