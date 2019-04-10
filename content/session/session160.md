@@ -1,5 +1,6 @@
 ---
 title: "جلسه ۱۶۰"
+description: "بینایی ماشین"
 date: "1397-10-19"
 author: "ارمان علی قنبری"
 draft: false

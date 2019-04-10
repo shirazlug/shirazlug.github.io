@@ -1,5 +1,6 @@
 ---
 title: "جلسه ۱۴۰"
+description: "تجربه عملی بلاک‌چین با پایتون"
 date: "1397-01-20"
 author: "مریم بهزادی"
 categories:

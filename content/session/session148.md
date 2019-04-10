@@ -1,5 +1,6 @@
 ---
 title: "جلسه ۱۴۸"
+description: "پردازش زبان طبیعی"
 date: "1397-04-25"
 author: "وجیهه نیکخواه"
 draft: false

@@ -1,5 +1,6 @@
 ---
 title: "جلسه ۱۵۱"
+description: "گیت پیشرفته"
 date: "1397-06-05"
 author: "گودرز جعفری"
 draft: false

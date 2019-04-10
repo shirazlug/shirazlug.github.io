@@ -1,5 +1,6 @@
 ---
 title: "جلسه ۱۴۱"
+description: "اصول پایه Video و Audio دیجیتال"
 date: "1397-01-27"
 author: "مریم بهزادی"
 categories:

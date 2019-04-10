@@ -1,5 +1,6 @@
 ---
 title: "جلسه ۱۶۱"
+description: "موتور بازی‌سازی Godot"
 date: "1397-11-03"
 author: "مریم بهزادی"
 draft: false
