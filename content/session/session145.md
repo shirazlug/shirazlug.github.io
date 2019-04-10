@@ -1,5 +1,6 @@
 ---
 title: "جلسه ۱۴۵"
+description: "Embedded Linux"
 date: "1397-03-07"
 author: "مریم بهزادی"
 draft: false

@@ -1,5 +1,6 @@
 ---
 title: "جلسه ۱۴۲"
+description: "گرافیک دو بعدی در HTML5"
 date: "1397-02-03"
 author: "مریم بهزادی"
 categories:

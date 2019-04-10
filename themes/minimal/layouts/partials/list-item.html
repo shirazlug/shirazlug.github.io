@@ -12,7 +12,7 @@
         &nbsp; &nbsp; &nbsp; &nbsp;
         {{ $.Scratch.Get "subtitle" }}</h5> -->
 
-        <h5>{{ $.Scratch.Get "subtitle" }}</h5>
+        <h5>{{ .Date.Format "2006/01/02" }} - {{ .Description }}</h5>
     
     <!--h5>{{ .Date }}</h5-->
     {{ range .Params.tags }} <kbd class="item-tag">{{ . }}</kbd> {{ end }}

@@ -1,5 +1,6 @@
 ---
 title: "جلسه ۱۵۰"
+description: "زبان توصیفی QML"
 date: "1397-05-22"
 author: "گودرز جعفری"
 draft: false

@@ -1,5 +1,6 @@
 ---
 title: "جلسه ۱۵۴"
+description: "آشنایی با زبان C و کاربردهای آن"
 date: "1397-07-26"
 author: "آرمان علی قنبری"
 draft: false

@@ -1,5 +1,6 @@
 ---
 title: "جلسه ۱۶۲"
+description: "وب معنایی"
 date: "1397-11-17"
 author: "مریم بهزادی"
 draft: false
