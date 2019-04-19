@@ -43,6 +43,7 @@ categories:
                 <img class="img-responsive" src="../../img/IMG_20190406_075637.jpg"
                 alt="جلسات هفتگی شیرازلاگ">
             </a>
+ </div>
 <div class="modal fade" id="image-gallery" tabindex="-1" role="dialog" aria-
  aria-labelledby="myModalLabel" aria-hidden="true">
     <div class="modal-dialog">
@@ -67,4 +68,5 @@ categories:
             </div>
         </div>
     </div>
+</div>
 </div>
