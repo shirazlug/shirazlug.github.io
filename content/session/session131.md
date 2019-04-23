@@ -1,5 +1,6 @@
 ---
 title: "جلسه ۱۳۱"
+description: "رام‌های اندروید (ادامه)"
 date: "1396-10-25"
 author: "مریم بهزادی"
 categories:

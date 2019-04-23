@@ -1,5 +1,6 @@
 ---
 title: "جلسه ۱۳۷"
+description: "تکنولوژی‌های مربوط به DevOps"
 date: "1396-12-07"
 author: "مریم بهزادی"
 categories:

@@ -1,5 +1,6 @@
 ---
 title: "جلسه ۱۳۴"
+description: "کنترل ورژن گیت"
 date: "1396-11-16"
 author: "مریم بهزادی"
 categories:

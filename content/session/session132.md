@@ -1,5 +1,6 @@
 ---
 title: "جلسه ۱۳۲"
+description: "زبان برنامه‌نویسی Lua"
 date: "1396-11-02"
 author: "مریم بهزادی"
 categories:
