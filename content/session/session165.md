@@ -2,7 +2,7 @@
 title: "جلسه ۱۶۵"
 description: "مروری بر واژگان و فلسفه نرم افزار آزاد"
 date: "1398-01-21"
-author: "ارمان علی قنبری"
+author: "آرمان علی قنبری"
 draft: false
 categories:
     - "sessions"

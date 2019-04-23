@@ -2,7 +2,7 @@
 title: "جلسه ۱۶۰"
 description: "بینایی ماشین"
 date: "1397-10-19"
-author: "ارمان علی قنبری"
+author: "آرمان علی قنبری"
 draft: false
 categories:
     - "sessions"

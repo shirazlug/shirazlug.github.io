@@ -2,7 +2,7 @@
 title: "جلسه 156"
 description: "وب اسکرپینگ با پایتون"
 date: "1397-08-23"
-author: "ارمان علی قنبری"
+author: "آرمان علی قنبری"
 draft: false
 categories:
     - "sessions"
