@@ -1,5 +1,6 @@
 ---
 title: "جلسه ۱۳۹"
+description: "برنامه‌نویسی مستقل از پلتفرم با استفاده از C#/.NetCore"
 date: "1396-12-21"
 author: "مریم بهزادی"
 categories:

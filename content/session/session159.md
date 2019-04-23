@@ -2,7 +2,7 @@
 title: "جلسه 159"
 description: "systemd"
 date: "1397-10-05"
-author: "ارمان علی قنبری"
+author: "آرمان علی قنبری"
 draft: false
 categories:
     - "sessions"

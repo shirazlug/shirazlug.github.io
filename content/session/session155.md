@@ -2,7 +2,7 @@
 title: "جلسه ۱۵۵"
 description: "بدافزارهای تحت شبکه"
 date: "1397-08-09"
-author: "ارمان علی قنبری"
+author: "آرمان علی قنبری"
 draft: false
 categories:
     - "sessions"
