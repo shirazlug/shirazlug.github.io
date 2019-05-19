@@ -1,5 +1,6 @@
 ---
 title: "جلسه ۱۲۱"
+description: "تکنولوژی های موجود در HTML5"
 date: "1396-08-08"
 author: "وجیهه نیکخواه"
 categories:

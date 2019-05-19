@@ -1,5 +1,6 @@
 ---
 title: "جلسه ۱۲۸"
+description: "آشنایی با زبان برنامه‌نویسی Ruby"
 date: "1396-10-04"
 author: "مریم بهزادی"
 categories:

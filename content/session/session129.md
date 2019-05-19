@@ -1,5 +1,6 @@
 ---
 title: "جلسه ۱۲۹"
+description: "Fish Shell"
 date: "1396-10-11"
 author: "مریم بهزادی"
 categories:

@@ -1,5 +1,6 @@
 ---
 title: "جلسه ۱۲۰"
+description: "گنوم شل (Gnome Shell)"
 date: "1396-08-01"
 author: "وجیهه نیکخواه"
 categories:

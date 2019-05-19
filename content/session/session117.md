@@ -1,5 +1,6 @@
 ---
 title: "جلسه ۱۱۷"
+description: "طراحی رابط کاربری وب با استفاده از Vue.js"
 date: "1396-07-10"
 author: "وجیهه نیکخواه"
 categories:

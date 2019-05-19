@@ -1,5 +1,6 @@
 ---
 title: "جلسه ۱۲۴"
+description: "آشنایی با کتابخانه STL در ++C"
 date: "1396-08-29"
 author: "مریم بهزادی, وجیهه نیکخواه"
 categories:

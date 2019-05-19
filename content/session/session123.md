@@ -1,5 +1,6 @@
 ---
 title: "جلسه ۱۲۳"
+description: "آشنایی با LaTeX"
 date: "1396-08-22"
 author: "وجیهه نیکخواه"
 categories:

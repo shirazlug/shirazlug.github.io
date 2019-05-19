@@ -1,5 +1,6 @@
 ---
 title: "جلسه ۱۲۵"
+description: "SEO & SMO"
 date: "1396-09-13"
 author: "مریم بهزادی"
 categories:
