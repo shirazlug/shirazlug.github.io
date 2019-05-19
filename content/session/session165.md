@@ -2,7 +2,7 @@
 title: "جلسه ۱۶۵"
 description: "مروری بر واژگان و فلسفه نرم افزار آزاد"
 date: "1398-01-21"
-author: "آرمان علی قنبری"
+author: "آرمان علی قنبری، زهره بیضاوی"
 draft: false
 categories:
     - "sessions"
@@ -12,7 +12,7 @@ categories:
 
 صد و شصت و ‍‍‍‍‍پنجمین نشست شیرازلاگ با حضور جمعی از اعضا و علاقه مندان به نرم افزار ازاد در دانشگاه صنعتی شیراز برگزار شد. در این جلسه مهندس بابک رزمجو به تو ضیح تاریخچه GNU،استفاده از GNU/Linux به جای واژه linux وچالش  های پیش روی نرم افزار ازاد ،copyleft و اهمیت استفاده از نرم افزارهای ازاد پرداخت    
 
-فایل های این ارائه را می توانید از [اینجا](https://gitlab.com/shirazlug/resources/tree/master/presentations/session_165)
+فایل های این ارائه را می توانید از [اینجا](https://framagit.org/shirazlug/resources/tree/master/presentations/session_165)
 دریافت کنید.
 
 <div class="row">
