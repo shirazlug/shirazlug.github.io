@@ -1,10 +1,10 @@
 
 +++
-title = "جلسه آینده: نشست ۱۶۶ شیرازلاگ"
+title = "جلسه آینده: نشست ۱۶۸ شیرازلاگ"
 session = ""
 draft = false
-date = "1398-02-04"
-description= "پردازش موازی در C++/C با OpenMP"
+date = "1398-03-01"
+description= "پروژه Jupyter و اکوسیستم آن"
 weight= -1
 +++
 
