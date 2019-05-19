@@ -1,5 +1,6 @@
 ---
-title: "جلسه‌ی صفرم: معرفی لاگ شیراز"
+title: "جلسه ۰"
+description: "معرفی شیرازلاگ"
 date: "1393-10-18"
 categories:
     - "sessions"

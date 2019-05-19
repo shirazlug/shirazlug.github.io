@@ -1,5 +1,6 @@
 ---
 title: "جلسه ۱۱۹"
+description: "inkscape برای طراحان گرافیک"
 date: "1396-07-24"
 author: "وجیهه نیکخواه"
 categories:
