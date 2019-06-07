@@ -2,7 +2,7 @@
 title: "جلسه ۱۶۸"
 description: "openstack"
 date: "1398-02-18"
-author: "آرمان علی قنبری, مریم بهزادی"
+author: "مریم بهزادی"
 draft: false
 categories:
     - "sessions"
