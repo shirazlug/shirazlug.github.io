@@ -61,8 +61,3 @@ notebooks، text editors، terminals و اجزای دیگر را در تب و پ
 • [IPython/Jupyter Workshop at the NGCM Summer Academy, 2017](https://github.com/jupyter/ngcm-tutorial)
 
 • [LIGO, the 2017 Nobel prize in physics, and wrapping up Makefiles](https://berkeley-stat159-f17.github.io/stat159-f17/lectures/08-ligo-make.html)
-
-
-
-
-

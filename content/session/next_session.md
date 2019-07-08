@@ -1,9 +1,9 @@
 ---
-title: "جلسه آینده: نشست ۱۷۰ شیرازلاگ"
+title: "جلسه آینده: نشست ۱۷۱ شیرازلاگ"
 author: "مریم بهزادی"
 draft: false
-date: "1398-04-05"
-description: "Webmin"
+date: "1398-04-19"
+description: "انتخابات دوره راهبری ۹۸"
 weight: -1
 ---
 
