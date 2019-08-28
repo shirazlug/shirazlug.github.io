@@ -2,14 +2,12 @@
 title: "جلسه ۱۶۴"
 description: "میزگرد با موضوع رزولوشن شیرازلاگ و اعضا در سال جدید"
 date: "1397-12-15"
-author: "مریم بهزادی"
+author: "مریم بهزادی، آرمان علی قنبری"
 draft: false
 categories:
     - "sessions"
 ---
 [![poster164](../../img/posters/poster164.jpg)](../../img/poster164.jpg)
-
-
 
 <div class="row">
     <div class="col-lg-12">

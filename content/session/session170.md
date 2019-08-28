@@ -1,8 +1,8 @@
 ---
 title: "جلسه ۱۷۰"
 description: "Webmin"
-date: "1398-03-22"
-author: "مریم بهزادی,ارمان علی قنبری"
+date: "1398-04-05"
+author: "مریم بهزادی، آرمان علی قنبری"
 draft: false
 categories:
     - "sessions"
