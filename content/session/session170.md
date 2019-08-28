@@ -37,6 +37,7 @@ categories:
     4. مدیریت سرویس‌ها در وبمین
     5. به روز رسانی سیستم
     6. دسترسی به گزارشهای سیستم
+    
     <div class="row">
     <div class="col-lg-12">
         <h1 class="page-header">گالری تصاویر</h1>    
