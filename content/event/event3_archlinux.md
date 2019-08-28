@@ -1,7 +1,7 @@
 +++
 title = "کارگاه آرچ لینوکس"
 draft = false
-description= "کارگاه عملی، پنجشنبه ۳ خرداد ۹۷"
+description= "کارگاه عملی"
 author= "مریم بهزادی"
 date= "1397-03-03"
 +++

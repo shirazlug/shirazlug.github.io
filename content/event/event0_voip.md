@@ -1,7 +1,7 @@
 +++
 title = "کارگاه voip"
 draft = false
-description= " کارگاه عملی، پنجشنبه ۷ دی ماه ۹۶"
+description= "کارگاه عملی"
 author= "مریم بهزادی"
 date= "1396-10-07"
 +++
