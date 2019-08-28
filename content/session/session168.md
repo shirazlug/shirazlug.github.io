@@ -2,7 +2,7 @@
 title: "جلسه ۱۶۸"
 description: "پروژه Jupyter و اکوسیستم آن"
 date: "1398-03-01"
-author: "حمیدرضا معدلی، مریم بهزادی"
+author: "ارمان علی قنبری , حمیدرضا معدلی، مریم بهزادی"
 draft: false
 categories:
     - "sessions"
@@ -61,3 +61,69 @@ notebooks، text editors، terminals و اجزای دیگر را در تب و پ
 • [IPython/Jupyter Workshop at the NGCM Summer Academy, 2017](https://github.com/jupyter/ngcm-tutorial)
 
 • [LIGO, the 2017 Nobel prize in physics, and wrapping up Makefiles](https://berkeley-stat159-f17.github.io/stat159-f17/lectures/08-ligo-make.html)
+
+<div class="row">
+    <div class="col-lg-12">
+        <h1 class="page-header">گالری تصاویر</h1>    
+            <div class="col-lg-4 col-md-4 col-xs-6 thumb">
+            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="../../img/1ju.jpg" data-target="#image-gallery">
+              <img class="img-responsive" src="../../img/1ju.jpg"
+              alt="جلسات هفتگی شیرازلاگ">
+            </a>
+        </div>
+            <div class="col-lg-4 col-md-4 col-xs-6 thumb">
+            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="2ju.jpg" data-target="#image-gallery">
+                <img class="img-responsive" src="../../img/2ju.jpg"
+                alt="جلسات هفتگی شیرازلاگ">
+            </a>
+        </div>
+            <div class="col-lg-4 col-md-4 col-xs-6 thumb">
+            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="../../img/3ju.jpg" data-target="#image-gallery">
+                <img class="img-responsive" src="../../img/3ju.jpg"
+                alt="جلسات هفتگی شیرازلاگ">
+            </a>
+    </div>
+     <div class="col-lg-4 col-md-4 col-xs-6 thumb">
+            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="../../img/4ju.jpg" data-target="#image-gallery">
+                <img class="img-responsive" src="../../img/4ju.jpg"
+                alt="جلسات هفتگی شیرازلاگ">
+            </a>
+       </div>
+            <div class="col-lg-4 col-md-4 col-xs-6 thumb">
+            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="5ju.jpg" data-target="#image-gallery">
+                <img class="img-responsive" src="../../img/5ju.jpg"
+                alt="جلسات هفتگی شیرازلاگ">
+            </a>
+             </div>
+            <div class="col-lg-4 col-md-4 col-xs-6 thumb">
+            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="6ju.jpg" data-target="#image-gallery">
+                <img class="img-responsive" src="../../img/6ju.jpg"
+                alt="جلسات هفتگی شیرازلاگ">
+            </a>
+        </div>
+<div class="modal fade" id="image-gallery" tabindex="-1" role="dialog" aria-
+ aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span><span class="sr-only">بستن</span></button>
+                <h4 class="modal-title" id="image-gallery-title"></h4>
+            </div>
+            <div class="modal-body">
+                <img id="image-gallery-image" class="img-responsive" src="">
+            </div>
+            <div class="modal-footer">
+                <div class="col-md-2">
+                    <button type="button" class="btn btn-primary" id="show-previous-image">بعدی</button>
+                </div>
+                <div class="col-md-8 text-justify" id="image-gallery-caption">
+                    This text will be overwritten by jQuery
+                </div>
+                <div class="col-md-2">
+                    <button type="button" id="show-next-image" class="btn btn-default">قبلی</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
