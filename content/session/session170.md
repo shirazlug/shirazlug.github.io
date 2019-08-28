@@ -1,8 +1,8 @@
 ---
 title: "جلسه ۱۷۰"
 description: "Webmin"
-date: "1398-03-22"
-author: "مریم بهزادی,ارمان علی قنبری"
+date: "1398-04-05"
+author: "مریم بهزادی، آرمان علی قنبری"
 draft: false
 categories:
     - "sessions"
@@ -37,6 +37,7 @@ categories:
     4. مدیریت سرویس‌ها در وبمین
     5. به روز رسانی سیستم
     6. دسترسی به گزارشهای سیستم
+    
     <div class="row">
     <div class="col-lg-12">
         <h1 class="page-header">گالری تصاویر</h1>    
