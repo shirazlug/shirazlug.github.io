@@ -49,13 +49,18 @@ params:
   sidebar:
     # option to specify the logo of the sidebar
     logo: "/images/refresh-square.svg"
+    # logo: "/img/shirazlug_logo.svg"
     # option to specify the font of the sidebar
     fontFamily: "Shabnam" # "Open Sans"
+    tags: "همه برچسب‌ها"
+
 
   # navbar options
   navbar:
     # option to specify the logo of the sidebar
     fontFamily: "Shabnam" 
+    tags: "برچسب‌ها"
+    sections: ["a", "b"]
   
   # 404 page options
   pagNotFound:
@@ -71,9 +76,9 @@ params:
   # homepage options
   homepage:
     # option to specify the title in the homepage
-    title: Julia The White
+    title: "شیرازلاگ"
     # option to specify the subtitle in the homepage
-    subtitle: Personal website and blog
+    subtitle: "به شیرازلاگ خوش آمدید :) لاگ به معنی گروه کاربران گنو/لینوکس است و از افراد مختلف که به منظور تبادل اطلاعات در حوزه‌ی نرم‌افزارهای آزاد و متن‌باز دور هم جمع می‌شوند، تشکیل شده است. اگر تمایل دارید دانش خود را با دیگران به اشتراک بگذارید یا کنجکاوید تا از تکنولوژی‌های آزاد جدید اطلاعاتی کسب کنید و یا از بودن در کنار چند دوست فعال در این زمینه لذت می‌برید، با ما همراه شوید. در ضمن، شرکت در جلسات برای عموم آزاد و رایگان است."
     # option to specify image in the homepage
     image: "/images/avataaars.png" # worker.svg 
     # option to specify the width of the image in the homepage
@@ -84,8 +89,8 @@ params:
     # option to specify the logo in the footer
     logo: "/images/refresh-square.svg"
     # option to specify your contact email in the footer
-    email: name.surname@domain.com
+    email: contact@shirazlug.ir
     # option to specify your linkedin profile in the footer
     linkedin: https://www.linkedin.com/your_linkedin_profile/
     # option to specify the copyright in the footer
-    copyright: Julia The White - 2019
+    copyright: "۱۳۹۸ - شیرازلاگ"
