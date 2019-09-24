@@ -1,5 +1,6 @@
 ---
-title: "جلسه ۱۱ ام"
+title: "جلسه ۱۱"
+description: "هماهنگی جهت همایش نرم افزارهای آزاد"
 date: "1394-01-25"
 categories:
     - "sessions"

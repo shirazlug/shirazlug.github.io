@@ -1,6 +1,6 @@
 ---
 title: "جلسه ۲۸"
-date: "1394-06-05"
+date: "1394-05-28"
 categories:
     - "sessions"
 ---

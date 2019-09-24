@@ -1,6 +1,6 @@
 ---
 title: "جلسه ۴۲"
-date: "1394-10-01"
+date: "1394-09-18"
 categories:
     - "sessions"
 ---

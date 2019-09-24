@@ -1,6 +1,6 @@
 ---
 title: "جلسه ۷۶"
-date: "1395-07-12"
+date: "1395-07-04"
 categories:
     - "sessions"
 ---

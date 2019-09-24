@@ -61,36 +61,42 @@ params:
     tags: "برچسب‌ها"
     menu: [
       {
+        name: "home",
         title: "خانه",
         url: "/",
         weight: 6,
         icon: 'home'
       }, 
       {
+        name: "sessions",
         title: "جلسه‌های لاگ",
         url: "/sessions/",
         weight: 5,
         icon: 'th-list'
       },
       {
+        name: "posts",
         title: "پست های آزاد",
         url: "/posts/",
         weight: 4,
         icon: 'clipboard'
       },
       {
+        name: "news",
         title: "اخبار",
         url: "/news/",
         weight: 3,
         icon: 'rss'
       },
       {
-        title: "رویداد ها",
+        name: "events",
+        title: "رویدادها",
         url: "/events/",
         weight: 2,
         icon: 'calendar'
       },
       {
+        name: "about",
         title: "درباره ما",
         url: "/about/",
         weight: 1,
@@ -101,11 +107,11 @@ params:
   # 404 page options
   pagNotFound:
     # option to specify the main picture of the sidebar
-    image: "/images/avataaars_404.png"
+    image: "logo/404.png"
     # option to specify the title of the 404 page
-    title: 404 Page Not Found :(
+    title: خطای ۴۰۴
     # option to specify the subtitle of the 404 page
-    subtitle: This is not the page you were looking for...
+    subtitle: صفحه مورد نظر شما یافت نشد
     # option to specify the width of the image in the 404 page
     imageWidth: 500px
 
@@ -127,6 +133,9 @@ params:
     address: "آدرس: بولوار مدرس، روبروی فضل آباد، دانشگاه صنعتی شیراز"
     # address: "شیراز، میدان آزادی، پارک آزادی"
     # address: "شیراز، بولوار امیرکبیر، بوستان جنت"
+
+  section:
+    fontFamily: "Shabnam"
 
   # footer options
   footer:

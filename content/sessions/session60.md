@@ -1,6 +1,7 @@
 ---
 title: "جلسه ۶۰"
-date: "1395-02-26"
+description: "دوره لینوکس مقدماتی"
+date: "1395-03-03"
 categories:
     - "sessions"
 ---

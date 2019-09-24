@@ -1,6 +1,6 @@
 ---
 title: "جلسه ۵۱"
-date: "1394-12-06"
+date: "1394-11-27"
 categories:
     - "sessions"
 ---

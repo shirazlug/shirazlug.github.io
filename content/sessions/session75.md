@@ -1,6 +1,6 @@
 ---
 title: "جلسه ۷۵"
-date: "1395-07-12"
+date: "1395-06-27"
 categories:
     - "sessions"
 ---

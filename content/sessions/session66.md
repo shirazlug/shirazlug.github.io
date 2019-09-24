@@ -1,5 +1,6 @@
 ---
-title: "جلسه ی ۶۶ – ویرایشگر متن باز “atom”"
+title: "جلسه ۶۶"
+description: "ویرایشگر متن  باز اتم (atom)"
 date: "1395-05-13"
 categories:
     - "sessions"

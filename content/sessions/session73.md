@@ -1,6 +1,6 @@
 ---
 title: "جلسه ۷۳"
-date: "1395-07-12"
+date: "1395-06-13"
 categories:
     - "sessions"
 ---

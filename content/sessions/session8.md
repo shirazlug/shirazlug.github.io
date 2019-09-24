@@ -1,5 +1,6 @@
 ---
-title: "جلسه ی هشتم"
+title: "جلسه ی ۸"
+description: "بش اسکریپت"
 date: "1393-12-12"
 categories:
     - "sessions"

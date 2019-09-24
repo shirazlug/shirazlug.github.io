@@ -1,5 +1,6 @@
 ---
-title: "جلسه ی هفتم – OOP"
+title: "جلسه ی ۷"
+description: "OOP"
 date: "1393-12-05"
 categories:
     - "sessions"

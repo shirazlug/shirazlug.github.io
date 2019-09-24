@@ -1,6 +1,6 @@
 ---
 title: "جلسه ۳۱"
-date: "1394-06-23"
+date: "1394-06-30"
 categories:
     - "sessions"
 ---

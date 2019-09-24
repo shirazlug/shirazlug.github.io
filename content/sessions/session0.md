@@ -1,7 +1,7 @@
 ---
 title: "جلسه ۰"
 description: "معرفی شیرازلاگ"
-date: "1393-10-18"
+date: "1393-10-17"
 categories:
     - "sessions"
 ---

@@ -1,5 +1,6 @@
 ---
 title: "جلسه ی ‍۱۸"
+description: "ویرایشگر Emacs"
 date: "1394-03-19"
 categories:
     - "sessions"

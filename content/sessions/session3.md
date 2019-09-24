@@ -1,7 +1,6 @@
 ---
 title: "جلسه ۳"
 description: "بررسی و نصب توزیع مینت"
-title: "جلسه سوم، 93/11/6"
 date: "1393-11-06"
 categories:
     - "sessions"

@@ -1,6 +1,6 @@
 ---
 title: "جلسه ۵۸"
-date: "1395-02-24"
+date: "1395-02-20"
 categories:
     - "sessions"
 ---

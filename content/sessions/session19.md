@@ -1,5 +1,6 @@
 ---
-title: "جلسه ۱۹ام"
+title: "جلسه ۱۹"
+description: "کامپایل کرنل لینوکس"
 date: "1394-03-25"
 categories:
     - "sessions"

@@ -1,5 +1,6 @@
 ---
-title: "جلسه ششم"
+title: "جلسه ۶"
+description: "دستورات کاربردی در ترمینال"
 date: "1393-11-27"
 categories:
     - "sessions"

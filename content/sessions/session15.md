@@ -1,5 +1,6 @@
 ---
 title: "جلسه ‍۱۵"
+description: "بوت"
 date: "1394-02-24"
 categories:
     - "sessions"

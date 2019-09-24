@@ -1,5 +1,6 @@
 ---
-title: "جلسه ی ۶۷ – میزکار برای گنو/لینوکس"
+title: "جلسه ی ۶۷"
+description: "میزکار برای گنو/لینوکس"
 date: "1395-05-15"
 categories:
     - "sessions"

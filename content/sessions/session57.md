@@ -1,6 +1,6 @@
 ---
 title: "جلسه ۵۷"
-date: "1395-02-24"
+date: "1395-02-13"
 categories:
     - "sessions"
 ---

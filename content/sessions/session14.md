@@ -1,5 +1,6 @@
 ---
 title: "جلسه ی ۱۴"
+description: "بحث آزاد"
 date: "1394-02-17"
 categories:
     - "sessions"

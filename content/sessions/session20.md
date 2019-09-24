@@ -1,6 +1,7 @@
 ---
-title: "جلسه بیستم"
-date: "1394-04-02"
+title: "جلسه ۲۰"
+description: "شبکه‌ی صنعتی"
+date: "1394-04-01"
 categories:
     - "sessions"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "جلسه ۵۵"
-date: "1395-02-24"
+date: "1395-01-27"
 categories:
     - "sessions"
 ---

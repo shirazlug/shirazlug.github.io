@@ -1,5 +1,6 @@
 ---
-title: "جلسه ۶۵ – ارائه Vim"
+title: "جلسه ۶۵"
+description: "ارائه Vim"
 date: "1395-04-10"
 categories:
     - "sessions"
