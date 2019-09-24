@@ -60,7 +60,38 @@ params:
     # option to specify the logo of the sidebar
     fontFamily: "Shabnam" 
     tags: "برچسب‌ها"
-    sections: ["a", "b"]
+    menu: [
+      {
+        title: "خانه",
+        url: "/",
+        weight: 6
+      }, 
+      {
+        title: "جلسه‌های لاگ",
+        url: "/sessions/",
+        weight: 5
+      },
+      {
+        title: "پست های آزاد",
+        url: "/posts/",
+        weight: 4
+      },
+      {
+        title: "اخبار",
+        url: "/news/",
+        weight: 3
+      },
+      {
+        title: "رویداد ها",
+        url: "/events/",
+        weight: 2
+      },
+      {
+        title: "درباره ما",
+        url: "/about/",
+        weight: 1
+      }
+    ]
   
   # 404 page options
   pagNotFound:
