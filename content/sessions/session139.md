@@ -5,6 +5,7 @@ date: "1396-12-21"
 author: "مریم بهزادی"
 categories:
     - "sessions"
+summaryImage: "/img/posters/poster139.jpg"
 ---
 [![poster139](../../img/posters/poster139.jpg)](../../img/poster139.jpg)
 

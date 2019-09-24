@@ -6,6 +6,7 @@ author: "آرماننمایننمایننماین علی قنبری , حمیدر
 draft: false
 categories:
     - "sessions"
+summaryImage: "/img/posters/poster168.jpg"
 ---
 [![poster168](../../img/posters/poster168.jpg)](../../img/poster168.jpg)
 

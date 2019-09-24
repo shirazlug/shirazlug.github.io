@@ -6,6 +6,7 @@ author: "آرمان علی قنبری"
 draft: false
 categories:
     - "sessions"
+summaryImage: "/img/posters/poster158.jpg"
 ---
 [![poster156](../../img/posters/poster158.jpg)](../../img/poster158.jpg)
 

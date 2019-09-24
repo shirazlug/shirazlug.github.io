@@ -6,6 +6,7 @@ author: "مریم بهزادی"
 draft: false
 categories:
     - "sessions"
+summaryImage: "/img/posters/poster162.jpg"
 ---
 [![poster162](../../img/posters/poster162.jpg)](../../img/poster162.jpg)
 
