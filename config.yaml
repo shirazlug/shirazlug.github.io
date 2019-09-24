@@ -6,7 +6,7 @@ title: شیرازلاگ
 theme: hugo-refresh-rtl
 staticDir: "static"
 
-disableKinds: ["page", "home", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT", "404"]
+disableKinds: [taxonomy", "taxonomyTerm", "RSS", "sitemap"]
 
 blackfriday:
   hrefTargetBlank: true
