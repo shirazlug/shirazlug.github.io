@@ -1,10 +1,12 @@
-baseURL: "https://shirazlug.ir/"
+# baseURL: "https://shirazlug.ir/"
+baseURL: "http://localhost:1313/"
+
 languageCode: "fa-IR"
 title: شیرازلاگ
 theme: hugo-refresh-rtl
 staticDir: "static"
 
-disableKinds: ["sitemap","RSS"]
+disableKinds: ["page", "home", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT", "404"]
 
 blackfriday:
   hrefTargetBlank: true
