@@ -1,5 +1,5 @@
-# baseURL: "https://shirazlug.ir/"
-baseURL: "http://localhost:1313/"
+baseURL: "https://shirazlug.ir/"
+# baseURL: "http://localhost:1313/"
 
 languageCode: "fa-IR"
 title: شیرازلاگ
