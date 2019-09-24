@@ -5,6 +5,7 @@ date: "1397-01-20"
 author: "مریم بهزادی"
 categories:
     - "sessions"
+summaryImage: "/img/posters/poster140.jpg"
 ---
 [![poster140](../../img/posters/poster140.jpg)](../../img/poster140.jpg)
 

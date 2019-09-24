@@ -6,6 +6,7 @@ author: "مریم بهزادی، آرمان علی قنبری"
 draft: false
 categories:
     - "sessions"
+summaryImage: "/img/posters/poster164.jpg"
 ---
 [![poster164](../../img/posters/poster164.jpg)](../../img/poster164.jpg)
 

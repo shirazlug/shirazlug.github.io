@@ -6,6 +6,7 @@ author: "وجیهه نیکخواه"
 draft: false
 categories:
     - "sessions"
+summaryImage: "/img/posters/poster148.jpg"
 ---
 [![poster148](../../img/posters/poster148.jpg)](../../img/poster148.jpg)
 
