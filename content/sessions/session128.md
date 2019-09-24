@@ -5,6 +5,7 @@ date: "1396-10-04"
 author: "مریم بهزادی"
 categories:
     - "sessions"
+summaryImage: "/img/posters/poster128.jpg"
 ---
 [![poster127](../../img/posters/poster128.jpg)](../../img/poster127.jpg)
 

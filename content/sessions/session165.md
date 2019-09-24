@@ -6,6 +6,7 @@ author: "آرمان علی قنبری، زهره بیضاوی"
 draft: false
 categories:
     - "sessions"
+summaryImage: "/img/posters/poster165.jpg"
 ---
 [![poster165](../../img/posters/poster165.jpg)](../../img/poster165.jpg)
 

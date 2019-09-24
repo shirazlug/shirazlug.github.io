@@ -5,6 +5,7 @@ date: "1396-08-15"
 author: "وجیهه نیکخواه"
 categories:
     - "sessions"
+summaryImage: "/img/posters/poster122.jpg"
 ---
 [![poster122](../../img/posters/poster122.jpg)](../../img/poster122.jpg)
 

@@ -6,5 +6,6 @@ author: "گودرز جعفری"
 draft: false
 categories:
     - "sessions"
+summaryImage: "/img/posters/poster152.jpg"
 ---
 [![poster152](../../img/posters/poster152.jpg)](../../img/poster152.jpg)

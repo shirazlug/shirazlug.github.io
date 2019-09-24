@@ -6,6 +6,7 @@ author: "وجیهه نیکخواه، مریم بهزادی"
 draft: false
 categories:
     - "sessions"
+summaryImage: "/img/posters/poster146.jpg"
 ---
 [![poster146](../../img/posters/poster146.jpg)](../../img/poster146.jpg)
 

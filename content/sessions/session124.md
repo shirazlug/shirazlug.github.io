@@ -5,6 +5,7 @@ date: "1396-08-29"
 author: "مریم بهزادی, وجیهه نیکخواه"
 categories:
     - "sessions"
+summaryImage: "/img/posters/poster124.jpg"
 ---
 [![poster124](../../img/posters/poster124.jpg)](../../img/poster124.jpg)
 

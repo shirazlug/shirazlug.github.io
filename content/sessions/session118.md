@@ -5,6 +5,7 @@ date: "1396-07-17"
 author: "وجیهه نیکخواه"
 categories:
     - "sessions"
+summaryImage: "/img/posters/poster118.jpg"
 ---
 [![poster118](../../img/posters/poster118.jpg)](../../img/poster118.jpg)
 
