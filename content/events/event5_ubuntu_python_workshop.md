@@ -1,10 +1,11 @@
-+++
-title = "کارگاه گنو/لینوکس  و پایتون"
-draft = false
-description= "کارگاه تخصصی و عملی لینوکس و پایتون"
-author= "مریم بهزادی"
-date= "1397-09-05"
-+++
+---
+title : "کارگاه گنو/لینوکس  و پایتون"
+draft : false
+description: "کارگاه تخصصی و عملی لینوکس و پایتون"
+author: "مریم بهزادی"
+date: "1397-09-05"
+summaryImage: "/img/events/gnulinux.jpg"
+---
 
 [![joomla](../../img/events/gnulinux.jpg)](../../img/events/gnulinux.jpg)
 
