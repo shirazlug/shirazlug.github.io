@@ -1,6 +1,6 @@
 +++
 draft = false
-tags = ["rasberry pi", "orange pi"]
+tags = ["Raspberry Pi", "Orange Pi"]
 description = ""
 date = "2017-08-31T16:24:33+04:30"
 title = "Orange Pi One در فکر تصاحب جایگاه Raspberry Pi Zero"

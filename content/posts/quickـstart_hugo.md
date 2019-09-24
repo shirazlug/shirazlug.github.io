@@ -2,7 +2,7 @@
 title: "راهنمای شروع سریع hugo" # deleted Quickـstart_hugo
 date: "2018-10-31" # 2018-10-31
 description: ""
-tags: ["hugo", "هیوگو"]
+tags: ["Hugo"]
 draft: false
 author: "محسن نظام الملکی   "
 ---

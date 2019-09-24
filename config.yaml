@@ -54,7 +54,6 @@ params:
     fontFamily: "Shabnam"
     tags: "همه برچسب‌ها"
 
-
   # navbar options
   navbar:
     # option to specify the logo of the sidebar
@@ -113,14 +112,21 @@ params:
   # homepage options
   homepage:
     # option to specify the title in the homepage
-    title: "شیرازلاگ"
+    title: "شیرازلاگ"    
     # option to specify the subtitle in the homepage
     subtitle: " (گروه کاربران لینوکس شیراز) "
     description: "به شیرازلاگ خوش آمدید :) لاگ به معنی گروه کاربران گنو/لینوکس است و از افراد مختلف که به منظور تبادل اطلاعات در حوزه‌ی نرم‌افزارهای آزاد و متن‌باز دور هم جمع می‌شوند، تشکیل شده است. اگر تمایل دارید دانش خود را با دیگران به اشتراک بگذارید یا کنجکاوید تا از تکنولوژی‌های آزاد جدید اطلاعاتی کسب کنید و یا از بودن در کنار چند دوست فعال در این زمینه لذت می‌برید، با ما همراه شوید. در ضمن، شرکت در جلسات برای عموم آزاد و رایگان است."
-    # option to specify image in the homepage
-    image: "/images/avataaars.png" # worker.svg 
-    # option to specify the width of the image in the homepage
+    # Logo
+    logo: "logo/shirazlug.png"
+    # Next Session
+    image: "img/posters/next_session.jpg"
     imageWidth: 500px
+    # Address
+    # address: "آدرس: خ همت جنوبی، کوچه ۱۰/۲، سالن همایش امام رضا (ع)"
+    # address: "آدرس: ستارخان، انتهای خ نمازی، دانشگاه زند، سالن همایش"
+    address: "آدرس: بولوار مدرس، روبروی فضل آباد، دانشگاه صنعتی شیراز"
+    # address: "شیراز، میدان آزادی، پارک آزادی"
+    # address: "شیراز، بولوار امیرکبیر، بوستان جنت"
 
   # footer options
   footer:

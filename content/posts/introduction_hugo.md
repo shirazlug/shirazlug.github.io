@@ -2,7 +2,7 @@
 date = "2017-08-31T16:32:28+04:30"
 title = "معرفی هیوگو"
 draft = false
-tags = ["هوگو", "هیوگو"]
+tags = ["Hugo"]
 description = ""
 author = "محسن نظام الملکی"
 +++
