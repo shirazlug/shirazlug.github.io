@@ -64,32 +64,38 @@ params:
       {
         title: "خانه",
         url: "/",
-        weight: 6
+        weight: 6,
+        icon: 'home'
       }, 
       {
         title: "جلسه‌های لاگ",
         url: "/sessions/",
-        weight: 5
+        weight: 5,
+        icon: 'th-list'
       },
       {
         title: "پست های آزاد",
         url: "/posts/",
-        weight: 4
+        weight: 4,
+        icon: 'clipboard'
       },
       {
         title: "اخبار",
         url: "/news/",
-        weight: 3
+        weight: 3,
+        icon: 'rss'
       },
       {
         title: "رویداد ها",
         url: "/events/",
-        weight: 2
+        weight: 2,
+        icon: 'calendar'
       },
       {
         title: "درباره ما",
         url: "/about/",
-        weight: 1
+        weight: 1,
+        icon: 'info'
       }
     ]
   
@@ -118,10 +124,44 @@ params:
   # footer options
   footer:
     # option to specify the logo in the footer
-    logo: "/images/refresh-square.svg"
-    # option to specify your contact email in the footer
-    email: contact@shirazlug.ir
-    # option to specify your linkedin profile in the footer
-    linkedin: https://www.linkedin.com/your_linkedin_profile/
+    logo: "/images/refresh-square.svg"   
     # option to specify the copyright in the footer
     copyright: "۱۳۹۸ - شیرازلاگ"
+    social: [
+      {
+        title: "contact@shirazlug.ir",
+        icon: "envelope",
+        url: "mailto:contact@shirazlug.ir",
+        weight: 6
+      },
+      {
+        title: "shirazlug",
+        icon: "telegram",
+        url: "https://t.me/shirazlug",
+        weight: 6
+      },
+      {
+        title: "shirazlug.ir",
+        icon: "instagram",
+        url: "https://www.instagram.com/ShirazLUG.ir/",
+        weight: 5
+      },
+      {
+        title: "shirazlug_ir",
+        icon: "twitter",
+        url: "https://twitter.com/ShirazLUG_ir",
+        weight: 4
+      },
+      {
+        title: "shirazlug",
+        icon: "linkedin",
+        url: "https://www.linkedin.com/in/shirazlug/",
+        weight: 4
+      },
+      {
+        title: "shirazlug",
+        icon: "gitlab",
+        url: "https://framagit.org/shirazlug",
+        weight: 4
+      }
+    ]

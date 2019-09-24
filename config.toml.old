@@ -60,7 +60,7 @@ disqusShortname = "username" # delete this to disable disqus comments
 
 [[menu.icon]]
     url = "mailto:contact@shirazlug.ir"
-    name = "envelope-o"
+    name = "envelope"
     weight = 6
 
 [[menu.icon]]
