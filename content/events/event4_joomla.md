@@ -1,7 +1,7 @@
 +++
 title = "کارگاه جوملا"
 draft = false
-description= "کارگاه عملی"
+description= "کارگاه عملی و آموزشی جوملا"
 author= "مریم بهزادی"
 date= "1397-07-30"
 +++

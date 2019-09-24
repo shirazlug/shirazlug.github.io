@@ -17,8 +17,8 @@ categories:
 یا [اینجا](https://www.slideshare.net/ShirazLUG/ss-128459204)
 دریافت کنید.
 
-<div class="row">
-    <div class="col-lg-12">
+<div class="container">
+    <div class="column">
         <h1 class="page-header">گالری تصاویر</h1>    
             <div class="col-lg-4 col-md-4 col-xs-6 thumb">
             <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="../../img/IMG_2.jpg" data-target="#image-gallery">
