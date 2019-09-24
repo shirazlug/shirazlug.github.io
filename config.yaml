@@ -1,0 +1,182 @@
+baseURL: "http://localhost:1313/"
+languageCode: "fa-IR"
+title: شیرازلاگ
+theme: hugo-refresh-rtl
+staticDir: "static"
+
+disableKinds: ["sitemap","RSS"]
+
+blackfriday:
+  hrefTargetBlank: true
+
+Taxonomies:
+  tag: "tags"
+
+
+# Supported fonts are:
+# https://fonts.google.com/
+
+params:
+  # parameter used to specify if you want to minify the imported js
+  jsMinify: true
+  # parameter used to specify if you want to add the fingerprint to the imported js
+  jsFingerprint: false
+  # parameter used to specify if you want to minify the imported css
+  cssMinify: true
+  # parameter used to specify if you want to add the fingerprint to the imported css
+  cssFingerprint: true
+  # option to specify the main colour of the theme
+  mainColour: "#F39200"
+  author: "شیرازلاگ"
+
+
+  # summary options
+  summary:    
+    # option to specify the default image in the summary list
+    defaultImage : "img/posters/default_poster.jpg"
+  
+  # loading options
+  loading:
+    # option to specify the loading image
+    image: "/images/rings.svg"
+
+  # main pages options
+  mainPage:
+    # option to specify the main font of the theme
+    fontFamily: "Shabnam" 
+
+  # sidebar options
+  sidebar:
+    # option to specify the logo of the sidebar
+    logo: "/images/refresh-square.svg"
+    # logo: "/img/shirazlug_logo.svg"
+    # option to specify the font of the sidebar
+    fontFamily: "Shabnam"
+    tags: "همه برچسب‌ها"
+
+  # navbar options
+  navbar:
+    # option to specify the logo of the sidebar
+    fontFamily: "Shabnam" 
+    tags: "برچسب‌ها"
+    menu: [
+      {
+        name: "home",
+        title: "خانه",
+        url: "/",
+        weight: 6,
+        icon: 'home'
+      }, 
+      {
+        name: "sessions",
+        title: "جلسه‌های لاگ",
+        url: "/sessions/",
+        weight: 5,
+        icon: 'th-list'
+      },
+      {
+        name: "posts",
+        title: "پست های آزاد",
+        url: "/posts/",
+        weight: 4,
+        icon: 'clipboard'
+      },
+      {
+        name: "news",
+        title: "اخبار",
+        url: "/news/",
+        weight: 3,
+        icon: 'rss'
+      },
+      {
+        name: "events",
+        title: "رویدادها",
+        url: "/events/",
+        weight: 2,
+        icon: 'calendar'
+      },
+      {
+        name: "about",
+        title: "درباره ما",
+        url: "/about/",
+        weight: 1,
+        icon: 'info'
+      }
+    ]
+  
+  # 404 page options
+  pagNotFound:
+    # option to specify the main picture of the sidebar
+    image: "logo/404.png"
+    # option to specify the title of the 404 page
+    title: خطای ۴۰۴
+    # option to specify the subtitle of the 404 page
+    subtitle: صفحه مورد نظر شما یافت نشد
+    # option to specify the width of the image in the 404 page
+    imageWidth: 500px
+
+  # homepage options
+  homepage:
+    # option to specify the title in the homepage
+    title: "شیرازلاگ"    
+    # option to specify the subtitle in the homepage
+    subtitle: " (گروه کاربران لینوکس شیراز) "
+    description: "به شیرازلاگ خوش آمدید :) لاگ به معنی گروه کاربران گنو/لینوکس است و از افراد مختلف که به منظور تبادل اطلاعات در حوزه‌ی نرم‌افزارهای آزاد و متن‌باز دور هم جمع می‌شوند، تشکیل شده است. اگر تمایل دارید دانش خود را با دیگران به اشتراک بگذارید یا کنجکاوید تا از تکنولوژی‌های آزاد جدید اطلاعاتی کسب کنید و یا از بودن در کنار چند دوست فعال در این زمینه لذت می‌برید، با ما همراه شوید. در ضمن، شرکت در جلسات برای عموم آزاد و رایگان است."
+    # Logo
+    logo: "logo/shirazlug.png"
+    # Next Session
+    image: "img/posters/next_session.jpg"
+    imageWidth: 500px
+    # Address
+    # address: "آدرس: خ همت جنوبی، کوچه ۱۰/۲، سالن همایش امام رضا (ع)"
+    # address: "آدرس: ستارخان، انتهای خ نمازی، دانشگاه زند، سالن همایش"
+    address: "آدرس: بولوار مدرس، روبروی فضل آباد، دانشگاه صنعتی شیراز"
+    # address: "شیراز، میدان آزادی، پارک آزادی"
+    # address: "شیراز، بولوار امیرکبیر، بوستان جنت"
+
+  section:
+    fontFamily: "Shabnam"
+
+  # footer options
+  footer:
+    fontFamily: "Shabnam"
+    logo: "/images/refresh-square.svg"   
+    copyright: "۱۳۹۸ - شیرازلاگ"
+    social: [
+      {
+        title: "contact@shirazlug.ir",
+        icon: "envelope",
+        url: "mailto:contact@shirazlug.ir",
+        weight: 6
+      },
+      {
+        title: "shirazlug",
+        icon: "telegram",
+        url: "https://t.me/shirazlug",
+        weight: 5
+      },
+      {
+        title: "shirazlug.ir",
+        icon: "instagram",
+        url: "https://www.instagram.com/ShirazLUG.ir/",
+        weight: 4
+      },
+      {
+        title: "shirazlug_ir",
+        icon: "twitter",
+        url: "https://twitter.com/ShirazLUG_ir",
+        weight: 3
+      },
+      {
+        title: "shirazlug",
+        icon: "linkedin",
+        url: "https://www.linkedin.com/in/shirazlug/",
+        weight: 2
+      },
+      {
+        title: "shirazlug",
+        icon: "gitlab",
+        url: "https://framagit.org/shirazlug",
+        weight: 1
+      }
+    ]
