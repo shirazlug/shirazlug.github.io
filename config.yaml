@@ -147,37 +147,37 @@ params:
     social: [
       {
         title: "contact@shirazlug.ir",
-        icon: "envelope",
+        icon: "fas fa-envelope",
         url: "mailto:contact@shirazlug.ir",
         weight: 6
       },
       {
         title: "shirazlug",
-        icon: "telegram",
+        icon: "fab fa-telegram",
         url: "https://t.me/shirazlug",
         weight: 5
       },
       {
         title: "shirazlug.ir",
-        icon: "instagram",
+        icon: "fab fa-instagram",
         url: "https://www.instagram.com/ShirazLUG.ir/",
         weight: 4
       },
       {
         title: "shirazlug_ir",
-        icon: "twitter",
+        icon: "fab fa-twitter",
         url: "https://twitter.com/ShirazLUG_ir",
         weight: 3
       },
       {
         title: "shirazlug",
-        icon: "linkedin",
+        icon: "fab fa-linkedin",
         url: "https://www.linkedin.com/in/shirazlug/",
         weight: 2
       },
       {
         title: "shirazlug",
-        icon: "gitlab",
+        icon: "fab fa-gitlab",
         url: "https://framagit.org/shirazlug",
         weight: 1
       }
