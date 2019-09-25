@@ -1,5 +1,4 @@
 baseURL: "https://shirazlug.ir/"
-# baseURL: "http://localhost:1313/"
 
 languageCode: "fa-IR"
 title: شیرازلاگ
@@ -30,6 +29,7 @@ params:
   # option to specify the main colour of the theme
   mainColour: "#F39200"
   author: "شیرازلاگ"
+  favicon: "favicon.ico"
 
 
   # summary options
