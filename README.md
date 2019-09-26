@@ -18,6 +18,13 @@
 
  این پروژه به لطف همه کسانی توسعه داده شده است که به صورت داوطلبانه و بدون دریافت هیچگونه هزینه ای، به اشتراک دانش و خلاقیت خود پرداخته اند. شما هم می توانید به توسعه این سایت کمک کنید و در لیست توسعه دهندگان قرار بگیرید.
 
+<a href="#" target="_blank"><img src="https://shirazlug.ir/img/team/behzadi.svg"></a>
+<a href="#" target="_blank"><img src="https://shirazlug.ir/img/team/khozaei.svg"></a>
+<a href="#" target="_blank"><img src="https://shirazlug.ir/img/team/mirshaei.svg"></a>
+<a href="#" target="_blank"><img src="https://shirazlug.ir/img/team/nikkhah.svg"></a>
+<a href="#" target="_blank"><img src="https://shirazlug.ir/img/team/barzegar.svg"></a>
+<a href="#" target="_blank"><img src="https://shirazlug.ir/img/team/beyzavi.svg"></a>
+
 ---
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
