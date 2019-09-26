@@ -103,6 +103,13 @@ params:
         url: "/about/",
         weight: 1,
         icon: 'info'
+      },
+      {
+        name: "team",
+        title: "تیم اجرایی",
+        url: "/team/",
+        weight: 1,
+        icon: 'users'
       }
     ]
   
