@@ -14,6 +14,11 @@
 
 
 ---
+## توسعه دهندگان سایت
+
+ این پروژه به لطف همه کسانی توسعه داده شده است که به صورت داوطلبانه و بدون دریافت هیچگونه هزینه ای، به اشتراک دانش و خلاقیت خود پرداخته اند. شما هم می توانید به توسعه این سایت کمک کنید و در لیست توسعه دهندگان قرار بگیرید.
+
+---
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -79,3 +84,6 @@
         - public
       only:
       - master
+      
+
+
