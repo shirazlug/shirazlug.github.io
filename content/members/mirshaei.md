@@ -1,6 +1,5 @@
 ---
 title: "محمد میرشایی"
-description: "کارشناس مهندسی نرم افزار"
-team:
-    - "website"
+summaryImage: "/img/team/mirshaei.svg"
+weight: 6
 ---

@@ -1,6 +1,5 @@
 ---
 title: "محمدمهدی مهاجر"
-description: "کارشناس ارشد هوش مصنوعی"
-team:
-    - "leader98"
+summaryImage: "/img/team/mohajer.svg"
+weight: 3
 ---
