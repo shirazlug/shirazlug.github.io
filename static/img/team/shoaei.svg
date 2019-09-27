@@ -49,6 +49,16 @@
          cy="283.77081"
          r="13.229167" />
     </mask>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath835">
+      <circle
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.69999999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="circle837"
+         cx="13.229167"
+         cy="283.77081"
+         r="13.229167" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -57,9 +67,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.16"
-     inkscape:cx="50"
-     inkscape:cy="50"
+     inkscape:zoom="3.648671"
+     inkscape:cx="24.151789"
+     inkscape:cy="53.577693"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -88,9 +98,9 @@
      id="layer1"
      transform="translate(0,-270.54165)">
     <image
-       y="270.54166"
+       y="266.13892"
        x="-3.1789145e-07"
-       id="image4528"
+       id="image830"
        xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEEsASwAAD/4RVyRXhpZgAASUkqAAgAAAAOAA8BAgAGAAAAtgAAABABAgAO
 AAAAvAAAABIBAwABAAAAAQAAABoBBQABAAAAygAAABsBBQABAAAA0gAAACgBAwABAAAAAgAAADEB
 AgAcAAAA2gAAADIBAgAUAAAA9gAAAD4BBQACAAAACgEAAD8BBQAGAAAAGgEAABECBQADAAAASgEA
@@ -25392,9 +25402,9 @@ OnImKjtFekHLLVNMxnjdQXSwCMTfXYav6e01TpIp9nVmLMwrjr0wQVF2N2Cq3J5LW5Cj2w5AT9vS
 hT3EeXTnTksukgAAAkngXP4ufehwHWuDdStMX+q/tf6ofq926vqPp1//2Q==
 "
        preserveAspectRatio="none"
-       height="26.458334"
+       height="35.263779"
        width="26.458334"
-       style="stroke-width:1.74556088"
-       mask="url(#mask4577)" />
+       style="stroke-width:1.51200008"
+       clip-path="url(#clipPath835)" />
   </g>
 </svg>

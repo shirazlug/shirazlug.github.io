@@ -1,6 +1,9 @@
 #  راهبران ۹۸
 <a href="#" target="_blank"><img src="https://shirazlug.ir/img/team/khozaei.svg"></a>
 <a href="#" target="_blank"><img src="https://shirazlug.ir/img/team/behzadi.svg"></a>
+<a href="#" target="_blank"><img src="https://shirazlug.ir/img/team/mohajer.svg"></a>
+<a href="#" target="_blank"><img src="https://shirazlug.ir/img/team/molaei.svg"></a>
+<a href="#" target="_blank"><img src="https://shirazlug.ir/img/team/firouzi.svg"></a>
 
 <hr>
 
@@ -19,6 +22,11 @@
 <a href="#" target="_blank"><img src="https://shirazlug.ir/img/team/nikkhah.svg"></a>
 <a href="#" target="_blank"><img src="https://shirazlug.ir/img/team/barzegar.svg"></a>
 <a href="#" target="_blank"><img src="https://shirazlug.ir/img/team/beyzavi.svg"></a>
+
+<hr>
+
+# تیم رادیولاگ
+<a href="#" target="_blank"><img src="https://shirazlug.ir/img/team/mohajer.svg"></a>
 
 <hr>
 
