@@ -25,6 +25,7 @@
 <a href="https://shirazlug.ir/members/nikkhah/" target="_blank"><img src="https://shirazlug.ir/img/team/nikkhah.svg"></a>
 <a href="https://shirazlug.ir/members/barzegar/" target="_blank"><img src="https://shirazlug.ir/img/team/barzegar.svg"></a>
 <a href="https://shirazlug.ir/members/beyzavi/" target="_blank"><img src="https://shirazlug.ir/img/team/beyzavi.svg"></a>
+<a href="https://shirazlug.ir/members/razmjoo/" target="_blank"><img src="https://shirazlug.ir/img/team/razmjoo.svg" alt="بابک رزمجو"/></a>
 
 ---
 
