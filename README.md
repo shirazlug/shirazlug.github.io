@@ -1,10 +1,8 @@
 ![Build Status](https://gitlab.com/shirazlug/shirazlug.gitlab.io/badges/master/build.svg)
 
----
 # داستان ما
 
- اعضای جامعه ی کاربری شیرازلاگ تصمیم گرفتند تا توسعه سایت را
- به گیت لب و سرویس صفحات آن منتقل کنند.
+اعضای جامعه ی کاربری شیرازلاگ تصمیم گرفتند تا توسعه سایت را به فراماگیت و سرویس صفحات آن منتقل کنند.
 
 برخی از این نیاز ها عبارت اند از:
 
@@ -16,15 +14,15 @@
 ---
 ## توسعه دهندگان سایت
 
- این پروژه به لطف همه کسانی توسعه داده شده است که به صورت داوطلبانه و بدون دریافت هیچگونه هزینه ای، به اشتراک دانش و خلاقیت خود پرداخته اند. شما هم می توانید به توسعه این سایت کمک کنید و در لیست توسعه دهندگان قرار بگیرید.
+ این پروژه به لطف همهٔ کسانی توسعه داده شده است که به صورت داوطلبانه و بدون دریافت هیچگونه هزینه ای، به اشتراک دانش و خلاقیت خود پرداخته اند. شما هم می توانید به توسعه این سایت کمک کنید و در فهرست توسعه دهندگان قرار بگیرید.
 
-<a href="https://shirazlug.ir/members/behzadi/" target="_blank"><img src="https://shirazlug.ir/img/team/behzadi.svg"></a>
-<a href="https://shirazlug.ir/members/khozaei/" target="_blank"><img src="https://shirazlug.ir/img/team/khozaei.svg"></a>
-<a href="https://shirazlug.ir/members/mirshaei/" target="_blank"><img src="https://shirazlug.ir/img/team/mirshaei.svg"></a>
-<a href="https://shirazlug.ir/members/nezam/" target="_blank"><img src="https://shirazlug.ir/img/team/nezam.svg"></a>
-<a href="https://shirazlug.ir/members/nikkhah/" target="_blank"><img src="https://shirazlug.ir/img/team/nikkhah.svg"></a>
-<a href="https://shirazlug.ir/members/barzegar/" target="_blank"><img src="https://shirazlug.ir/img/team/barzegar.svg"></a>
-<a href="https://shirazlug.ir/members/beyzavi/" target="_blank"><img src="https://shirazlug.ir/img/team/beyzavi.svg"></a>
+<a href="https://shirazlug.ir/members/behzadi/" target="_blank"><img src="https://shirazlug.ir/img/team/behzadi.svg" alt="مریم بهزادی"></a>
+<a href="https://shirazlug.ir/members/khozaei/" target="_blank"><img src="https://shirazlug.ir/img/team/khozaei.svg" alt="امین خزاعی"></a>
+<a href="https://shirazlug.ir/members/mirshaei/" target="_blank"><img src="https://shirazlug.ir/img/team/mirshaei.svg" alt="محمد میرشایی"></a>
+<a href="https://shirazlug.ir/members/nezam/" target="_blank"><img src="https://shirazlug.ir/img/team/nezam.svg" alt="محسن نظام الملکی"></a>
+<a href="https://shirazlug.ir/members/nikkhah/" target="_blank"><img src="https://shirazlug.ir/img/team/nikkhah.svg" alt="وجیهه نیکخواه"></a>
+<a href="https://shirazlug.ir/members/barzegar/" target="_blank"><img src="https://shirazlug.ir/img/team/barzegar.svg" alt="پویا برزگر"></a>
+<a href="https://shirazlug.ir/members/beyzavi/" target="_blank"><img src="https://shirazlug.ir/img/team/beyzavi.svg" alt="زهره بیضاوی"></a>
 <a href="https://shirazlug.ir/members/razmjoo/" target="_blank"><img src="https://shirazlug.ir/img/team/razmjoo.svg" alt="بابک رزمجو"/></a>
 
 ---
@@ -45,14 +43,20 @@
 برای کار کردن بر روی این پروژه از طریق کامپیوتر شخصی، کافی است مراحل زیر را دنبال کنید:
 
   1. وارد حساب کاربری خود در framagit.org شوید، یا ثبت نام کنید.
-  2. از این پروژه با عمل `fork` یک نسخه در حساب کاربری خودتان ایجاد کنید.
-  3. با دستور ‍‍`git clone` و افزودن مسیر مخزن پروژهٔ خودتان، یک نسخهٔ محلی از پروژه روی رایانهٔ خود دانلود کنید.
-  4. **هیوگو (hugo)** را نصب کنید. ما برای تولید این وبسایت از نسخهٔ پیشرفتهٔ hugo استفاده می کنیم. برای اطمینان از اینکه شما هم این نسخه از hugo را دارید، در خط فرمان وارد کنید:
+  2. از این پروژه با عمل `Fork` یک نسخه در حساب کاربری خودتان ایجاد کنید.
+  3. با استفاده از دستور زیر یک نسخه از پروژه را به همراه ساب ماژول‌های به کار رفته در آن، در کامپیوتر شخصی خود ذخیره کنید. دقت داشته باشید که در دستور زیر به جای عبارت
+ `your-name`
+ ، عبارت مناسب را قرار دهید.
+ 
+```
+   git clone --recursive git@framagit.org:{your-name}/shirazlug.frama.io.git
+```
+  4. آخرین نسخه از **هیوگو (hugo)** را نصب کنید. ما برای تولید این وبسایت از نسخهٔ پیشرفتهٔ hugo استفاده می کنیم. برای اطمینان از اینکه شما هم این نسخه از hugo را دارید، در خط فرمان وارد کنید:
   
 `hugo version`
   
   باید در نتیجهٔ چاپ شدهٔ این دستور کلمهٔ extended را ببینید. اگر اینچنین نیست به [مخزن هیوگو در گیتهاب](https://github.com/gohugoio/hugo/releases) بروید و یک نسخهٔ پیشرفته مناسب دستگاه خود دانلود کنید.
-  5. اگر فایل اجرایی هیوگو را با نامی غیر از hugo نصب کرده اید، این خط از `Makefile` موجود در ریشهٔ پروژه را تغییر دهید و نام درست را بنویسید:
+  5. اگر فایل اجرایی هیوگو را با نامی غیر از hugo نصب کرده اید، این خط از `Makefile` موجود در ریشهٔ پروژه را تغییر دهید و نام درست را بنویسید:
 `HUGO = hugo`
   
   
@@ -62,15 +66,20 @@
   **توجه** این وبسایت به شکل پیشفرض در حالت local روی پورت ۱۳۱۳ رایانهٔ شخصی شما راه اندازی می شود. اگر این پورت روی رایانهٔ شما بسته است یا به هر دلیل قصد دارید از پورت دیگری به این منظور استفاده کنید، کافی است خط زیر از فایل `Makefile` موجود در ریشهٔ پروژه را تغییر دهید و شمارهٔ پورت دلخواه خود را بنویسید:
 `PORT = 1313`
   7. محتوای لازم را به سایت اضافه کنید یا تغییر دهید. برای مطالعه ی بیشتر برای کار با هوگو به [وبسایت آن](https://gohugo.io) مراجعه کنید.
-  8. تغییرات خود را با `git add` و `git commit` به مخزن محلی خود اضافه کنید. سپس با ‍‍`git push` به مخزن شخصی خودتان در framagit.org ارسال کنید. از آنجا یک درخواست ادغام یا merge request به پروژهٔ اصلی شیرازلاگ بفرستید. اگر راهبران شیرازلاگ تغییرات شما را بپذیرند، در مخزن اصلی اعمال خواهند کرد.
+  8. تغییرات خود را با `git add` و `git commit` به مخزن محلی خود اضافه کنید. سپس با ‍‍`git push` به مخزن شخصی خودتان در framagit.org ارسال کنید.
+  9. از Fork خودتان یک درخواست ادغام یا merge request به پروژهٔ اصلی شیرازلاگ بفرستید. اگر راهبران شیرازلاگ تغییرات شما را بپذیرند، در مخزن اصلی اعمال خواهند کرد.
 
-## پیش نمایش وبسایت
+### پیش نمایش وبسایت
 
 در صورتی که این پروژه را بر روی کامپیوتر شخصی خود ذخیره کنید و در مسیر پروژه، دستور
 `make server`
 را بزنید، سایت شما در آدرس
-`localhost:1313/`
+`localhost:xxxx/`
 قابل مشاهده خواهد بود.
+
+دستور بالا نسخه ای از وبسایت را تولید می کند که فایلهای آن شامل HTML و XML شامل خطوط و فضای خالی زیادی است. برای مشاهدهٔ یک نسخهٔ minified به جای دستور بالا، دستور زیر را اجرا کنید:
+
+`make minserver`
 
 # ۲- سرویس گیت‌لب سی‌آی
 
@@ -101,6 +110,5 @@
         - public
       only:
       - master
-```   
 
-
+```

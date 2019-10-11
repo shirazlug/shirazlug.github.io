@@ -3,3 +3,4 @@ public/
 .vscode/
 resources/localconfig.yaml
 localserverconfig.yaml
+resources/_gen
