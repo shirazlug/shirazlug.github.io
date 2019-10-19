@@ -1,5 +1,5 @@
 ---
-title: "جلسه ۱۵۹"
+title: "جلسهٔ ۱۵۹"
 description: "systemd"
 date: "1397-10-05"
 author: "آرمان علی قنبری"
@@ -10,7 +10,8 @@ summaryImage: "/img/posters/poster159.jpg"
 ---
 [![poster159](../../img/posters/poster159.jpg)](../../img/poster159.jpg)
 
-صد و پنجاه و نهمین نشست  شیراز لاگ با موضوع systemd در حضور جمعی از دوستان وعلاقه مندان به سیستم عامل گنو لینوکس در خانه فرهنگ واقع در دانشکده صنعتی    شیراز برگزار شد .در این نشست ابتدا مهندس امین خزاعی مقدمه ای در مورد تاریخچه وفلسفه systemdگفت. ودر اخر به مدیریت سرویس های سیستمی از طریق systemd پرداخت.   
+صد و پنجاه و نهمین نشست  شیراز لاگ با موضوع systemd در حضور جمعی از دوستان وعلاقه مندان به سیستم عامل گنو/لینوکس در خانهٔ فرهنگ واقع در دانشکدهٔ صنعتی شیراز برگزار شد. در این نشست ابتدا مهندس امین خزاعی مقدمه ای در مورد تاریخچه و فلسفهٔ systemd گفت و در آخر به مدیریت سرویس های سیستمی از طریق systemd پرداخت.
+<!-- FIXME This code for gallery of pictures does not work correctly; And such a long HTML code should not be here. We can use hugo templates to generate a gallery for each session or post. -->
 <div class="row">
     <div class="col-lg-12">
         <h1 class="page-header">گالری تصاویر</h1>    
