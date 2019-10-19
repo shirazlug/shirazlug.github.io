@@ -50,7 +50,7 @@ author = "محسن نظام الملکی"
 * ایجاد منوی پویا
 * ساپرت URL های زیبا
 * ساپرت الگوی permalink
-* Aliases (redireet) (؟)
+* Aliases (redirect) (؟)
 
 امکانات محتوایی:
 
