@@ -17,7 +17,8 @@ author: "محسن نظام الملکی   "
 
 
 ```console
-$sudo apt install hugo
+$sudo apt install snapd
+$snap install hugo
 ```
 
 
@@ -141,7 +142,7 @@ http://localhost:1313
 
 به این آدرس بروید و خب چیزی نخواهید دید!
 
-این امر دو دلیل دارد : 
+این امر دو دلیل دارد :
 
 ۱ – همان طور که در خروجی hugo server مشاهده می کنید ، هیوگو پست های draft شده را ایجاد نمی کند.
 
@@ -178,7 +179,7 @@ Press Ctrl+C to stop
 دستور زیر را وارد می کنیم.
 
 ```console
-$cd theme 
+$cd theme
 ```
 
 حالا می خواهیم تم robust را اضافه کنیم.
@@ -189,7 +190,7 @@ $(cd hugo_theme_robust; git checkout b8ce466)
 $cd ..
 ```
 
- اجرای دوباره ی سرور : 
+ اجرای دوباره ی سرور :
 
 ```console
 $hugo server --theme=hugo_theme_robust --buildDrafts
@@ -430,19 +431,19 @@ $ echo "/themes/" >> .gitignore
 $ git add –all
 ```
 
-اضافه کردن همه ی تغییرات به حافظه میانجی 
+اضافه کردن همه ی تغییرات به حافظه میانجی
 
 ```console
-$ git status 
+$ git status
 ```
 
-دیدن تغییرات 
+دیدن تغییرات
 
 ```console
 $ git commit -m "Initial commit"
 ```
 
-اعمال تغییرات 
+اعمال تغییرات
 
 m- برای اضافه کردن یک توضیح
 
@@ -473,7 +474,7 @@ $ git commit -m "bookshelf added"
 $ git push -f origin gh-pages
 ```
 
-فرستادن تغییرات به شاخه ی gh-page 
+فرستادن تغییرات به شاخه ی gh-page
 
 در عرض کمتر از ده دقیقه شما می توانید تغییرات را در سایت خود واقع درhttps://<github-username>.github.io/bookshelf/ مشاهده کنید.
 
@@ -487,17 +488,3 @@ $ git push -f origin gh-pages
 ```
 
 نوشته شده توسط *Shekhar Gulati*.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
