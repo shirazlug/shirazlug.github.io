@@ -135,6 +135,7 @@ params:
     logo: "logo/shirazlug.svg"
     # Next Session
     image: "img/posters/next_session.jpg"
+    poster: "img/posters/next_poster.jpg"
     link: "https://evnd.co/la4yU"
     imageWidth: 500px
     # Address
