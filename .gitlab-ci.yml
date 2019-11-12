@@ -8,12 +8,14 @@ variables:
 test:
   script:
   - hugo --minify
+  - gzip -r public
   except:
   - master
 
 pages:
   script:
   - hugo --minify
+  - gzip -r public
   artifacts:
     paths:
     - public
