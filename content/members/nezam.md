@@ -2,6 +2,8 @@
 title: "محسن نظام الملکی"
 summaryImage: "/img/team/nezam.svg"
 ---
+![محسن نظام‌الملکی](/img/team/nezam.svg)
+<hr>
 
 ## درباره من
 
