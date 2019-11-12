@@ -5,7 +5,8 @@ title: شیرازلاگ
 theme: hugo-refresh-rtl
 staticDir: "static"
 
-disableKinds: ["taxonomy", "taxonomyTerm", "RSS", "sitemap"]
+#disableKinds: ["taxonomy", "taxonomyTerm", "RSS", "sitemap"] 404 on tags
+disableKinds: ["taxonomyTerm", "RSS", "sitemap"]
 
 blackfriday:
   hrefTargetBlank: true
@@ -40,7 +41,7 @@ params:
   # loading options
   loading:
     # option to specify the loading image
-    image: "/images/rings.svg"
+    image: "images/rings.svg"
 
   # main pages options
   mainPage:
@@ -50,8 +51,8 @@ params:
   # sidebar options
   sidebar:
     # option to specify the logo of the sidebar
-    # logo: "logo/shirazlug_white.png"
-    logo: "/logo/shirazlug_white.svg"
+    logo: "logo/shirazlug_white.png"
+    # logo: "img/shirazlug_logo.svg"
     # option to specify the font of the sidebar
     fontFamily: "Shabnam"
     tags: "همه برچسب‌ها"
