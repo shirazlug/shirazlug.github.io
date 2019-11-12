@@ -1,4 +1,10 @@
 public/
 .directory
 .vscode/
-resources/
+resources/MAkefile
+Makefile
+autom4te.cache/
+config.log
+config.status
+localserverconfig.yaml
+resources/_gen/
