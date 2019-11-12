@@ -58,7 +58,6 @@ params:
 
   # navbar options
   navbar:
-    # option to specify the logo of the sidebar
     fontFamily: "Shabnam" 
     tags: "برچسب‌ها"
     menu: [
@@ -116,7 +115,7 @@ params:
   # 404 page options
   pagNotFound:
     # option to specify the main picture of the sidebar
-    image: "logo/404.png"
+    image: "logo/404.svg"
     # option to specify the title of the 404 page
     title: خطای ۴۰۴
     # option to specify the subtitle of the 404 page
@@ -150,7 +149,7 @@ params:
   # footer options
   footer:
     fontFamily: "Shabnam"
-    logo: "logo/shirazlug_white.png"   
+    logo: "logo/shirazlug_white.svg"   
     copyright: "۱۳۹۸ - شیرازلاگ"
     social: [
       {
