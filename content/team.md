@@ -9,7 +9,7 @@
 
 # گرافیک
 <a href="https://shirazlug.ir/members/behzadi/" target="_blank"><img src="https://shirazlug.ir/img/team/behzadi.svg"></a>
-<a href="#" target="_blank"><img src="https://shirazlug.ir/img/team/nezam.svg"></a>
+<a href="https://shirazlug.ir/members/nezam/" target="_blank"><img src="https://shirazlug.ir/img/team/nezam.svg"></a>
 <a href="https://shirazlug.ir/members/khozaei/" target="_blank"><img src="https://shirazlug.ir/img/team/khozaei.svg"></a>
 
 <hr>
@@ -18,7 +18,7 @@
 <a href="https://shirazlug.ir/members/behzadi/" target="_blank"><img src="https://shirazlug.ir/img/team/behzadi.svg"></a>
 <a href="https://shirazlug.ir/members/khozaei/" target="_blank"><img src="https://shirazlug.ir/img/team/khozaei.svg"></a>
 <a href="#" target="_blank"><img src="https://shirazlug.ir/img/team/mirshaei.svg"></a>
-<a href="#" target="_blank"><img src="https://shirazlug.ir/img/team/nezam.svg"></a>
+<a href="https://shirazlug.ir/members/nezam/" target="_blank"><img src="https://shirazlug.ir/img/team/nezam.svg"></a>
 <a href="#" target="_blank"><img src="https://shirazlug.ir/img/team/nikkhah.svg"></a>
 <a href="#" target="_blank"><img src="https://shirazlug.ir/img/team/barzegar.svg"></a>
 <a href="#" target="_blank"><img src="https://shirazlug.ir/img/team/beyzavi.svg"></a>
