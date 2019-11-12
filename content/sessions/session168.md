@@ -1,8 +1,8 @@
 ---
-title: "جلسه ۱۶۸"
-description: "پروژه Jupyter و اکوسیستم آن"
+title: "جلسهٔ ۱۶۸"
+description: "پروژهٔ Jupyter و اکوسیستم آن"
 date: "1398-03-01"
-author: "آرماننمایننمایننماین علی قنبری , حمیدرضا معدلی، مریم بهزادی"
+author: "آرمان علی قنبری , حمیدرضا معدلی، مریم بهزادی"
 draft: false
 categories:
     - "sessions"
@@ -10,48 +10,56 @@ summaryImage: "/img/posters/poster168.jpg"
 ---
 [![poster168](../../img/posters/poster168.jpg)](../../img/poster168.jpg)
 
-صد و شصت و هشتمین نشست شیرازلاگ با همکاری شیرازپاگ، و با ارائه مهندس حمیدرضا معدلی در خانه فرهنگ دانشگاه صنعتی شیراز برگزار شد.
+صد و شصت و هشتمین نشست شیرازلاگ با همکاری شیرازپاگ، و با ارائهٔ مهندس حمیدرضا معدلی در خانهٔ فرهنگ دانشگاه صنعتی شیراز برگزار شد.
 
-در حال حاضر Jupyter به عنوان یکی از اصلی ترین ابزارها توسط متخصصین علم داده (Data Science) برای آنالیز داده به صورت کاوش و تعاملی استفاده می‌شود. همچنین به دلیل توانایی اشتراک گذاری، این ابزار یک رکن اصلی در بحث های مهم Open Science  و Reproducible Science  می باشد. از مهم ترین موفقیت های این پروژه می توان به نقش آن در تعامل و  اشتراک گذاری نتایج آزمایش LIGO Black Hole اشاره کرد که به عنوان برنده جایزه نوبل فیزیک در سال ۲۰۱۷ معرفی شد. استفاده از این ابزار به گونه ای گسترش پیدا کرده است که در تابستان گذشته کنفرانسی مجزا روی این ابزار به نام jupytercon  برگزار شد. در این نشست تاکید اصلی بر آشنایی با قابلیت ها و کار کردن با Jupyter و JupyterLab بود، اما به مباحث دیگری از جمله تاریخچه، معماری و ابزاری های دیگر موجود در اکوسیستم Jupyter به طور خلاصه پرداخته شد.
+در حال حاضر Jupyter به عنوان یکی از اصلی ترین ابزارها توسط متخصصین علم داده (Data Science) برای آنالیز داده به صورت کاوش و تعاملی استفاده می‌شود. همچنین به دلیل توانایی اشتراک گذاری، این ابزار یک رکن اصلی در بحث های مهم Open Science  و Reproducible Science  است. از مهم ترین موفقیت های این پروژه می توان به نقش آن در تعامل و  اشتراک گذاری نتایج آزمایش LIGO Black Hole اشاره کرد که به عنوان برندهٔ جایزهٔ نوبل فیزیک در سال ۲۰۱۷ معرفی شد. استفاده از این ابزار به گونه ای گسترش پیدا کرده است که در تابستان گذشته کنفرانسی مجزا روی این ابزار به نام jupytercon  برگزار شد. در این نشست تاکید اصلی بر آشنایی با قابلیت ها و کارکردن با Jupyter و JupyterLab بود، اما به مباحث دیگری از جمله تاریخچه، معماری و ابزارهای دیگر موجود در اکوسیستم Jupyter به طور خلاصه پرداخته شد.
 
-Jupyter در اصل قسمتی از پروژه   IPython است که به دلیل مناسب بودن برای ایجاد برنامه تحت وب برای زبانهای دیگر برنامه نویسی از این پروژه جدا و به صورت پروژه‌ای مستقل تحت نام Jupyter که مخفف زبانهای Julia ، Python و R  در آمد. 
+پروژهٔ Jupyter در اصل قسمتی از پروژهٔ IPython است که به دلیل مناسب بودن برای ایجاد برنامهٔ تحت وب برای دیگر زبانهای برنامه نویسی از این پروژه جدا و به صورت پروژه‌ای مستقل تحت نام Jupyter در آمد که مخفف زبانهای Julia ، Python و R است. 
 
-در بخش اول ارائه به معماری و پروتکل ها و فرمت باز این ابزار پرداخته شد و همچنین با ابزارهای مشابه آن به طور خلاصه مقایسه ای در کنار تاریخچه بیان گردید.
+در بخش اول ارائه به معماری و پروتکل ها و فرمت این ابزار پرداخته شد و همچنین با ابزارهای مشابه آن به طور خلاصه مقایسه ای در کنار تاریخچه بیان گردید.
 
-در بخش بعد به معرفی قابلیت های خود ابزار Jupyter بر اساس زیر عنوان های زیر پرداخته شد:
+در بخش بعد به معرفی قابلیت های خود ابزار Jupyter بر اساس زیر عنوان های زیر پرداخته شد:
 
-    • Basics, Magics, specialized display and other tricks of IPython
-    	• Notebook Basics
-    	• Code / Markdown Cells
-    	• Plotting in the Notebook
-    	• IPython extra language features
-    	• Cell Magics
-    	• Rich Display System
-    • Working with notebook files
-    	• Notebook files and Nbconvert
-    	• Notebooks in version control (Nbdime)
-    	• Testing notebooks (Nbval)
-    • Interactive HTML Widgets (ipywidgets)
-    • Interactive (parallel) Python (Ipyparallel)
-    • Jupyter Notebook Extensions
-        • community-contributed unofficial extensions
-        • RISE: "Live" Reveal.js Jupyter/IPython Slideshow Extension
-        • nbgrader: A system for assigning and grading Jupyter notebooks.
+<ul style="text-align:left; direction:ltr;">
+<li>Basics, Magics, specialized display and other tricks of IPython
+<ul>
+<li>Notebook Basics</li>
+<li>Code / Markdown Cells</li>
+<li>Plotting in the Notebook</li>
+<li>IPython extra language features</li>
+<li>Cell Magics</li>
+<li>Rich Display System</li>
+</ul></li>
+<li>Working with notebook files
+<ul>
+<li>Notebook files and Nbconvert</li>
+<li>Notebooks in version control (Nbdime)</li>
+<li>Testing notebooks (Nbval)</li>
+</ul></li>
+<li>Interactive HTML Widgets (ipywidgets)</li>
+<li>Interactive (parallel) Python (Ipyparallel)</li>
+<li>Jupyter Notebook Extensions
+<ul>
+<li>community-contributed unofficial extensions</li>
+<li>RISE: &ldquo;Live&rdquo; Reveal.js Jupyter/IPython Slideshow Extension</li>
+<li>nbgrader: A system for assigning and grading Jupyter notebooks.</li>
+</ul></li>
+</ul>
 
-در آخر ارائه به معرفی اجمالی ابزار جدید JupyterLab و قابلیت های آن پرداخته شد. این پروژه در نسخه های اولیه بوده و قرار است به زودی نسخه اولیه بتای آن اعلام شود. این ابزار کاستی های ابزار  Jupyter را مخصوصا برای متخصصان علم داده تا حد زیادی برطرف می کند و محیطی مانند یک IDE فراهم می کند به صورتی که کاربر می تواند به صورت همزمان چندین 
-notebooks، text editors، terminals و اجزای دیگر را در تب و پنل‌های چندگانه مدیریت و استفاده کند.
+در آخر ارائه به معرفی اجمالی ابزار جدید JupyterLab و قابلیت های آن پرداخته شد. این پروژه در نسخه های اولیه بوده و قرار است به زودی نسخهٔ اولیهٔ بتای آن اعلام شود. این ابزار کاستی های ابزار  Jupyter را مخصوصا برای متخصصان علم داده تا حد زیادی برطرف می کند و محیطی مانند یک IDE فراهم می کند به صورتی که کاربر می تواند به صورت همزمان چندین notebooks، text editors، terminals و اجزای دیگر را در تب و پنل‌های چندگانه مدیریت و استفاده کند.
 
 مباحثی که در JupyterLab معرفی گردید عبارتند از:
 
-    • The JupyterLab Interface
-    • Working with Files 
-    • Notebooks
-    • Code Consoles
-    • Terminals
-    • Command Palette
-    • File and output Format
-    • Document and kernels
-
+<ul style="text-align:left; direction:ltr;">
+<li>The JupyterLab Interface</li>
+<li>Working with Files</li>
+<li>Notebooks</li>
+<li>Code Consoles</li>
+<li>Terminals</li>
+<li>Command Palette</li>
+<li>File and output Format</li>
+<li>Document and kernels</li>
+</ul>
 
 #### مراجع:
 
