@@ -1,9 +1,9 @@
 ---
-title: "جلسه آینده: داکر"
+title: "جلسه آینده"
 author: "مریم بهزادی"
 draft: false
-date: "1398-07-03"
-description: "مستقل سازی اپلیکیشن از پلتفرم"
+date: "1398-08-22"
+description: "OAuth2 and OpenID Connect"
 weight: -1
 summaryImage: "/img/posters/next_session.jpg"
 ---

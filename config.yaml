@@ -135,11 +135,12 @@ params:
     logo: "logo/shirazlug.png"
     # Next Session
     image: "img/posters/next_session.jpg"
+    link: "https://evnd.co/la4yU"
     imageWidth: 500px
     # Address
     # address: "آدرس: خ همت جنوبی، کوچه ۱۰/۲، سالن همایش امام رضا (ع)"
     # address: "آدرس: ستارخان، انتهای خ نمازی، دانشگاه زند، سالن همایش"
-    address: "آدرس: بولوار مدرس، روبروی فضل آباد، دانشگاه صنعتی شیراز"
+    address: "آدرس: بولوار مدرس، روبروی فضل‌آباد، دانشگاه صنعتی شیراز"
     # address: "شیراز، میدان آزادی، پارک آزادی"
     # address: "شیراز، بولوار امیرکبیر، بوستان جنت"
 
