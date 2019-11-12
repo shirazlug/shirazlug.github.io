@@ -50,8 +50,8 @@ params:
   # sidebar options
   sidebar:
     # option to specify the logo of the sidebar
-    # logo: "logo/shirazlug_white.png"
-    logo: "/img/shirazlug_logo.svg"
+    logo: "logo/shirazlug_white.png"
+    # logo: "img/shirazlug_logo.svg"
     # option to specify the font of the sidebar
     fontFamily: "Shabnam"
     tags: "همه برچسب‌ها"
