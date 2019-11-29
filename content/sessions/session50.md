@@ -1,8 +1,13 @@
 ---
 title: "جلسه ۵۰"
+description: "vala"
 date: "1394-11-20"
+author: "Mahshid, mehdiMj"
+draft: false
+tags: ['vala', 'programming language']
 categories:
     - "sessions"
+summaryImage: "/img/a45f4a2e-fdbb-11e6-86dd-a088b4d860141488289303.9799147.jpeg"
 ---
     در جلسه ۵۰ام لاگ شیراز ابتدا گروه UX به بیان توضیحاتی پیرامون کارهای گروه
 پرداختند. سپس جناب آقای مهندس امین خزاعی در ارتباط با زبان برنامه‌نویسی vala

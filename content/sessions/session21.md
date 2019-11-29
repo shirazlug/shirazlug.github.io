@@ -1,8 +1,13 @@
 ---
 title: "جلسه ی ۲۱"
+description: "لاتک"
 date: "1394-04-09"
+author: "mehdiMj"
+draft: false
+tags: ['latex', 'tex']
 categories:
     - "sessions"
+summaryImage: "/img/7e69e2f2-fdbb-11e6-86dd-a088b4d860141488289240.295956.jpg"
 ---
     در این جلسه سلمان درباره ی لاتک صحبت کرد. اینکه لاتک چیست، برای چه و چگونه
 میتوان از آن استفاده کرد. همچنین به صورت عملی یک سری از دستورات آن را برای
@@ -14,3 +19,5 @@ categories:
 [![photo_2015-06-30_17-32-37](../../img/7e69e77a-fdbb-11e6-86dd-a088b4d860141488289240.296068.jpg)](img/7e69e77a-fdbb-11e6-86dd-a088b4d860141488289240.296068.jpg)
 
 [![photo_2015-06-30_17-32-40](../../img/7e69ea86-fdbb-11e6-86dd-a088b4d860141488289240.296129.jpg)](img/7e69ea86-fdbb-11e6-86dd-a088b4d860141488289240.296129.jpg)
+
+[اینجا](https://framagit.org/shirazlug/resources/tree/master/presentations/session_172)

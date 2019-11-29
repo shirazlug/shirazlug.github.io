@@ -1,8 +1,13 @@
 ---
 title: "جلسه ۵۵"
+description: " فریمورک لاراول"
 date: "1395-01-27"
+author: "Mahshid, mehdiMj"
+draft: false
+tags: ['laravel', 'php', 'programming language']
 categories:
     - "sessions"
+summaryImage: ""
 ---
     موضوع ارائه جلسه ۵۵ شیراز لاگ فریمورک لاراول بود که آقایان هنرمند و پاکدامن به
 همراه یک دیگر در این مورد ارائه دادند. در ابتدا کمی در مورد مفهوم فریمورک در

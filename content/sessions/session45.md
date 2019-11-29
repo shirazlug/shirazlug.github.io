@@ -1,8 +1,13 @@
 ---
 title: "جلسه ۴۵"
+description: "NixOS"
 date: "1394-10-13"
+author: "Mahshid, mehdiMj"
+draft: false
+tags: ['NixOS', 'GNU Linux']
 categories:
     - "sessions"
+summaryImage: "/img/9df4817c-fdbb-11e6-86dd-a088b4d860141488289293.2137632.jpg"
 ---
     در جلسه ۴۵ام لاگ شیراز، ابتدا جناب آقای رحیم فیروزی به موضوع FHS و MBR و
 همچنین نصب سیستم عامل گنو/لینوکس در کنار ویندوز بیان نمودند.

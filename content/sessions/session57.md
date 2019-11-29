@@ -1,8 +1,13 @@
 ---
 title: "جلسه ۵۷"
+description: "سامانه Sentry"
 date: "1395-02-13"
+author: "Mahshid, mehdiMj"
+draft: false
+tags: ['Sentry', 'lug talk']
 categories:
     - "sessions"
+summaryImage: ""
 ---
     در جلسه ۵۷ جناب مهندس جاوید پناه در مورد سامانه Sentry توضیحاتی دادند. در
 ابتدا مشکلاتی که در روند پشتیبانی نرم‌افزار بوده مانند دشواری های موجود در

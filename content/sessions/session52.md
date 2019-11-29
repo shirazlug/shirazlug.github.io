@@ -1,8 +1,13 @@
 ---
 title: "جلسه ۵۲"
+description: "کار تیمی"
 date: "1394-12-06"
+author: "Mahshid, mehdiMj"
+draft: false
+tags: ['SVG', 'Contribution']
 categories:
     - "sessions"
+summaryImage: "/img/a6992062-fdbb-11e6-86dd-a088b4d860141488289307.7144012.jpg"
 ---
     این جلسه به خاطر مشکل اتصال لپتاپ به پروژکتور کمی با تاخیر آغاز شد. در ابتدا
 محمد صائب ارائه ای در رابطه با کار تیمی آمده کرده بود. او ابتدا درباره ی اینکه

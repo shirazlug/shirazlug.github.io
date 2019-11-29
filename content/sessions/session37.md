@@ -1,8 +1,12 @@
 ---
 title: "جلسه ۳۷"
+description: "bash"
 date: "1394-08-08"
+draft: false
+tags: ['bash']
 categories:
     - "sessions"
+summaryImage: "/img/94894b86-fdbb-11e6-86dd-a088b4d860141488289277.4116495.jpeg"
 ---
     در جلسه ۳۷ ام شیراز لاگ، در ابتدا توسط جناب آقای امیرصمیمی مقدمه ای پیرامون
 پوسته در لینوکس، استاندارد POSIX و تاریخچه Bash بیان شد. سپس متغیرها، گرفتن

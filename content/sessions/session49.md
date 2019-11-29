@@ -1,8 +1,13 @@
 ---
 title: "جلسه ۴۹"
+description: "raspberry pi"
 date: "1394-11-14"
+author: "Mahshid, mehdiMj"
+draft: false
+tags: ['raspberry pi', 'open hadware']
 categories:
     - "sessions"
+summaryImage: "/img/a33a4c20-fdbb-11e6-86dd-a088b4d860141488289302.0597765.jpeg"
 ---
     جلسه ۴۹ ام لاگ شیراز طبق هفته های گذشته در خانه جوان برگزار شد در این جلسه
 کارگاه آموزشی در مورد برد raspberry pi با ارائه جناب آقای رحیم فیروزی بر گزار
