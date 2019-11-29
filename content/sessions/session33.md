@@ -7,7 +7,6 @@ draft: false
 tags: ['Trisquel', 'GNU Linux']
 categories:
     - "sessions"
-summaryImage: "/img/8fe79060-fdbb-11e6-86dd-a088b4d860141488289269.6408424.jpg"
 ---
     در این جلسه که جلسه ی آخر حضور سلمان در بین اعضای لاگ بود، سلمان به معرفی
  [توزیع تریسکل](https://fa.wikipedia.org/wiki/%D8%AA%D8%B1%DB%8C%D8%B3%DA%A9%D9%84) پرداخت. از آنجا که سلمان یکی از توسعه‌دهندگان این توزیع میباشد،

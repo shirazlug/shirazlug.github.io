@@ -7,7 +7,6 @@ draft: false
 tags: ['js', 'Contribution']
 categories:
     - "sessions"
-summaryImage: "/img/a7c06914-fdbb-11e6-86dd-a088b4d860141488289309.6495903.jpg"
 ---
     در این جلسه وجیهه در مورد impress.js صحبت کرد و به صورت عملی مباحثی را توضیح
 داد. impress.js یک کتابخانه متن باز جاوااسکریپتی است که برای ساخت اسلاید به

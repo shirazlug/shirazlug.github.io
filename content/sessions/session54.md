@@ -7,7 +7,6 @@ draft: false
 tags: ['Game Engine', 'open source']
 categories:
     - "sessions"
-summaryImage: ""
 ---
     در این جلسه آقای فیروزی در مورد game engine صحبت کردند و engine های مختلف موجود در یک game engine را شرح دادند. ایشان در مورد render engine و input engine و physic engine و … توضیحاتی ارائه نمودند و در مورد هر engine یک مثال opensource و آزاد آن را بیان کردند. در انتها game engine LÖVE را معرفی نموده و نحوه استفاده از آن و چند مثال ساده نیز بیان شد. چند فیلم از مثال‌های physic engine نیز در انتها نمایش داده شد.
 

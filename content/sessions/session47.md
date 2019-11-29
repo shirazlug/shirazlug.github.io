@@ -7,7 +7,6 @@ draft: false
 tags: ['arduino', 'open hardware']
 categories:
     - "sessions"
-summaryImage: ""
 ---
     جلسه ۴۷ام شیراز لاگ با حضور تعداد اندکی از اعضا در سالن ویژه خانه جوان برگزار
 شد. در ابتدای جلسه در ارتباط با سخت افزار open hardware arduino و نرم افزار

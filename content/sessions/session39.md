@@ -7,7 +7,6 @@ draft: false
 tags: ['raspberry pi', 'Rasbian']
 categories:
     - "sessions"
-summaryImage: "/img/96e005b4-fdbb-11e6-86dd-a088b4d860141488289281.3354676.jpeg"
 ---
     در جلسه سی و نهم شیرازلاگ، ارائه آقای رحیم فیروزی در مورد raspberry pi بود، که
 ابتدا با صحبت در مورد خواص این ماژول آغاز گردید و سپس در مورد مدل های مختلف و

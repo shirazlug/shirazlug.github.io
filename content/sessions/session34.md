@@ -7,7 +7,6 @@ draft: false
 tags: ['php', 'programming language']
 categories:
     - "sessions"
-summaryImage: "/img/910edaac-fdbb-11e6-86dd-a088b4d860141488289271.5760837.jpg"
 ---
     در این جلسه علیرضا حیاتی به مختصری درباره تاریخچه زبان phpپرداخت بعد از آن
 لایسنس این زبان برنامه نویسی را مطرح کرد و توضیح داد که به چه صورت میتوان به

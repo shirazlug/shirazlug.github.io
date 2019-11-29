@@ -7,7 +7,6 @@ draft: false
 tags: ['Blender', 'Jupyter Notebook', 'net install']
 categories:
     - "sessions"
-summaryImage: "/img/922e6182-fdbb-11e6-86dd-a088b4d860141488289273.4603765.jpeg"
 ---
     در جلسه ۳۵ ام شیراز لاگ در ابتدا آقای رحیم فیروزی دو انیمیشن ساخته شده به
 وسیله ی نرم افزار Blender به نمایش گذاشتند.

@@ -7,7 +7,6 @@ draft: false
 tags: ['overflow', 'introducing']
 categories:
     - "sessions"
-summaryImage: ""
 ---
     این جلسه فقط علیرضا ارایه ای در باب overflow را اماده کرده بود. که بعد از
 توضیحات مفصل خود تیکه کدی که در این زمینه اماده کرد بود را نشان داد و عملیتر

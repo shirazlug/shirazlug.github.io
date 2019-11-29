@@ -7,7 +7,6 @@ draft: false
 tags: ['VoIP', 'network_plus']
 categories:
     - "sessions"
-summaryImage: "/img/9cbb4c0a-fdbb-11e6-86dd-a088b4d860141488289291.161138.jpg"
 ---
     طبق توضیحات جناب آقای علی کدخدایان جلسه ۴۴ ام شیراز لاگ به شرح زیر برگزار شد: 
 « تئوری: 
