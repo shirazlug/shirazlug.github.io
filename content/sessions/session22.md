@@ -1,8 +1,13 @@
 ---
 title: "جلسه ۲۲"
+description: "میزکار XFCE"
 date: "1394-04-15"
+author: "mehdiMj"
+draft: false
+tags: ['desktop', 'XFCE']
 categories:
     - "sessions"
+summaryImage: "/img/7fea31a4-fdbb-11e6-86dd-a088b4d860141488289242.8145332.jpg"
 ---
     در این جلسه علیرضا امیرصمیمی ابتدا درباره میزکارهای مختلف در گنو/لینوکس
 توضیحاتی ارائه دادند سپس درباره‌ی میزکار XFCE صحبت کردند و نحوه ی سفارشی سازی

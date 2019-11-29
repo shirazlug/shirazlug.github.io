@@ -1,8 +1,13 @@
 ---
 title: "جلسه ۳۵"
+description: "Jupyter Notebook"
 date: "1394-07-24"
+author: "Mahshid, mehdiMj"
+draft: false
+tags: ['Blender', 'Jupyter Notebook', 'net install']
 categories:
     - "sessions"
+summaryImage: "/img/922e6182-fdbb-11e6-86dd-a088b4d860141488289273.4603765.jpeg"
 ---
     در جلسه ۳۵ ام شیراز لاگ در ابتدا آقای رحیم فیروزی دو انیمیشن ساخته شده به
 وسیله ی نرم افزار Blender به نمایش گذاشتند.
@@ -13,10 +18,7 @@ categories:
 آخر ابن ارائه نیز یک برنامه cat ساده با زبان برنامه نویسی پایتون نوشته شد.
 
 پس از آن آقای فیروزی در مورد این مطلب که توزیع های خانواده debian هم اکنون
-محبوبترین توزیع می باشند، صحبت نمودند و پس از آن روش net install توزیع
-trisquel را مرحله به مرحله شرح دادند .در این ارایه نکاتی در مورد بوت سیستم
-عامل گنو لینوکس و هم چنین ابزار chroot و debootstrap شرح داده شد و در پایان
-روش سریع تر که نیاز به دانستن نکات فنی زیادی نمی باشد، به صورت اسلاید نمایش
+محبوبترین توزیع می باشند، صحبت نمودند و پس از آن روش net install توزیع trisquel را مرحله به مرحله شرح دادند .در این ارایه نکاتی در مورد بوت سیستم عامل گنو لینوکس و هم چنین ابزار chroot و debootstrap شرح داده شد و در پایان روش سریع تر که نیاز به دانستن نکات فنی زیادی نمی باشد، به صورت اسلاید نمایش
 داده شد.
 
 برای دسترسی به اسلاید های ارائه می توانید به [Python](https://shirazlug.ir/wp-content/uploads/2015/10/Python.zip) و [netinstall](https://shirazlug.ir/wp-content/uploads/2015/10/netinstall.odp) و [slide](https://shirazlug.ir/wp-content/uploads/2015/10/slide.zip) مراجعه نمایید.

@@ -1,8 +1,13 @@
 ---
 title: "جلسه ۵۱"
+description: "BSD"
 date: "1394-11-27"
+author: "Mahshid, mehdiMj"
+draft: false
+tags: ['BSD', 'GNU Linux']
 categories:
     - "sessions"
+summaryImage: "/img/a579f68e-fdbb-11e6-86dd-a088b4d860141488289305.8324594.jpg"
 ---
     در این جلسه آقای جفره درباره ی موارد مختلف از جمله، BSD مباحثی را مطرح کردند.
 

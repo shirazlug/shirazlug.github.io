@@ -1,8 +1,13 @@
 ---
 title: "جلسه ۳۰"
+description: "embedded system, Data Mining"
 date: "1394-06-23"
+author: "mehdiMj"
+draft: false
+tags: ['embedded system', 'Data Mining']
 categories:
     - "sessions"
+summaryImage: "/img/8c6532c6-fdbb-11e6-86dd-a088b4d860141488289263.7533314.jpg"
 ---
     در این جلسه ۳ ارایه با ۳ موضوع متفاوت انجام شد. در ابتدای ناصر فیروزپور درباره
 ی سیستم های توکار توضیحاتی مطرح کردند درباره ی تاریخچه این سیستم ها موارد

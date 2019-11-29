@@ -1,8 +1,13 @@
 ---
 title: "جلسه ۴۱"
+description: "proxy"
 date: "1394-09-11"
+author: "Mahshid, mehdiMj"
+draft: false
+tags: ['network_plus', 'proxy']
 categories:
     - "sessions"
+summaryImage: "/img/993d1b08-fdbb-11e6-86dd-a088b4d860141488289285.3009403.jpg"
 ---
     در جلسه ۴۱ام از شیراز لاگ، جناب آقای جفره پیرامون موضوع proxy صحبت نمودند.
 ابتدا توضیحی مختصری از اینکه proxy چگونه است و اطلاعات را چگونه ارسال و دریافت
