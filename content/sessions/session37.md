@@ -1,6 +1,9 @@
 ---
 title: "جلسه ۳۷"
+description: "bash"
 date: "1394-08-08"
+draft: false
+tags: ['bash']
 categories:
     - "sessions"
 ---

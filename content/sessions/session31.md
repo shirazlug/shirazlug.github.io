@@ -1,6 +1,10 @@
 ---
 title: "جلسه ۳۱"
+description: "overflow"
 date: "1394-06-30"
+author: "mehdiMj"
+draft: false
+tags: ['overflow', 'introducing']
 categories:
     - "sessions"
 ---

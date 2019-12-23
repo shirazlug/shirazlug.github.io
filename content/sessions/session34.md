@@ -1,6 +1,10 @@
 ---
 title: "جلسه ۳۴"
+description: "php"
 date: "1394-07-18"
+author: "Mahshid, mehdiMj"
+draft: false
+tags: ['php', 'programming language']
 categories:
     - "sessions"
 ---

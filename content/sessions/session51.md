@@ -1,6 +1,10 @@
 ---
 title: "جلسه ۵۱"
+description: "BSD"
 date: "1394-11-27"
+author: "Mahshid, mehdiMj"
+draft: false
+tags: ['BSD', 'GNU Linux']
 categories:
     - "sessions"
 ---

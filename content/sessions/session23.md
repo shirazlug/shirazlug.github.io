@@ -1,6 +1,10 @@
 ---
 title: "جلسه ی ۲۳"
+description: "network + & GLAMP"
 date: "1394-04-28"
+author: "mehdiMj"
+draft: false
+tags: ['network_plus', 'GLAMP']
 categories:
     - "sessions"
 ---

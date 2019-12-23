@@ -1,6 +1,10 @@
 ---
 title: "جلسه ۳۶"
+description: "Lisp , R lang"
 date: "1394-08-02"
+author: "Mahshid, mehdiMj"
+draft: false
+tags: ['Lisp' , 'R lang', 'programming language']
 categories:
     - "sessions"
 ---

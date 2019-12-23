@@ -1,6 +1,10 @@
 ---
 title: "جلسه ۴۹"
+description: "raspberry pi"
 date: "1394-11-14"
+author: "Mahshid, mehdiMj"
+draft: false
+tags: ['raspberry pi', 'open hadware']
 categories:
     - "sessions"
 ---

@@ -1,6 +1,10 @@
 ---
 title: "جلسه ۳۰"
+description: "embedded system, Data Mining"
 date: "1394-06-23"
+author: "mehdiMj"
+draft: false
+tags: ['embedded system', 'Data Mining']
 categories:
     - "sessions"
 ---

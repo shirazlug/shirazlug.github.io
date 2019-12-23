@@ -1,6 +1,10 @@
 ---
 title: "جلسه ۵۲"
+description: "کار تیمی"
 date: "1394-12-06"
+author: "Mahshid, mehdiMj"
+draft: false
+tags: ['SVG', 'Contribution']
 categories:
     - "sessions"
 ---

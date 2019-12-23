@@ -1,6 +1,10 @@
 ---
 title: "جلسه ۵۷"
+description: "سامانه Sentry"
 date: "1395-02-13"
+author: "Mahshid, mehdiMj"
+draft: false
+tags: ['Sentry', 'lug talk']
 categories:
     - "sessions"
 ---

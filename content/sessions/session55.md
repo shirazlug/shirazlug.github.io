@@ -1,6 +1,10 @@
 ---
 title: "جلسه ۵۵"
+description: " فریمورک لاراول"
 date: "1395-01-27"
+author: "Mahshid, mehdiMj"
+draft: false
+tags: ['laravel', 'php', 'programming language']
 categories:
     - "sessions"
 ---

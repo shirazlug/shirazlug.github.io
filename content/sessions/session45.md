@@ -1,6 +1,10 @@
 ---
 title: "جلسه ۴۵"
+description: "NixOS"
 date: "1394-10-13"
+author: "Mahshid, mehdiMj"
+draft: false
+tags: ['NixOS', 'GNU Linux']
 categories:
     - "sessions"
 ---

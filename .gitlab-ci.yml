@@ -7,13 +7,13 @@ variables:
 
 test:
   script:
-  - hugo
+  - hugo --minify
   except:
   - master
 
 pages:
   script:
-  - hugo
+  - hugo --minify
   artifacts:
     paths:
     - public

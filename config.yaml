@@ -5,7 +5,8 @@ title: شیرازلاگ
 theme: hugo-refresh-rtl
 staticDir: "static"
 
-disableKinds: ["taxonomy", "taxonomyTerm", "RSS", "sitemap"]
+#disableKinds: ["taxonomy", "taxonomyTerm", "RSS", "sitemap"] 404 on tags
+disableKinds: ["taxonomyTerm", "RSS", "sitemap"]
 
 blackfriday:
   hrefTargetBlank: true
@@ -40,7 +41,7 @@ params:
   # loading options
   loading:
     # option to specify the loading image
-    image: "/images/rings.svg"
+    image: "images/rings.svg"
 
   # main pages options
   mainPage:
@@ -51,14 +52,13 @@ params:
   sidebar:
     # option to specify the logo of the sidebar
     logo: "logo/shirazlug_white.png"
-    # logo: "/img/shirazlug_logo.svg"
+    # logo: "img/shirazlug_logo.svg"
     # option to specify the font of the sidebar
     fontFamily: "Shabnam"
     tags: "همه برچسب‌ها"
 
   # navbar options
   navbar:
-    # option to specify the logo of the sidebar
     fontFamily: "Shabnam" 
     tags: "برچسب‌ها"
     menu: [
@@ -116,7 +116,7 @@ params:
   # 404 page options
   pagNotFound:
     # option to specify the main picture of the sidebar
-    image: "logo/404.png"
+    image: "logo/404.svg"
     # option to specify the title of the 404 page
     title: خطای ۴۰۴
     # option to specify the subtitle of the 404 page
@@ -132,14 +132,16 @@ params:
     subtitle: " (گروه کاربران لینوکس شیراز) "
     description: "به شیرازلاگ خوش آمدید :) لاگ به معنی گروه کاربران گنو/لینوکس است و از افراد مختلف که به منظور تبادل اطلاعات در حوزه‌ی نرم‌افزارهای آزاد و متن‌باز دور هم جمع می‌شوند، تشکیل شده است. اگر تمایل دارید دانش خود را با دیگران به اشتراک بگذارید یا کنجکاوید تا از تکنولوژی‌های آزاد جدید اطلاعاتی کسب کنید و یا از بودن در کنار چند دوست فعال در این زمینه لذت می‌برید، با ما همراه شوید. در ضمن، شرکت در جلسات برای عموم آزاد و رایگان است."
     # Logo
-    logo: "logo/shirazlug.png"
+    logo: "logo/shirazlug.svg"
     # Next Session
     image: "img/posters/next_session.jpg"
+    poster: "img/posters/next_poster.jpg"
+    link: "https://evnd.co/la4yU"
     imageWidth: 500px
     # Address
     # address: "آدرس: خ همت جنوبی، کوچه ۱۰/۲، سالن همایش امام رضا (ع)"
     # address: "آدرس: ستارخان، انتهای خ نمازی، دانشگاه زند، سالن همایش"
-    address: "آدرس: بولوار مدرس، روبروی فضل آباد، دانشگاه صنعتی شیراز"
+    address: "آدرس: بولوار مدرس، روبروی فضل‌آباد، دانشگاه صنعتی شیراز"
     # address: "شیراز، میدان آزادی، پارک آزادی"
     # address: "شیراز، بولوار امیرکبیر، بوستان جنت"
 
@@ -149,7 +151,7 @@ params:
   # footer options
   footer:
     fontFamily: "Shabnam"
-    logo: "logo/shirazlug_white.png"   
+    logo: "logo/shirazlug_white.svg"   
     copyright: "۱۳۹۸ - شیرازلاگ"
     social: [
       {

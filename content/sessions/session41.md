@@ -1,6 +1,10 @@
 ---
 title: "جلسه ۴۱"
+description: "proxy"
 date: "1394-09-11"
+author: "Mahshid, mehdiMj"
+draft: false
+tags: ['network_plus', 'proxy']
 categories:
     - "sessions"
 ---

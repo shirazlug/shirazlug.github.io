@@ -1,6 +1,10 @@
 ---
 title: "جلسه ۵۰"
+description: "vala"
 date: "1394-11-20"
+author: "Mahshid, mehdiMj"
+draft: false
+tags: ['vala', 'programming language']
 categories:
     - "sessions"
 ---

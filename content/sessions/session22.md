@@ -1,6 +1,10 @@
 ---
 title: "جلسه ۲۲"
+description: "میزکار XFCE"
 date: "1394-04-15"
+author: "mehdiMj"
+draft: false
+tags: ['desktop', 'XFCE']
 categories:
     - "sessions"
 ---
