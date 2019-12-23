@@ -2,3 +2,4 @@ public/
 .directory
 .vscode/
 resources/
+localconfig.yaml
