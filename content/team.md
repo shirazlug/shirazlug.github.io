@@ -23,6 +23,7 @@
 <a href="#" target="_blank"><img src="/img/team/barzegar.svg" alt="پویا برزگر"/></a>
 <a href="#" target="_blank"><img src="/img/team/beyzavi.svg" alt="زهره بیضاوی"/></a>
 <a href="/members/razmjoo/" target="_blank"><img src="/img/team/razmjoo.svg" alt="بابک رزمجو"/></a>
+<a href="/members/shaygani/" target="_blank"><img src="/img/team/shaygani.svg" alt="شهرام شایگانی"/></a>
 
 ---
 
