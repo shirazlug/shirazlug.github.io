@@ -16,14 +16,15 @@
 
  این پروژه به لطف همهٔ کسانی توسعه داده شده است که به صورت داوطلبانه و بدون دریافت هیچگونه هزینه ای، به اشتراک دانش و خلاقیت خود پرداخته اند. شما هم می توانید به توسعه این سایت کمک کنید و در فهرست توسعه دهندگان قرار بگیرید.
 
-<a href="https://shirazlug.ir/members/behzadi/" target="_blank"><img src="https://shirazlug.ir/img/team/behzadi.svg" alt="مریم بهزادی"></a>
-<a href="https://shirazlug.ir/members/khozaei/" target="_blank"><img src="https://shirazlug.ir/img/team/khozaei.svg" alt="امین خزاعی"></a>
-<a href="https://shirazlug.ir/members/mirshaei/" target="_blank"><img src="https://shirazlug.ir/img/team/mirshaei.svg" alt="محمد میرشایی"></a>
-<a href="https://shirazlug.ir/members/nezam/" target="_blank"><img src="https://shirazlug.ir/img/team/nezam.svg" alt="محسن نظام الملکی"></a>
-<a href="https://shirazlug.ir/members/nikkhah/" target="_blank"><img src="https://shirazlug.ir/img/team/nikkhah.svg" alt="وجیهه نیکخواه"></a>
-<a href="https://shirazlug.ir/members/barzegar/" target="_blank"><img src="https://shirazlug.ir/img/team/barzegar.svg" alt="پویا برزگر"></a>
-<a href="https://shirazlug.ir/members/beyzavi/" target="_blank"><img src="https://shirazlug.ir/img/team/beyzavi.svg" alt="زهره بیضاوی"></a>
-<a href="https://shirazlug.ir/members/razmjoo/" target="_blank"><img src="https://shirazlug.ir/img/team/razmjoo.svg" alt="بابک رزمجو"/></a>
+[![مریم بهزادی](/img/team/behzadi.svg)](https://shirazlug.ir/members/behzadi/)
+[![امین خزاعی](/img/team/khozaei.svg)](https://shirazlug.ir/members/khozaei/)
+![محمد میرشائی](/img/team/mirshaei.svg)
+![محسن نظام‌الملکی](/img/team/nezam.svg)
+![وجیهه نیکخواه](/img/team/nikkhah.svg)
+![پویا برزگر](/img/team/barzegar.svg)
+![زهره بیضاوی](/img/team/beyzavi.svg)
+[![بابک رزمجو](/img/team/razmjoo.svg)](https://shirazlug.ir/members/razmjoo/)
+[![شهرام شایگانی](/img/team/shaygani.svg)](https://shirazlug.ir/members/shaygani/)
 
 ---
 

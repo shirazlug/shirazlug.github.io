@@ -1,46 +1,48 @@
 ## راهبران ۹۸
-<a href="/members/khozaei/" target="_blank"><img src="/img/team/khozaei.svg" alt="امین خزاعی"/></a>
-<a href="/members/behzadi/" target="_blank"><img src="/img/team/behzadi.svg" alt="مریم بهزادی"/></a>
-<a href="#" target="_blank"><img src="/img/team/mohajer.svg" alt="مهدی مهاجر"/></a>
-<a href="#" target="_blank"><img src="/img/team/molaei.svg" alt="علی مولایی"/></a>
-<a href="#" target="_blank"><img src="/img/team/firouzi.svg" alt="سید رحیم فیروزی"/></a>
+[![امین خزاعی](/img/team/khozaei.svg)](/members/khozaei/)
+[![مریم بهزادی](/img/team/behzadi.svg)](/members/behzadi/)
+![مهدی مهاجر](/img/team/mohajer.svg)
+![علی مولایی](/img/team/molaei.svg)
+![سید رحیم فیروزی](/img/team/firouzi.svg)
 
 ---
 
 ## گرافیک
-<a href="/members/behzadi/" target="_blank"><img src="/img/team/behzadi.svg" alt="مریم بهزادی"/></a>
-<a href="#" target="_blank"><img src="/img/team/nezam.svg" alt="محسن نظام الملکی"/></a>
-<a href="/members/khozaei/" target="_blank"><img src="/img/team/khozaei.svg" alt="امین خزاعی"/></a>
+[![مریم بهزادی](/img/team/behzadi.svg)](/members/behzadi/)
+![محسن نظام‌الملکی](/img/team/nezam.svg)
+[![امین خزاعی](/img/team/khozaei.svg)](/members/khozaei/)
 
 ---
 
 ## توسعهٔ سایت
-<a href="/members/behzadi/" target="_blank"><img src="/img/team/behzadi.svg" alt="مریم بهزادی"/></a>
-<a href="/members/khozaei/" target="_blank"><img src="/img/team/khozaei.svg" alt="امین خزاعی"/></a>
-<a href="#" target="_blank"><img src="/img/team/mirshaei.svg" alt="محمد میرشایی"/></a>
-<a href="#" target="_blank"><img src="/img/team/nezam.svg" alt="محسن نظام الملکی"/></a>
-<a href="#" target="_blank"><img src="/img/team/nikkhah.svg" alt="وجیهه نیکخواه"/></a>
-<a href="#" target="_blank"><img src="/img/team/barzegar.svg" alt="پویا برزگر"/></a>
-<a href="#" target="_blank"><img src="/img/team/beyzavi.svg" alt="زهره بیضاوی"/></a>
-<a href="/members/razmjoo/" target="_blank"><img src="/img/team/razmjoo.svg" alt="بابک رزمجو"/></a>
-<a href="/members/shaygani/" target="_blank"><img src="/img/team/shaygani.svg" alt="شهرام شایگانی"/></a>
+[![مریم بهزادی](/img/team/behzadi.svg)](/members/behzadi/)
+[![امین خزاعی](/img/team/khozaei.svg)](/members/khozaei/)
+![محمد میرشائی](/img/team/mirshaei.svg)
+![محسن نظام‌الملکی](/img/team/nezam.svg)
+![وجیهه نیکخواه](/img/team/nikkhah.svg)
+![پویا برزگر](/img/team/barzegar.svg)
+![زهره بیضاوی](/img/team/beyzavi.svg)
+[![بابک رزمجو](/img/team/razmjoo.svg)](/members/razmjoo/)
+[![شهرام شایگانی](/img/team/shaygani.svg)](/members/shaygani/)
 
 ---
 
 ## رادیولاگ
-<a href="#" target="_blank"><img src="/img/team/mohajer.svg" alt="مهدی مهاجر"/></a>
+![مهدی مهاجر](/img/team/mohajer.svg)
 
 ---
 
 ## شبکه‌های اجتماعی
-<a href="#" target="_blank"><img src="/img/team/nikkhah.svg" alt="وجیهه نیکخواه"/></a>
-<a href="#" target="_blank"><img src="/img/team/shoaei.svg" alt="شعاعی"/></a>
+![وجیهه نیکخواه](/img/team/nikkhah.svg)
+![محمد شعاعی](/img/team/shoaei.svg)
+![محمد میرشائی](/img/team/mirshaei.svg)
+[![مریم بهزادی](/img/team/behzadi.svg)](/members/behzadi/)
 
 ---
 
 ## برنامه‌ریزی و هماهنگی جلسات
-<a href="/members/behzadi/" target="_blank"><img src="/img/team/behzadi.svg" alt="مریم بهزادی"/></a>
-<a href="/members/khozaei/" target="_blank"><img src="/img/team/khozaei.svg" alt="امین خزاعی"/></a>
-<a href="#" target="_blank"><img src="/img/team/shoaei.svg" alt="شعاعی"/></a>
+[![مریم بهزادی](/img/team/behzadi.svg)](/members/behzadi/)
+[![امین خزاعی](/img/team/khozaei.svg)](/members/khozaei/)
+![محمد شعاعی](/img/team/shoaei.svg)
 
 <!-- TODO We need a method to automatically populate these lists -->
