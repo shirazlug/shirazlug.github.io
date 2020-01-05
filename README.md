@@ -16,15 +16,15 @@
 
  این پروژه به لطف همهٔ کسانی توسعه داده شده است که به صورت داوطلبانه و بدون دریافت هیچگونه هزینه ای، به اشتراک دانش و خلاقیت خود پرداخته اند. شما هم می توانید به توسعه این سایت کمک کنید و در فهرست توسعه دهندگان قرار بگیرید.
 
-[![مریم بهزادی](/img/team/behzadi.svg)](https://shirazlug.ir/members/behzadi/)
-[![امین خزاعی](/img/team/khozaei.svg)](https://shirazlug.ir/members/khozaei/)
-![محمد میرشائی](/img/team/mirshaei.svg)
-![محسن نظام‌الملکی](/img/team/nezam.svg)
-![وجیهه نیکخواه](/img/team/nikkhah.svg)
-![پویا برزگر](/img/team/barzegar.svg)
-![زهره بیضاوی](/img/team/beyzavi.svg)
-[![بابک رزمجو](/img/team/razmjoo.svg)](https://shirazlug.ir/members/razmjoo/)
-[![شهرام شایگانی](/img/team/shaygani.svg)](https://shirazlug.ir/members/shaygani/)
+[![مریم بهزادی](https://shirazlug.ir/img/team/behzadi.svg)](https://shirazlug.ir/members/behzadi/)
+[![امین خزاعی](https://shirazlug.ir/img/team/khozaei.svg)](https://shirazlug.ir/members/khozaei/)
+![محمد میرشائی](https://shirazlug.ir/img/team/mirshaei.svg)
+![محسن نظام‌الملکی](https://shirazlug.ir/img/team/nezam.svg)
+![وجیهه نیکخواه](https://shirazlug.ir/img/team/nikkhah.svg)
+![پویا برزگر](https://shirazlug.ir/img/team/barzegar.svg)
+![زهره بیضاوی](https://shirazlug.ir/img/team/beyzavi.svg)
+[![بابک رزمجو](https://shirazlug.ir/img/team/razmjoo.svg)](https://shirazlug.ir/members/razmjoo/)
+[![شهرام شایگانی](https://shirazlug.ir/img/team/shaygani.svg)](https://shirazlug.ir/members/shaygani/)
 
 ---
 
