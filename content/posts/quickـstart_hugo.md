@@ -151,7 +151,7 @@ http://localhost:1313
 برای اجرای سایت به همراه نمایش فایل های draft شده دستور زیر را وارد می کنیم.
 
 ```console
-$hugo server=buildDrafts
+$hugo server --buildDrafts
 ```
 
 ```console
