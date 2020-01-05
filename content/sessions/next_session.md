@@ -2,8 +2,8 @@
 title: "جلسه آینده"
 author: "مریم بهزادی"
 draft: false
-date: "1398-10-04"
-description: "Ethical Hacking"
+date: "1398-10-18"
+description: "U-Boot"
 weight: -1
 summaryImage: "/img/posters/next_session.jpg"
 ---

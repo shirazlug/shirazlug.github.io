@@ -136,8 +136,8 @@ params:
     # Next Session
     image: "img/posters/next_session.jpg"
     # TODO use next_poster.jpg after updating this image
-    poster: "img/posters/default_poster.jpg"
-    link: "https://evnd.co/OrBDl"
+    poster: "img/posters/next_poster.jpg"
+    link: "http://bit.ly/2FrIGyV"
     imageWidth: 500px
     # Address
     # address: "آدرس: خ همت جنوبی، کوچه ۱۰/۲، سالن همایش امام رضا (ع)"
