@@ -1,0 +1,3 @@
+[submodule "themes/hugo-refresh-rtl"]
+	path = themes/hugo-refresh-rtl
+	url = git@framagit.org:shirazlug/hugo-refresh-rtl.git
