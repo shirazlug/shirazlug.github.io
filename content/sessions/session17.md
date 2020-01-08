@@ -4,6 +4,7 @@ description: "بلندر + گیت"
 date: "1394-03-15"
 categories:
     - "sessions"
+readmore: true
 ---
     جلسه ی ۱۷ در تاریخ ۱۱ خرداد ۹۴ تشکیل شد.
 

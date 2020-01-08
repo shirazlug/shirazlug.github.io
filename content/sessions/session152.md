@@ -7,5 +7,6 @@ draft: false
 categories:
     - "sessions"
 summaryImage: "/img/posters/poster152.jpg"
+readmore: false
 ---
 [![poster152](../../img/posters/poster152.jpg)](../../img/poster152.jpg)

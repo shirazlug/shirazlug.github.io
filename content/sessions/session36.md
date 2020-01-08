@@ -7,6 +7,7 @@ draft: false
 tags: ['Lisp' , 'R lang', 'programming language']
 categories:
     - "sessions"
+readmore: true
 ---
     در جلسه ۳۶ ام لاگ شیراز، بخش اول با معرفی زبان لیسپ توسط آقای هادی یدالهی آغاز
 شد. ابتدا در قسمت اول این بخش، تاریخچه ای از زبان برنامه نویسی لیسپ، موارد

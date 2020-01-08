@@ -6,6 +6,7 @@ author: "مریم بهزادی, وجیهه نیکخواه"
 categories:
     - "sessions"
 summaryImage: "/img/posters/poster124.jpg"
+readmore: true
 ---
 [![poster124](../../img/posters/poster124.jpg)](../../img/poster124.jpg)
 

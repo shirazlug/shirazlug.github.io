@@ -6,6 +6,7 @@ author: "مریم بهزادی"
 categories:
     - "sessions"
 summaryImage: "/img/posters/poster135.jpg"
+readmore: true
 ---
 [![poster135](../../img/posters/poster135.jpg)](../../img/poster135.jpg)
 

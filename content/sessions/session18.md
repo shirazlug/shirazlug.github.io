@@ -4,6 +4,7 @@ description: "ویرایشگر Emacs"
 date: "1394-03-19"
 categories:
     - "sessions"
+readmore: true
 ---
     این جلسه با حضور ۳ عضو جدید برگزار شد. در ابتدای جلسه هادی انواع مسنجرها را
 مورد بررسی قرار داد. سپس آقای جفره Tiling Window Manager را معرفی کردند و به

@@ -4,6 +4,7 @@ description: "میزکار برای گنو/لینوکس"
 date: "1395-05-15"
 categories:
     - "sessions"
+readmore: true
 ---
     جلسه شصت و هفتم شیرازلاگ ۳۰ام تیر برای دومین بار در[ آدرس جدید در خیابان
 فلسطین](https://shirazlug.ir/location/) برگزار شد.  

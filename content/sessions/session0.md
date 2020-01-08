@@ -4,6 +4,7 @@ description: "معرفی شیرازلاگ"
 date: "1393-10-17"
 categories:
     - "sessions"
+readmore: true
 ---
     چهارشنبه ۱۷ دی ۱۳۹۳ – ۰۹ تا ۱۰
 

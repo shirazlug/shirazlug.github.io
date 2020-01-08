@@ -5,6 +5,7 @@ description: "کارگاه تخصصی و عملی لینوکس و پایتون"
 author: "مریم بهزادی"
 date: "1397-09-05"
 summaryImage: "/img/events/gnulinux.jpg"
+readmore: true
 ---
 
 [![joomla](../../img/events/gnulinux.jpg)](../../img/events/gnulinux.jpg)

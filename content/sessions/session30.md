@@ -7,6 +7,7 @@ draft: false
 tags: ['embedded system', 'Data Mining']
 categories:
     - "sessions"
+readmore: true
 ---
     در این جلسه ۳ ارایه با ۳ موضوع متفاوت انجام شد. در ابتدای ناصر فیروزپور درباره
 ی سیستم های توکار توضیحاتی مطرح کردند درباره ی تاریخچه این سیستم ها موارد
