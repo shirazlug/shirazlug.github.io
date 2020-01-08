@@ -6,6 +6,7 @@ author: "وجیهه نیکخواه"
 categories:
     - "sessions"
 summaryImage: "/img/posters/poster122.jpg"
+readmore: true
 ---
 [![poster122](../../img/posters/poster122.jpg)](../../img/poster122.jpg)
 

@@ -5,6 +5,7 @@ description: "جشن تولد سه سالگی شیرازلاگ"
 author: "مریم بهزادی"
 date: "1396-10-18"
 summaryImage: "/img/events/3rd-birthday.jpg"
+readmore: true
 ---
 
 [![3rd-birthday](../../img/events/3rd-birthday.jpg)](../../img/events/3rd-birthday.jpg)

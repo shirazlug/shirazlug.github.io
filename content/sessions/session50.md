@@ -7,6 +7,7 @@ draft: false
 tags: ['vala', 'programming language']
 categories:
     - "sessions"
+readmore: true
 ---
     در جلسه ۵۰ام لاگ شیراز ابتدا گروه UX به بیان توضیحاتی پیرامون کارهای گروه
 پرداختند. سپس جناب آقای مهندس امین خزاعی در ارتباط با زبان برنامه‌نویسی vala

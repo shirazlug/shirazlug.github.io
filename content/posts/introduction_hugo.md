@@ -1,11 +1,12 @@
-+++
-date = "2017-08-31T16:32:28+04:30"
-title = "معرفی هیوگو"
-draft = false
-tags = ["Hugo"]
-description = "آشنایی مقدماتی با هیوگو"
-author = "محسن نظام الملکی"
-+++
+---
+date: "2017-08-31T16:32:28+04:30"
+title: "معرفی هیوگو"
+draft: false
+tags: ["Hugo"]
+description: "آشنایی مقدماتی با هیوگو"
+author: "محسن نظام الملکی"
+readmore: true
+---
 
 **هیوگو چیست؟**
 

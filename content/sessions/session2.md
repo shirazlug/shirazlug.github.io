@@ -4,6 +4,7 @@ description: "پرسش و پاسخ و نصب توزیع"
 date: "1393-10-29"
 categories:
     - "sessions"
+readmore: true
 ---
     در این جلسه که در سازمان فاوا شهرداری شیراز برگزار شد
 
