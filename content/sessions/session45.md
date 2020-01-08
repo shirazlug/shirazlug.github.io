@@ -7,6 +7,7 @@ draft: false
 tags: ['NixOS', 'GNU Linux']
 categories:
     - "sessions"
+readmore: true
 ---
     در جلسه ۴۵ام لاگ شیراز، ابتدا جناب آقای رحیم فیروزی به موضوع FHS و MBR و
 همچنین نصب سیستم عامل گنو/لینوکس در کنار ویندوز بیان نمودند.

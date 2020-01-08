@@ -7,6 +7,7 @@ draft: false
 tags: ['arch yaourt', 'arch']
 categories:
     - "sessions"
+readmore: true
 ---
     در این جلسه ابتدا امین خزاعی ارائه‌ای از تکنولوژی توزیع آرچ برای نصب نرم‌افزار
 توسط ابزاری به نام yaourt دادند، در این ارائه بیان شد که با نصب yaourt‌ بر روی

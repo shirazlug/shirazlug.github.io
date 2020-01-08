@@ -7,6 +7,7 @@ draft: false
 tags: ['BSD', 'GNU Linux']
 categories:
     - "sessions"
+readmore: true
 ---
     در این جلسه آقای جفره درباره ی موارد مختلف از جمله، BSD مباحثی را مطرح کردند.
 

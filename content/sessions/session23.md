@@ -7,6 +7,7 @@ draft: false
 tags: ['network_plus', 'GLAMP']
 categories:
     - "sessions"
+readmore: true
 ---
     در اول این جلسه آقای پیمان لاری ادامه مباحث شبکه از جمله آدرس دهی در محیط شبکه
 به چه نوحی می باشد، ip, پورت, arp و … چیست و همچنین ارتباط دستگاه ها بر روی

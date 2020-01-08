@@ -7,6 +7,7 @@ draft: false
 tags: ['lpi', 'GNU Linux']
 categories:
     - "sessions"
+readmore: true
 ---
     در این جلسه اعضا به رفع اشکال پیرامون نصب گنو لینوکس در انواع لپ تاپ ها
 پرداختند. سپس موضوعاتی در رابطه با lpi مطرح شد.

@@ -4,9 +4,10 @@ description: "raspberry pi"
 date: "1394-08-22"
 author: "Mahshid, mehdiMj"
 draft: false
-tags: ['raspberry pi', 'Rasbian']
+tags: ['raspberry pi', 'Raspbian']
 categories:
     - "sessions"
+readmore: true
 ---
     در جلسه سی و نهم شیرازلاگ، ارائه آقای رحیم فیروزی در مورد raspberry pi بود، که
 ابتدا با صحبت در مورد خواص این ماژول آغاز گردید و سپس در مورد مدل های مختلف و

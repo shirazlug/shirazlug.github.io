@@ -6,6 +6,7 @@ author: "امین خزاعی، وجیهه نیکخواه"
 categories:
     - "sessions"
 summaryImage: "/img/posters/poster143.jpg"
+readmore: true
 ---
 [![poster143](../../img/posters/poster143.jpg)](../../img/poster143.jpg)
 

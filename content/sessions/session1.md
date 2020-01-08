@@ -4,6 +4,7 @@ description: "دید سازمانی به نرم‌افزارهای آزاد"
 date: "1393-10-22"
 categories:
     - "sessions"
+readmore: true
 ---
     دوشنبه ۲۲ دی ۱۳۹۳ – ۱۵ تا ۱۹
 

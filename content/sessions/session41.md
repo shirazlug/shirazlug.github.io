@@ -7,6 +7,7 @@ draft: false
 tags: ['network_plus', 'proxy']
 categories:
     - "sessions"
+readmore: true
 ---
     در جلسه ۴۱ام از شیراز لاگ، جناب آقای جفره پیرامون موضوع proxy صحبت نمودند.
 ابتدا توضیحی مختصری از اینکه proxy چگونه است و اطلاعات را چگونه ارسال و دریافت

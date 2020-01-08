@@ -4,7 +4,8 @@ date: "2018-10-31"
 description: "راهنمای شروع سریع هیوگو"
 tags: ["Hugo"]
 draft: false
-author: "محسن نظام الملکی   "
+author: "محسن نظام الملکی"
+readmore: true
 ---
 
 **ساخت قفسه کتاب:**

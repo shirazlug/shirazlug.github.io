@@ -7,6 +7,7 @@ draft: false
 tags: ['raspberry pi', 'open hadware']
 categories:
     - "sessions"
+readmore: true
 ---
     جلسه ۴۹ ام لاگ شیراز طبق هفته های گذشته در خانه جوان برگزار شد در این جلسه
 کارگاه آموزشی در مورد برد raspberry pi با ارائه جناب آقای رحیم فیروزی بر گزار
