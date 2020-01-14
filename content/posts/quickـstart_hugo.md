@@ -17,8 +17,8 @@ author: "محسن نظام الملکی   "
 
 
 ```console
-$sudo apt install snapd
-$snap install hugo
+$ sudo apt install snapd
+$ snap install hugo
 ```
 
 
@@ -29,14 +29,14 @@ $snap install hugo
 
 برای ساخت یک چهارچوب کلی از دستور زیر استفاده می کنیم. در اینجا ما یک چهارچوب برای سایتی با نام bookshelf ایجاد کرده ایم، شما میتوانید نام دیگری انتخاب کنید.
 
-``` console
-$hugo new site bookshelf
+```console
+$ hugo new site bookshelf
 ```
 
 وارد دایرکتوری bookshelf می شویم و از دایرکتوری bookshelf ، لیست ( ls ) میگیریم.
 
 ```console
-$ls -1
+$ ls -1
 
 archtypes
 config.toml
@@ -66,7 +66,7 @@ static
 بیایید یک پست جدید اضافه کنیم. از hugo new  استفاده می کنیم.
 
 ```console
-$hugo new post/firstpost.md
+$ hugo new post/firstpost.md
 home/.../bookshelf/content/post/firstpost.md created
 ```
 
@@ -74,7 +74,7 @@ home/.../bookshelf/content/post/firstpost.md created
 فرمان زیر را برای مشاهده پوشه اجرا کنید.
 
 ```console
-$tree content
+$ tree content
 
 content
 `-- post
@@ -119,7 +119,7 @@ date = “2017-02-17T17:40:24+03:30”
 فرمان زیر را درون دایرکتوری bookshelf اجرا کنید.
 
 ```console
-$hugo server
+$ hugo server
 ```
 
 ```console
@@ -151,7 +151,7 @@ http://localhost:1313
 برای اجرای سایت به همراه نمایش فایل های draft شده دستور زیر را وارد می کنیم.
 
 ```console
-$hugo server=buildDrafts
+$ hugo server=buildDrafts
 ```
 
 ```console
@@ -179,21 +179,21 @@ Press Ctrl+C to stop
 دستور زیر را وارد می کنیم.
 
 ```console
-$cd theme
+$ cd theme
 ```
 
 حالا می خواهیم تم robust را اضافه کنیم.
 
 ```console
-$git clone https://github.com/dim0627/hugo_theme_robust.git
-$(cd hugo_theme_robust; git checkout b8ce466)
-$cd ..
+$ git clone https://github.com/dim0627/hugo_theme_robust.git
+$ (cd hugo_theme_robust; git checkout b8ce466)
+$ cd ..
 ```
 
  اجرای دوباره ی سرور :
 
 ```console
-$hugo server --theme=hugo_theme_robust --buildDrafts
+$ hugo server --theme=hugo_theme_robust --buildDrafts
 ```
 
 ```console
