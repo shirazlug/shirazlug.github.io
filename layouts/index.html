@@ -1,0 +1,97 @@
+{{- define "main" -}}
+
+<section class="hero is-fullheight is-default is-bold">
+
+    {{- partial "navbar.html" . -}}
+    {{- partial "navbar-clone.html" . -}}
+
+    {{- $baseurl := .Site.BaseURL -}}
+    {{- $homepage   := .Site.Params.homepage -}}
+    {{- $title      := index $homepage "title" -}}
+    {{- $subtitle   := index $homepage "subtitle" -}}
+    {{- $description   := index $homepage "description" -}}
+    {{- $image      := printf "%v%s" $baseurl .Site.Params.homepage.logo -}}
+    <div class="hero-body">
+        <div class="container">
+            <div class="column landing-caption has-text-centered">
+                <div class="column">
+                    <a href="#">
+                        <img src="{{- $image -}}" width="220px" alt="">
+                    </a>
+                </div>
+
+                <div class="column">
+                    <h1 class="title is-1 is-bold">
+                        {{- $title -}}
+                    </h1>
+                    {{- with $subtitle -}}
+                    <h2 class="subtitle is-6 is-muted">
+                        {{ . }}
+                    </h2>
+                    {{- end -}}
+                </div>
+            </div>
+            <div class="column">
+                <h1 class="subtitle is-4 is-muted has-text-justified">
+                    {{- $description -}}
+                </h1>
+            </div>
+            <hr>
+			{{ if .Site.Params.homepage.certainNextSession }}
+            {{- $next_session := printf "%v%s" $baseurl .Site.Params.homepage.image -}}
+            {{- $link := .Site.Params.homepage.link -}}
+            <div class="columns has-text-centered">
+                <!-- Registeration -->
+                <div class="column">
+                    <div class="column">
+                        <a class="subtitle homepage-links is-6" href="{{- $link -}}" target="_blank">
+                            ثبت‌نام جلسه آینده شیرازلاگ
+                        </a>
+                    </div>
+                    <div class="column">
+                        <a href="{{- $link -}}" target="_blank">
+                            <img class="next-session" src="{{- $next_session -}}">
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Address -->
+                <div class="column has-text-centered">
+                    <!-- Sanati University -->
+                    <div class="column">
+                        <a class="subtitle homepage-links is-6" href="https://www.openstreetmap.org/way/68560755">
+                            {{ .Site.Params.homepage.address }}
+                        </a>
+                    </div>
+                    <div class="column">
+                        <iframe class="location" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"
+                            src="https://www.openstreetmap.org/export/embed.html?bbox=52.57729303797534%2C29.582537620493266%2C52.58231413325122%2C29.585653886990446&amp;layer=mapnik&amp;marker=29.584095765769607%2C52.57980358561326"></iframe>
+                    </div>
+                </div>
+            </div>
+            {{ else }}
+            {{- $last_session := printf "%v%s" $baseurl .Site.Params.homepage.image -}}
+            <div class="columns has-text-centered">
+            	<div class="column">
+            	<p class="shabnam">موضوع، زمان و مکان جلسهٔ آیندهٔ شیرازلاگ هنوز مشخص نشده است؛ ولی اگر همه چیز مانند روال سابق پیش برود این جلسه در تاریخ {{ .Site.Params.homepage.nextSessionDate }} برگزار خواهد شد.</p>
+            	</div>
+            	<div class="column">
+            		<h2 class="shabnam">جلسهٔ پیش شیراز لاگ</h2>
+            		<a href="/sessions/{{ .Site.Params.homepage.lastSession }}">
+            			<img class="next-session" src="{{- $last_session -}}">
+            		</a>
+            	</div>
+            </div>
+            {{ end }}
+        </div>
+    </div>
+</section>
+
+{{- partial "footer.html" . -}}
+
+<!-- Back To Top Button -->
+<div id="backtotop"><a href="#"></a></div>
+
+{{- partial "sidebar.html" . -}}
+
+{{- end -}}

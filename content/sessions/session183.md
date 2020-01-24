@@ -2,7 +2,7 @@
 title: "جلسه ۱۸۳"
 author: "مریم بهزادی"
 draft: false
-date: "1398-08-23"
+date: "1398-10-04"
 description: "هک قانونمند"
 weight: -1
 summaryImage: "/img/posters/poster183.jpg"

@@ -134,11 +134,14 @@ params:
     # Logo
     logo: "logo/shirazlug.svg"
     # Next Session
-    image: "img/posters/next_session.jpg"
-    # TODO use next_poster.jpg after updating this image
-    poster: "img/posters/next_poster.jpg"
-    link: "http://bit.ly/2FrIGyV"
+    # TODO Make this property true whenever subject, date, time, and place of next session are determined
+    certainNextSession: false
+    nextSessionDate: "چهارشنبه ۱۶ بهمن ۱۳۹۸"
+    image: "img/posters/poster185.jpg"
+    # poster: "img/posters/next_poster.jpg"
+    # link:
     imageWidth: 500px
+    lastSession: session185
     # Address
     # address: "آدرس: خ همت جنوبی، کوچه ۱۰/۲، سالن همایش امام رضا (ع)"
     # address: "آدرس: ستارخان، انتهای خ نمازی، دانشگاه زند، سالن همایش"
