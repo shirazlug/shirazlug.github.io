@@ -23,6 +23,14 @@ server : localserverconfig.yaml
 minserver : localserverconfig.yaml
 	@$(HUGO) server --minify -D --port $(PORT) --config localserverconfig.yaml
 
+# Starts a local server using 'localserverconfig.yaml' as its configurations. Does not render drafts
+final-server : localserverconfig.yaml
+	@$(HUGO) server --port $(PORT) --config localserverconfig.yaml
+
+# Starts a local server using 'localserverconfig.yaml' as its configurations. Does not render drafts but minifies html/css/javascript
+final-minserver : localserverconfig.yaml
+	@$(HUGO) server --minify --port $(PORT) --config localserverconfig.yaml
+
 # Generates 'localserverconfig.yaml' from 'config.yaml' by replacing the remote base URL with 'http://localhost:$(PORT)/'
 localserverconfig.yaml : config.yaml
 	@$(SED) -e "s%https://shirazlug.ir/%http://localhost:$(PORT)/%" config.yaml > localserverconfig.yaml
