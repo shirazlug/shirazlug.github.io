@@ -2,7 +2,7 @@
 title: "جلسه ۱۸۲"
 author: "مریم بهزادی"
 draft: false
-date: "1398-08-23"
+date: "1398-09-20"
 description: "طراحی وب مدرن"
 weight: -1
 summaryImage: "/img/posters/poster182.jpg"
