@@ -1,7 +1,7 @@
 ---
 title: "جلسه ۱۸۴"
 author: "بابک رزمجو"
-draft: true
+draft: false
 date: "1398-10-18"
 description: "U-Boot : The universal boot loader"
 weight: -1

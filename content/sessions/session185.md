@@ -1,7 +1,7 @@
 ---
 title: "جلسه ۱۸۵"
 author: "بابک رزمجو"
-draft: true
+draft: false
 date: "1398-11-02"
 description: "مقایسهٔ ویرایشگرهای محبوب دنیای گنو/لینوکس"
 weight: -1
