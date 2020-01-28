@@ -7,6 +7,8 @@ description: "مقایسهٔ ویرایشگرهای محبوب دنیای گنو
 weight: -1
 summaryImage: "/img/posters/poster185.jpg"
 readmore: true
+tags: [text editors,famous]
+images: [/img/posters/poster185.jpg]
 ---
 [![poster185](/img/posters/poster185.jpg)](/img/posters/poster185.jpg)
 

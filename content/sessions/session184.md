@@ -7,6 +7,8 @@ description: "U-Boot : The universal boot loader"
 weight: -1
 summaryImage: "/img/posters/poster184.jpg"
 readmore: true
+tags: [U-boot,boot loader,embeded]
+images: [/img/posters/poster184.jpg]
 ---
 [![poster184](/img/posters/poster184.jpg)](/img/posters/poster184.jpg)
 

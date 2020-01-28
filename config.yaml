@@ -11,9 +11,8 @@ disableKinds: ["taxonomyTerm", "RSS", "sitemap"]
 blackfriday:
   hrefTargetBlank: true
 
-Taxonomies:
+taxonomies:
   tag: "tags"
-
 
 # Supported fonts are:
 # https://fonts.google.com/
@@ -31,6 +30,10 @@ params:
   mainColour: "#F39200"
   author: "شیرازلاگ"
   favicon: "favicon.ico"
+  title: "شیرازلاگ"
+  description: "وبسایت انجمن کاربران گنو/لینوکس شیراز شامل زمان و مکان جلسات، معرفی اعضا، رویدادها، اخبار و مقالات آموزشی"
+  images:
+    - logo/shirazlug.png
 
 
   # summary options

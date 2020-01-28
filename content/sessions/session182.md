@@ -7,6 +7,7 @@ description: "طراحی وب مدرن"
 weight: -1
 summaryImage: "/img/posters/poster182.jpg"
 readmore: false
+images: [/img/posters/poster182.jpg]
 ---
 
 [![poster182](/img/posters/poster182.jpg)](/img/posters/poster182.jpg)
