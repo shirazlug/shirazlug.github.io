@@ -7,6 +7,8 @@ draft: false
 categories:
     - "sessions"
 summaryImage: "/img/posters/poster179.jpg"
+images: [/img/posters/poster179.jpg]
+tags: [WebRTC,NAT,media server]
 readmore: true
 ---
 [![poster179](../../img/posters/poster179.jpg)](../../img/poster179.jpg)

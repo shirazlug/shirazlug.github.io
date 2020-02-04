@@ -8,5 +8,6 @@ categories:
     - "sessions"
 summaryImage: "/img/posters/poster175.jpg"
 readmore: false
+tags: [Ansible,process automation]
 ---
 [![poster175](../../img/posters/poster175.jpg)](../../img/poster175.jpg)

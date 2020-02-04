@@ -8,5 +8,7 @@ categories:
     - "sessions"
 summaryImage: "/img/posters/poster178.jpg"
 readmore: false
+images: [/img/posters/poster178.jpg]
+tags: [open hardware]
 ---
 [![poster178](../../img/posters/poster178.jpg)](../../img/poster178.jpg)

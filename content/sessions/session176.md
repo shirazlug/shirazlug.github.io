@@ -8,5 +8,6 @@ categories:
     - "sessions"
 summaryImage: "/img/posters/poster176.jpg"
 readmore: false
+tags: [Docker,containers]
 ---
 [![poster176](../../img/posters/poster176.jpg)](../../img/poster176.jpg)
