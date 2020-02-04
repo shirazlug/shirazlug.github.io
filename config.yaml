@@ -136,7 +136,7 @@ params:
     # Next Session
     # TODO Make this property true whenever subject, date, time, and place of next session are determined
     certainNextSession: false
-    nextSessionDate: "چهارشنبه ۱۶ بهمن ۱۳۹۸"
+    nextSessionDate: "چهارشنبه ۳۰ بهمن ۱۳۹۸"
     image: "img/posters/poster185.jpg"
     # poster: "img/posters/next_poster.jpg"
     # link:
