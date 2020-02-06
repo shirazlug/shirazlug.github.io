@@ -1,7 +1,6 @@
 ---
 title: "شهرام شایگانی"
 summaryImage: "/img/team/shaygani.svg"
-weight: 1
 ---
 ![شهرام شایگانی](/img/team/shaygani.svg)
 

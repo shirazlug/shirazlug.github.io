@@ -1,7 +1,6 @@
 ---
 title: "بابک رزمجو"
 summaryImage: "/img/team/razmjoo.svg"
-weight: 1
 ---
 ![بابک رزمجو](/img/team/razmjoo.svg)
 
