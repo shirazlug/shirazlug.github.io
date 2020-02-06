@@ -66,50 +66,57 @@ params:
         name: "home",
         title: "خانه",
         url: "/",
-        weight: 6,
+        weight: 8,
         icon: 'home'
       }, 
       {
         name: "sessions",
         title: "جلسه‌های لاگ",
         url: "/sessions/",
-        weight: 5,
+        weight: 7,
         icon: 'th-list'
       },
       {
         name: "posts",
         title: "پست های آزاد",
         url: "/posts/",
-        weight: 4,
+        weight: 6,
         icon: 'clipboard'
+      },      
+      {
+        name: "events",
+        title: "رویدادها",
+        url: "/events/",
+        weight: 5,
+        icon: 'calendar'
       },
       {
         name: "news",
         title: "اخبار",
         url: "/news/",
-        weight: 3,
+        weight: 4,
         icon: 'rss'
-      },
-      {
-        name: "events",
-        title: "رویدادها",
-        url: "/events/",
-        weight: 2,
-        icon: 'calendar'
-      },
-      {
-        name: "about",
-        title: "درباره ما",
-        url: "/about/",
-        weight: 1,
-        icon: 'info'
       },
       {
         name: "team",
         title: "تیم اجرایی",
         url: "/team/",
-        weight: 1,
+        weight: 3,
         icon: 'users'
+      },
+      {
+        name: "about",
+        title: "درباره ما",
+        url: "/about/",
+        weight: 2,
+        icon: 'info'
+      },      
+      {
+        name: "links",
+        title: "لینک‌های مفید",
+        url: "/links/",
+        weight: 1,
+        icon: 'link'
       }
     ]
   
