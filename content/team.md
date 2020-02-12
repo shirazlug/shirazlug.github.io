@@ -17,7 +17,7 @@
 ## توسعهٔ سایت
 [![مریم بهزادی](/img/team/behzadi.svg)](/members/behzadi/)
 [![امین خزاعی](/img/team/khozaei.svg)](/members/khozaei/)
-![محمد میرشائی](/img/team/mirshaei.svg)(/members/mirshaei/)
+[![محمد میرشائی](/img/team/mirshaei.svg)](/members/mirshaei/)
 ![محسن نظام‌الملکی](/img/team/nezam.svg)
 ![وجیهه نیکخواه](/img/team/nikkhah.svg)
 ![پویا برزگر](/img/team/barzegar.svg)
@@ -35,7 +35,7 @@
 ## شبکه‌های اجتماعی
 ![وجیهه نیکخواه](/img/team/nikkhah.svg)
 ![محمد شعاعی](/img/team/shoaei.svg)
-![محمد میرشائی](/img/team/mirshaei.svg)(/members/mirshaei/)
+[![محمد میرشائی](/img/team/mirshaei.svg)](/members/mirshaei/)
 [![مریم بهزادی](/img/team/behzadi.svg)](/members/behzadi/)
 
 ---
