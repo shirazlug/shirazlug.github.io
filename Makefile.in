@@ -5,6 +5,8 @@ help :
 	@echo -e "\nUse one of the targets below:\n"
 	@echo -e "* 'make server' will start a flat local server in a specified port including all drafts"
 	@echo -e "* 'make minserver' will start a minified local server in a specified port includeing all drafts"
+	@echo "'make final-server' starts a local server but does not render drafts"
+	@echo "'final-minserver' starts a local server. Does not render drafts but minifies html/css/javascript"
 
 # This port on your machine will be used to serve a local version of this website
 PORT = @PORT@
