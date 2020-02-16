@@ -142,17 +142,17 @@ params:
     logo: "logo/shirazlug.svg"
     # Next Session
     # TODO Make this property true whenever subject, date, time, and place of next session are determined
-    certainNextSession: false
+    certainNextSession: true
     nextSessionDate: "چهارشنبه ۳۰ بهمن ۱۳۹۸"
-    image: "img/posters/poster185.jpg"
-    # poster: "img/posters/next_poster.jpg"
-    # link:
+    image: "img/posters/poster186.jpg"
+    poster: "img/posters/poster186.jpg"
+    link: "https://evnd.co/9qWYn"
     imageWidth: 500px
     lastSession: session185
     # Address
     # address: "آدرس: خ همت جنوبی، کوچه ۱۰/۲، سالن همایش امام رضا (ع)"
     # address: "آدرس: ستارخان، انتهای خ نمازی، دانشگاه زند، سالن همایش"
-    address: "آدرس: بولوار مدرس، روبروی فضل‌آباد، دانشگاه صنعتی شیراز"
+    address: "آدرس: بولوار مدرس، روبروی فضل‌آباد، دانشگاه صنعتی شیراز - خانه فرهنگ"
     # address: "شیراز، میدان آزادی، پارک آزادی"
     # address: "شیراز، بولوار امیرکبیر، بوستان جنت"
 
