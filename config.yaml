@@ -144,7 +144,7 @@ params:
     # TODO Make this property true whenever subject, date, time, and place of next session are determined
     certainNextSession: false
     nextSessionDate: "چهارشنبه ۱۴ اسفند ۱۳۹۸"
-    image: "img/posters/poster186.jpg"
+    image: "img/posters/next_session.jpg"
     poster: "img/posters/poster186.jpg"
     # link: "https://evnd.co/9qWYn"
     imageWidth: 500px
