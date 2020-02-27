@@ -1,6 +1,6 @@
 ---
 title: "جلسه ۴۳"
-description: "نصب گنو لینوکس"
+subtitle: "نصب گنو لینوکس"
 date: "1394-10-01"
 author: "Mahshid, mehdiMj"
 draft: false

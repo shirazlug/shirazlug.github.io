@@ -1,5 +1,6 @@
 ---
 title: "جلسه ۱۲۰"
+subtitle: "گنوم شل (Gnome Shell)"
 description: "گنوم شل (Gnome Shell)"
 date: "1396-08-01"
 author: "وجیهه نیکخواه"
@@ -8,7 +9,7 @@ categories:
 summaryImage: "/img/posters/poster120.jpg"
 readmore: true
 ---
-[![poster120](../../img/posters/poster120.jpg)](../../img/poster120.jpg)
+[![نشست ۱۲۰ شیرازلاگ - گنوم شل (Gnome Shell)](../../img/posters/poster120.jpg)](../../img/poster120.jpg)
 
 صد و بیستمین جلسه شیرازلاگ در دانشگاه زند با ارائه امین خزاعی برگزار شد. در این جلسه امین به معرفی گنوم شل
  [Gnome Shell] (https://www.gnome.org/) پرداخت. 

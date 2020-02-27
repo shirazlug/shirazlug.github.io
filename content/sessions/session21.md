@@ -1,6 +1,6 @@
 ---
 title: "جلسه ی ۲۱"
-description: "لاتک"
+subtitle: "لاتک"
 date: "1394-04-09"
 author: "mehdiMj"
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: "جلسه ۶۱"
-description: "دوره لینوکس مقدماتی"
+subtitle: "دوره لینوکس مقدماتی"
 date: "1395-03-10"
 categories:
     - "sessions"

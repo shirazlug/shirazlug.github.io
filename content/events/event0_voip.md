@@ -1,10 +1,11 @@
 ---
-title: "کارگاه VoIP"
+title: "کارگاه VoIP "
 draft: false
+subtitle: "کارگاه عملی VoIP"
 description: "کارگاه عملی VoIP"
-author: "مریم بهزادی"
 date: "1396-10-07"
 summaryImage: "/img/events/voip.jpg"
+keywords: ["کارگاه", "وویپ", "ویپ", "voip", "دانشگاه", "آموزش", "دانشگاه صنعتی شیراز", "کارگاه عملی", "شیرازلاگ"]
 readmore: false
 ---
 

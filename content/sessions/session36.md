@@ -1,6 +1,6 @@
 ---
 title: "جلسه ۳۶"
-description: "Lisp , R lang"
+subtitle: "Lisp , R lang"
 date: "1394-08-02"
 author: "Mahshid, mehdiMj"
 draft: false

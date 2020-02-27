@@ -1,12 +1,14 @@
 ---
 title: "جلسه ۷۶"
+subtitle: "سرویس SSH و نحوه ی راندازی SSh server بر روی توزیع های red hat base و Debian base"
+description: "سرویس SSH و نحوه ی راندازی SSh server بر روی توزیع های red hat base و Debian base"
 date: "1395-07-04"
 categories:
     - "sessions"
 readmore: true
 ---
     جلسه هفتاد و ششم شیراز لاگ در انجمن صنفی کامپیوتر شیراز برگذار شد. در ابتدای
-جلسه خانوم جعفری در مورد سرویس SSH و نحوه ی راندازی SSh server بر روی توضیع
+جلسه خانوم جعفری در مورد سرویس SSH و نحوه ی راندازی SSh server بر روی توزیع
 های red hat base و Debian base صحبت کردند.
 
 پس از آن مهندس خزاعی کاربرد های مختلف سرویس SSH از قبیل انتقال امن فایل‌ها در

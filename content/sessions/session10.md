@@ -1,6 +1,6 @@
 ---
 title: "جلسه ی ۱۰"
-description: "بحث آزاد"
+subtitle: "بحث آزاد"
 date: "1394-01-20"
 categories:
     - "sessions"

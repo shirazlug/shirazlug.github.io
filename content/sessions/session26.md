@@ -1,6 +1,6 @@
 ---
 title: "جلسه ۲۶"
-description: "Scratch for kids2"
+subtitle: "Scratch for kids2"
 date: "1394-05-13"
 author: "mehdiMj"
 draft: false

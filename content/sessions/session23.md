@@ -1,6 +1,6 @@
 ---
 title: "جلسه ی ۲۳"
-description: "network + & GLAMP"
+subtitle: "network + & GLAMP"
 date: "1394-04-28"
 author: "mehdiMj"
 draft: false

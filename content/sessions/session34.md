@@ -1,6 +1,6 @@
 ---
 title: "جلسه ۳۴"
-description: "php"
+subtitle: "php"
 date: "1394-07-18"
 author: "Mahshid, mehdiMj"
 draft: false

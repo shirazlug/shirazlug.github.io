@@ -1,6 +1,6 @@
 ---
 title: "جلسه ۳۳"
-description: "توزیع تریسکل"
+subtitle: "توزیع تریسکل"
 date: "1394-07-11"
 author: "mehdiMj"
 draft: false

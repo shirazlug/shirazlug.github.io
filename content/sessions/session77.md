@@ -1,5 +1,7 @@
 ---
 title: "جلسه ۷۷"
+subtitle: " ابزار yersinia و روش‌های مختلف ایجاد مشکل با استفاده از yersinia "
+description: " ابزار yersinia و روش‌های مختلف ایجاد مشکل با استفاده از yersinia "
 date: "1395-07-12"
 categories:
     - "sessions"

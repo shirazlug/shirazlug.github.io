@@ -1,6 +1,6 @@
 ---
 title: "جلسه ۵۷"
-description: "سامانه Sentry"
+subtitle: "سامانه Sentry"
 date: "1395-02-13"
 author: "Mahshid, mehdiMj"
 draft: false

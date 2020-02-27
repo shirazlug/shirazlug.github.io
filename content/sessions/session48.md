@@ -1,6 +1,6 @@
 ---
 title: "جلسه ۴۸"
-description: "i3"
+subtitle: "i3"
 date: "1394-11-06"
 author: "Mahshid, mehdiMj"
 draft: false

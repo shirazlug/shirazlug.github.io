@@ -1,6 +1,6 @@
 ---
 title: "جلسه ۲"
-description: "پرسش و پاسخ و نصب توزیع"
+subtitle: "پرسش و پاسخ و نصب توزیع"
 date: "1393-10-29"
 categories:
     - "sessions"

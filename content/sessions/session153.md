@@ -1,5 +1,6 @@
 ---
 title: "جلسه ۱۵۳"
+subtitle: "Jekyll"
 description: "Jekyll"
 date: "1397-07-11"
 author: "مریم بهزادی"
@@ -9,4 +10,4 @@ categories:
 summaryImage: "/img/posters/poster153.jpg"
 readmore: false
 ---
-[![poster153](../../img/posters/poster153.jpg)](../../img/poster153.jpg)
+[![نشست ۱۵۳ شیرازلاگ - Jekyll](../../img/posters/poster153.jpg)](../../img/poster153.jpg)

@@ -1,6 +1,6 @@
 ---
 title: "جلسه ۳۷"
-description: "bash"
+subtitle: "bash"
 date: "1394-08-08"
 draft: false
 tags: ['bash']

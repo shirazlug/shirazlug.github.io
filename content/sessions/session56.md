@@ -1,6 +1,6 @@
 ---
 title: "جلسه ۵۶"
-description: "بحث آزاد"
+subtitle: "بحث آزاد"
 date: "1395-02-04"
 author: "Mahshid, mehdiMj"
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: "جلسه ۲۰"
-description: "شبکه‌ی صنعتی"
+subtitle: "شبکه‌ی صنعتی"
 date: "1394-04-01"
 categories:
     - "sessions"

@@ -1,6 +1,6 @@
 ---
 title: "جلسه ۱۶"
-description: "آرچ لینوکس"
+subtitle: "آرچ لینوکس"
 date: "1394-02-28"
 categories:
     - "sessions"

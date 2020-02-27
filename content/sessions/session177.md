@@ -1,6 +1,8 @@
 ---
 title: "جلسه ۱۷۷"
+subtitle: "هم‌افزایی شماره صفر"
 description: "هم‌افزایی شماره صفر"
+keywords: "شیرازلاگ، هم افزایی شماره صفر،Synergy #0،Shirazlug "
 date: "1398-07-11"
 author: "مریم بهزادی"
 draft: false
@@ -9,4 +11,4 @@ categories:
 summaryImage: "/img/posters/poster177.jpg"
 readmore: false
 ---
-[![poster177](../../img/posters/poster177.jpg)](../../img/poster177.jpg)
+[![نشست ۱۷۷ - هم‌افزایی شماره صفر](../../img/posters/poster177.jpg)](../../img/poster177.jpg)

@@ -1,5 +1,6 @@
 ---
 title: "جلسه ۱۵۱"
+subtitle: "گیت پیشرفته"
 description: "گیت پیشرفته"
 date: "1397-06-05"
 author: "گودرز جعفری"
@@ -9,4 +10,4 @@ categories:
 summaryImage: "/img/posters/poster151.jpg"
 readmore: false
 ---
-[![poster151](../../img/posters/poster151.jpg)](../../img/poster151.jpg)
+[![نشست ۱۵۱ شیرازلاگ - گیت پیشرفته](../../img/posters/poster151.jpg)](../../img/poster151.jpg)

@@ -1,6 +1,6 @@
 ---
 title: "جلسه ۲۲"
-description: "میزکار XFCE"
+subtitle: "میزکار XFCE"
 date: "1394-04-15"
 author: "mehdiMj"
 draft: false

@@ -1,5 +1,7 @@
 ---
 title: "مریم بهزادی"
+keywords: ["بهزادی", "مریم", "شیرازلاگ", "فعال", "نرم‌افزار", "آزاد", "هوش مصنوعی"]
+description: "مریم بهزادی از راهبران شیرازلاگ از سال ۹۶ تا ۹۸ هستند و در زمینه هوش مصنوعی و نرم‌افزار آزاد فعالیت می‌کند."
 summaryImage: "/img/team/behzadi.svg"
 ---
 ![مریم بهزادی](/img/team/behzadi.svg)
@@ -27,3 +29,11 @@ summaryImage: "/img/team/behzadi.svg"
 * مدیرعامل شرکت 
 [فناوران اینترنت اشیاء هیوا](https://hiva-iot.com/)
 * سخنران جشن انتشار اوبونتو - دانشگاه اراک / پاییز ۹۸
+
+---
+
+# لینک های ارتباطی
+* [ایمیل](mailto:behzadi@shirazlug.ir)
+* [کانال تلگرام](https://t.me/)
+* [لینکدین](https://linkedin.com/in/ ) 
+* [اینستاگرام](https://www.instagram.com/)

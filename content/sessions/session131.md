@@ -1,6 +1,7 @@
 ---
 title: "جلسه ۱۳۱"
-description: "رام‌های اندروید (ادامه)"
+subtitle: "رام‌های اندروید (ادامه)"
+description: "رام‌های اندروید"
 date: "1396-10-25"
 author: "مریم بهزادی"
 categories:
@@ -8,7 +9,7 @@ categories:
 summaryImage: "/img/posters/poster131.jpg"
 readmore: true
 ---
-[![poster131](../../img/posters/poster131.jpg)](../../img/poster131.jpg)
+[![نشست ۱۳۱ شیرازلاگ - رام‌های اندروید ](../../img/posters/poster131.jpg)](../../img/poster131.jpg)
 
 صد و سی و یکمین نشست شیرازلاگ در دانشگاه زند با ارائه آرمان علی قنبری برگزار شد. این نشست که در ادامه نشست جلسه قبل بود، آقای علی قنبری به صورت عملی کار با adb ، fastboot را آموزش داده و نیز در ادامه به نصب رام کاستوم در گوشی سامسونگ پرداختند.
 

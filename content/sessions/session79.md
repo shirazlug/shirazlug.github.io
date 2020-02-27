@@ -1,5 +1,7 @@
 ---
 title: "جلسه ۷۹"
+subtitle: "پروژه autoConnect و ماژول esp8266 استفاده شده در آن"
+description: "پروژه autoConnect و ماژول esp8266 استفاده شده در آن"
 date: "1395-08-01"
 categories:
     - "sessions"

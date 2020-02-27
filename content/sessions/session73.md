@@ -1,5 +1,7 @@
 ---
 title: "جلسه ۷۳"
+subtitle: "معرفی سیستم عامل اوبونتو تاچ"
+description: "معرفی سیستم عامل اوبونتو تاچ"
 date: "1395-06-13"
 categories:
     - "sessions"

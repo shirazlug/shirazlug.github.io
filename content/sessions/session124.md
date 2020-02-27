@@ -1,6 +1,6 @@
 ---
 title: "جلسه ۱۲۴"
-description: "آشنایی با کتابخانه STL در ++C"
+subtitle: "آشنایی با کتابخانه STL در ++C"
 date: "1396-08-29"
 author: "مریم بهزادی, وجیهه نیکخواه"
 categories:
@@ -8,7 +8,7 @@ categories:
 summaryImage: "/img/posters/poster124.jpg"
 readmore: true
 ---
-[![poster124](../../img/posters/poster124.jpg)](../../img/poster124.jpg)
+[![نشست ۱۲۴ شیرازلاگ - آشنایی با کتابخانه STL در ++C](../../img/posters/poster124.jpg)](../../img/poster124.jpg)
 
 صد و بیست و چهارمین نشست گروه کاربران لینوکس شیراز، با ارائه محسن نظام الملکی در دانشگاه زند برگزار شد. آقای نظام الملکی در این جلسه، به معرفی کتابخانه [STL](http://www.sgi.com/tech/stl/table_of_contents.html)
 که یکی از کتابخانه های پرکاربرد در ++C می باشد، پرداختند.

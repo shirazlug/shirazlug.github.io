@@ -1,6 +1,6 @@
 ---
 title: "جلسه ۴۲"
-description: "بحث آزاد"
+subtitle: "بحث آزاد"
 date: "1394-09-18"
 categories:
     - "sessions"

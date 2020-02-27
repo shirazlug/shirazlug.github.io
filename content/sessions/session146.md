@@ -1,5 +1,6 @@
 ---
 title: "جلسه ۱۴۶"
+subtitle: "پروژه‌های پیشنهادی fsf و گنو"
 description: "پروژه‌های پیشنهادی fsf و گنو"
 date: "1397-03-21"
 author: "وجیهه نیکخواه، مریم بهزادی"
@@ -9,7 +10,7 @@ categories:
 summaryImage: "/img/posters/poster146.jpg"
 readmore: true
 ---
-[![poster146](../../img/posters/poster146.jpg)](../../img/poster146.jpg)
+[![نشست ۱۴۶ شیرازلاگ - پروژه‌های پیشنهادی fsf و گنو ](../../img/posters/poster146.jpg)](../../img/poster146.jpg)
 
 صد و چهل و ششمین نشست شیرازلاگ با ارائه سید رحیم فیروزی در دانشگاه شیراز با محوریت پروژه های پیشنهادی fsf و گنو، برگزار شد.
 

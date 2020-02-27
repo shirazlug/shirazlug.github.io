@@ -1,5 +1,6 @@
 ---
 title: "جلسه ۱۴۱"
+subtitle: "اصول پایه Video و Audio دیجیتال"
 description: "اصول پایه Video و Audio دیجیتال"
 date: "1397-01-27"
 author: "مریم بهزادی"
@@ -8,7 +9,7 @@ categories:
 summaryImage: "/img/posters/poster141.jpg"
 readmore: true
 ---
-[![poster141](../../img/posters/poster141.jpg)](../../img/poster141.jpg)
+[![نشست ۱۴۱ شیرازلاگ - اصول پایه Video و Audio دیجیتال](../../img/posters/poster141.jpg)](../../img/poster141.jpg)
 
 در صد و چهل و یکمین نشست شیرازلاگ که در دانشگاه شیراز و با حضور اعضا صورت گرفت، رحیم فیروزی به توضیح در رابطه با کانتینرهای صوت و ویدئو پرداخت. در ادامه به توضیح FFmpeg که یک نرم افزار آزاد برای دستکاری بر روی فایل های مالتی مدیا می باشد پرداخته شد.
 

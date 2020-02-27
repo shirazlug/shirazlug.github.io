@@ -1,6 +1,6 @@
 ---
 title: "جلسه ۳۵"
-description: "Jupyter Notebook"
+subtitle: "Jupyter Notebook"
 date: "1394-07-24"
 author: "Mahshid, mehdiMj"
 draft: false

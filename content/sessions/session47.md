@@ -1,6 +1,6 @@
 ---
 title: "جلسه ۴۷"
-description: "arduino"
+subtitle: "arduino"
 date: "1394-10-29"
 author: "Mahshid, mehdiMj"
 draft: false

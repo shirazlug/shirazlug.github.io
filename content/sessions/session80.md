@@ -1,5 +1,6 @@
 ---
 title: "جلسه ۸۰"
+subtitle: "نرم افزار ویرایش متن vim و قابلیت های جالب آن"
 date: "1395-08-11"
 categories:
     - "sessions"

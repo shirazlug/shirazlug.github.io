@@ -1,6 +1,6 @@
 ---
 title: "جلسه ۳۹"
-description: "raspberry pi"
+subtitle: "raspberry pi"
 date: "1394-08-22"
 author: "Mahshid, mehdiMj"
 draft: false

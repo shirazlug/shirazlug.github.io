@@ -1,5 +1,7 @@
 ---
 title: "جلسه ۷۲"
+subtitle: "یادگیری ماشین"
+description: "یادگیری ماشین"
 date: "1395-06-06"
 categories:
     - "sessions"

@@ -1,6 +1,6 @@
 ---
 title: "جلسه ۴۵"
-description: "NixOS"
+subtitle: "NixOS"
 date: "1394-10-13"
 author: "Mahshid, mehdiMj"
 draft: false

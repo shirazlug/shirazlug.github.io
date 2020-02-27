@@ -1,6 +1,6 @@
 ---
 title: "جلسه ۶۴"
-description: "شبکه"
+subtitle: "شبکه"
 date: "1395-04-06"
 categories:
     - "sessions"

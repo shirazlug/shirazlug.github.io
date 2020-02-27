@@ -1,6 +1,6 @@
 ---
 title: "جلسه ۲۸"
-description: "مجوزهای نرم‌افزار آزاد"
+subtitle: "مجوزهای نرم‌افزار آزاد"
 date: "1394-05-28"
 author: "mehdiMj"
 draft: false

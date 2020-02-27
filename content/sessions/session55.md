@@ -1,6 +1,6 @@
 ---
 title: "جلسه ۵۵"
-description: " فریمورک لاراول"
+subtitle: " فریمورک لاراول"
 date: "1395-01-27"
 author: "Mahshid, mehdiMj"
 draft: false

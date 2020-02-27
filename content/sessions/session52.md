@@ -1,6 +1,6 @@
 ---
 title: "جلسه ۵۲"
-description: "کار تیمی"
+subtitle: "کار تیمی"
 date: "1394-12-06"
 author: "Mahshid, mehdiMj"
 draft: false
