@@ -2,7 +2,6 @@
 draft: false
 title: "مرامنامه"
 description: "مرامنامه گروه کاربران لینوکس شیراز"
-date: "2017-08-29T15:12:46+04:32"
 readmore: true
 ---
 

@@ -1,3 +1,10 @@
+---
+draft: false
+title: "تیم اجرایی"
+description: "تیم اجرایی شیرازلاگ"
+keywords: ["شیرازلاگ", "گنو/لینوکس", "متن‌باز", "نرم‌افزار آزاد", "لینوکس"]
+---
+
 ## راهبران ۹۸
 [![امین خزاعی](/img/team/khozaei.svg)](/members/khozaei/)
 [![مریم بهزادی](/img/team/behzadi.svg)](/members/behzadi/)

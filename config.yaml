@@ -78,7 +78,7 @@ params:
       },
       {
         name: "posts",
-        title: "پست های آزاد",
+        title: "پست‌های آزاد",
         url: "/posts/",
         weight: 6,
         icon: 'clipboard'
