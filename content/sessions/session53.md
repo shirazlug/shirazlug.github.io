@@ -1,6 +1,6 @@
 ---
 title: "جلسه ۵۳"
-description: "impress.js"
+subtitle: "impress.js"
 date: "1394-12-14"
 author: "Mahshid, mehdiMj"
 draft: false

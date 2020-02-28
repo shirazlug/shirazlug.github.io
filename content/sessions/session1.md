@@ -1,6 +1,6 @@
 ---
 title: "جلسه ۱"
-description: "دید سازمانی به نرم‌افزارهای آزاد"
+subtitle: "دید سازمانی به نرم‌افزارهای آزاد"
 date: "1393-10-22"
 categories:
     - "sessions"

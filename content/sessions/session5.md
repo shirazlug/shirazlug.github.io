@@ -1,6 +1,6 @@
 ---
 title: "جلسه ۵"
-description: "دسترسی‌ها و گروه‌های کاربری"
+subtitle: "دسترسی‌ها و گروه‌های کاربری"
 date: "1393-11-25"
 categories:
     - "sessions"

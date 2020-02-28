@@ -1,6 +1,6 @@
 ---
 title: "جلسه ۵۸"
-description: "لینوکس از پایه"
+subtitle: "لینوکس از پایه"
 date: "1395-02-20"
 author: "Mahshid, mehdiMj"
 draft: false

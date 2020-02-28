@@ -1,6 +1,6 @@
 ---
 title: "جلسه ۲۹"
-description: "کتاب خانه های چند پردازه ای "
+subtitle: "کتاب خانه های چند پردازه ای "
 date: "1394-06-05"
 author: "mehdiMj"
 draft: false

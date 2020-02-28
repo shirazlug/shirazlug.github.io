@@ -1,14 +1,17 @@
 ---
 title: "جلسه ۱۸۵"
+keywords: "ادیتورهای محبوب در لینوکس، لینوکس، Atom،Vim،ویرایشگر،electron"
+descriptiopn: ""
 author: "بابک رزمجو"
 draft: false
 date: "1398-11-02"
-description: "مقایسهٔ ویرایشگرهای محبوب دنیای گنو/لینوکس"
+subtitle: "مروری بر ادیتورهای محبوب دنیای لینوکس"
+description: "مقایسه دو ویرایشگر محبوب در دنیای لینوکس - جلسه ۱۸۵ شیرازلاگ"
 weight: -1
 summaryImage: "/img/posters/poster185.jpg"
 readmore: true
 ---
-[![poster185](/img/posters/poster185.jpg)](/img/posters/poster185.jpg)
+[![نشست ۱۸۵ شیرازلاگ -مروری بر ادیتورهای محبوب دنیای لینوکس](/img/posters/poster185.jpg)](/img/posters/poster185.jpg)
 
 در این جلسه محسن نظام الملکی ویرایشگرهای زیر را معرفی کرد و کلیات روش استفاده‌ٔ هرکدام را توضیح داد:
 

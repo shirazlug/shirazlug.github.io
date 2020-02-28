@@ -1,6 +1,6 @@
 ---
 title: "جلسه ۵۱"
-description: "BSD"
+subtitle: "BSD"
 date: "1394-11-27"
 author: "Mahshid, mehdiMj"
 draft: false

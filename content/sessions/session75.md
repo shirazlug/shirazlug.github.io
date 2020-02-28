@@ -1,5 +1,7 @@
 ---
 title: "جلسه ۷۵"
+subtitle: "نرم‌افزار گیمپ"
+description: "نرم‌افزار گیمپ"
 date: "1395-06-27"
 categories:
     - "sessions"

@@ -1,5 +1,7 @@
 ---
 title: "بابک رزمجو"
+keywords: "شیرازلاگ،تیم اجرایی،بابک رزمجو"
+description: "بابک رزمجو از اعضاء تیم اجرایی شیراز لاگ هستند و دارای مدرک کارشناسی ریاضی محض هستند."
 summaryImage: "/img/team/razmjoo.svg"
 ---
 ![بابک رزمجو](/img/team/razmjoo.svg)

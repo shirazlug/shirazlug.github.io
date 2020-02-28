@@ -1,6 +1,6 @@
 ---
 title: "جلسه ی ۱۷"
-description: "بلندر + گیت"
+subtitle: "بلندر + گیت"
 date: "1394-03-15"
 categories:
     - "sessions"

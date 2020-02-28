@@ -1,5 +1,6 @@
 ---
 title: "جلسه ۱۵۷"
+subtitle: "Tor - The Onion Network"
 description: "Tor - The Onion Network"
 date: "1397-09-07"
 author: "آرمان علی قنبری"
@@ -9,7 +10,7 @@ categories:
 summaryImage: "/img/posters/poster157.jpg"
 readmore: true
 ---
-[![poster157](../../img/posters/poster157.jpg)](../..۷/img/poster157)
+[![نشست ۱۵۷ شیرازلاگ - Tor - The Onion Network](../../img/posters/poster157.jpg)](../..۷/img/poster157)
 
 صد و پنجاه هفتمین جلسه شیراز لاگ باموضوع تور در خانه فرهنگ دانشگاه صنعتی شیراز برگزار شد .در این نشست مهندس مولایی به توضیح نحوه نصب وراه انذازی torکاربرد  هاو وسرویس های مخفی درtor  پرداخت.
 

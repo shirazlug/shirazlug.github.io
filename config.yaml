@@ -1,7 +1,8 @@
 baseURL: "https://shirazlug.ir/"
 
 languageCode: "fa-IR"
-title: شیرازلاگ
+title: شیرازلاگ | گروه کاربران گنو/لینوکس شیراز
+description: به شیرازلاگ خوش آمدید :) لاگ به معنی گروه کاربران گنو/لینوکس است و از افراد مختلف که به منظور تبادل اطلاعات در حوزه‌ی نرم‌افزارهای آزاد و متن‌باز دور هم جمع می‌شوند، تشکیل شده است. اگر تمایل دارید دانش خود را با دیگران به اشتراک بگذارید یا کنجکاوید تا از تکنولوژی‌های آزاد جدید اطلاعاتی کسب کنید و یا از بودن در کنار چند دوست فعال در این زمینه لذت می‌برید، با ما همراه شوید. در ضمن، شرکت در جلسات برای عموم آزاد و رایگان است.
 theme: hugo-refresh-rtl
 staticDir: "static"
 
@@ -13,6 +14,14 @@ blackfriday:
 
 Taxonomies:
   tag: "tags"
+
+enableRobotsTXT: True
+
+sitemap:
+  changefreq: weekly
+  filename: sitemap.xml
+  priority: 0.5
+
 
 
 # Supported fonts are:
@@ -31,7 +40,8 @@ params:
   mainColour: "#F39200"
   author: "شیرازلاگ"
   favicon: "favicon.ico"
-
+  twitter: "@ShirazLUG_ir"
+  sitename: "Shirazlug"
 
   # summary options
   summary:    
@@ -149,6 +159,7 @@ params:
     # link: "https://evnd.co/9qWYn"
     imageWidth: 500px
     lastSession: session186
+    altimage: "نشست ۱۸۶ شیرازلاگ - Modern C++ "
     # Address
     # address: "آدرس: خ همت جنوبی، کوچه ۱۰/۲، سالن همایش امام رضا (ع)"
     # address: "آدرس: ستارخان، انتهای خ نمازی، دانشگاه زند، سالن همایش"

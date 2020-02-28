@@ -1,3 +1,13 @@
+---
+draft: false
+title: "تیم اجرایی"
+keywords: "شیراز لاگ,تیم اجرایی، رهبران ۹۸، گرافیک، توسعهخ دهنده سایت،رادیو لاگ، شبکه‌های اجتماعی  "
+description: "معرفی راهبران و تیم اجرایی شیراز لاگ"
+date: "2017-08-10T15:12:46+04:30"
+readmore: true
+---
+
+
 ## راهبران ۹۸
 [![امین خزاعی](/img/team/khozaei.svg)](/members/khozaei/)
 [![مریم بهزادی](/img/team/behzadi.svg)](/members/behzadi/)

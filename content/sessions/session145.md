@@ -1,5 +1,6 @@
 ---
 title: "جلسه ۱۴۵"
+subtitle: "Embedded Linux"
 description: "Embedded Linux"
 date: "1397-03-07"
 author: "مریم بهزادی"
@@ -9,7 +10,7 @@ categories:
 summaryImage: "/img/posters/poster145.jpg"
 readmore: true
 ---
-[![poster145](../../img/posters/poster145.jpg)](../../img/poster145.jpg)
+[![نشست ۱۴۵ شیرازلاگ - Embedded Linux](../../img/posters/poster145.jpg)](../../img/poster145.jpg)
 
 صد و چهل و پنجمین نشست شیرازلاگ با ارائه امین خزاعی با استقبال جمع کثیری از دوستان در دانشگاه شیراز برگزار شد. 
 

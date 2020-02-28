@@ -1,6 +1,6 @@
 ---
 title: "جلسه ۴۰"
-description: "gentoo"
+subtitle: "gentoo"
 date: "1394-09-03"
 author: "Mahshid, mehdiMj"
 draft: false

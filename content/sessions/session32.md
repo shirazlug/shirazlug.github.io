@@ -1,7 +1,7 @@
 ---
 title: "جلسه ۳۲"
 date: "1394-07-01"
-description: "arch yaourt"
+subtitle: "arch yaourt"
 author: "mehdiMj"
 draft: false
 tags: ['arch yaourt', 'arch']

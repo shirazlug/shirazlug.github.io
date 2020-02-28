@@ -1,6 +1,8 @@
 ---
 title: "جلسه ۱۶۶"
-description: "پردازش موازی در C++/C با OpenMP"
+subtitle: "پردازش موازی در C++/C با OpenMP"
+description: "Openmp یک کتابخانه برای برنامه‌نویسی Multiprocessing، با حافظه اشتراکی، در زبان های Fortran/c++/c می باشد. "
+keywords: "شیرازلاگ،برنامه‌نویسی چند پردازنده‌ای،Openmp، Multiprocessing،Fortran،c/c++،AIX،Thred،Linux،windows،Macos"
 date: "1398-02-04"
 author: "آرمان علی قنبری, مریم بهزادی"
 draft: false
@@ -9,7 +11,7 @@ categories:
 summaryImage: "/img/posters/poster166.jpg"
 readmore: true
 ---
-[![poster166](../../img/posters/poster166.jpg)](../../img/poster166.jpg)
+[![نشست ۱۶۶ - پردازش موازی در C++/C با OpenMP](../../img/posters/poster166.jpg)](../../img/poster166.jpg)
 
 
 صد و شصت و ششمین نشست شیرازلاگ با حضور جمعی از اعضا و علاقه مندان در خانه فرهنگ دانشگاه صنعتی شیراز با ارائه آقای محسن نظام الملکی  برگزار شد.‍‍ openmp 

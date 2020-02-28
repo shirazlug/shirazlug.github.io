@@ -1,7 +1,9 @@
 ---
 title: "سومین جشن تولد"
 draft: false
+subtitle: "جشن تولد سه سالگی شیرازلاگ"
 description: "جشن تولد سه سالگی شیرازلاگ"
+keywords: "شیرازلاگ، جشن تولد شیرازلاگ"
 author: "مریم بهزادی"
 date: "1396-10-18"
 summaryImage: "/img/events/3rd-birthday.jpg"

@@ -1,5 +1,6 @@
 ---
 title: "جلسه ۱۳۴"
+subtitle: "کنترل ورژن گیت"
 description: "کنترل ورژن گیت"
 date: "1396-11-16"
 author: "مریم بهزادی"
@@ -8,7 +9,7 @@ categories:
 summaryImage: "/img/posters/poster134.jpg"
 readmore: true
 ---
-[![poster134](../../img/posters/poster134.jpg)](../../img/poster134.jpg)
+[![نشست ۱۳۴ شیرازلاگ - کنترل ورژن گیت](../../img/posters/poster134.jpg)](../../img/poster134.jpg)
 
 صد و سی و چهارمین نشست شیرازلاگ با ارائه خانم نیکخواه در رابطه با گیت برگزار شد. در این جلسه مفاهیم پایه ای گیت مطرح شد و چندین مثال عملی برای درک بهتر مساله انجام شد.
 

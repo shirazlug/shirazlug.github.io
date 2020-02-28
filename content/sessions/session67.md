@@ -1,5 +1,6 @@
 ---
 title: "جلسه ی ۶۷"
+subtitle: "میزکار برای گنو/لینوکس"
 description: "میزکار برای گنو/لینوکس"
 date: "1395-05-15"
 categories:
