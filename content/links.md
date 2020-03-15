@@ -28,7 +28,7 @@ readmore: true
 - [کرمانشاه](http://tiny.cc/kermanshah)
 - [گیلان](http://tiny.cc/guilan)
 - [مشهد](http://tiny.cc/mashad)
-- [بجنورد](http://tiny.cc/Bojnord)
+<!-- [بجنورد](http://tiny.cc/Bojnord) FIXME this link is broken -->
 - [مازندران](http://tiny.cc/mazandaran)
 - [گرگان](http://t.me/Gorganlug)
 - [همدان](http://tiny.cc/hmdlug)
