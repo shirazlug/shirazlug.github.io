@@ -12,11 +12,9 @@ readmore: true
 ---
 [![نشست ۱۵۸ شیرازلاگ - رایانش ابری](../../img/posters/poster158.jpg)](../../img/poster158.jpg)
 
-صد و پنجاه و هشتمین نشست  شیراز لاگ با موضوع cloud در حضور جمعی از دوستان وعلاقه مندان برگزار شد .در این نشست  ابتدامهندس سعید بوستان دوست به تعریف مفهوم cloud پرداخته  از مزایا و معایب ان گفت وانواع مختلف cloud را شرح داد و در اخر نحوه ساخت  cloud private را به صورت عملی به حضار نشان داد .
+صد و پنجاه و هشتمین نشست شیرازلاگ با موضوع cloud در حضور جمعی از دوستان و علاقه مندان برگزار شد .در این نشست ابتدا مهندس سعید بستان دوست به تعریف مفهوم cloud پرداخته، از مزایا و معایب آن گفت و انواع مختلف cloud را شرح داد و در آخر نحوه ساخت cloud private را به صورت عملی به حضار نشان داد.
 
-فایل های این ارائه را می توانید از [اینجا](https://framagit.org/shirazlug/resources/tree/master/presentations/session_158)
-یا [اینجا](https://www.slideshare.net/ShirazLUG/ss-126614454)
-دریافت کنید.
+فایل های این ارائه را می توانید از [اینجا](https://framagit.org/shirazlug/resources/tree/master/presentations/session_158) یا [اینجا](https://www.slideshare.net/ShirazLUG/ss-126614454) دریافت کنید.
 
 <div class="row">
     <div class="col-lg-12">
