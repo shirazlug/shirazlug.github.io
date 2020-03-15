@@ -18,7 +18,7 @@ readmore: true
 
 ## گرافیک
 [![مریم بهزادی](/img/team/behzadi.svg)](/members/behzadi/)
-![محسن نظام‌الملکی](/img/team/nezam.svg)
+[![محسن نظام‌الملکی](/img/team/nezam.svg)](/members/nezam/)
 [![امین خزاعی](/img/team/khozaei.svg)](/members/khozaei/)
 
 ---
@@ -27,7 +27,7 @@ readmore: true
 [![مریم بهزادی](/img/team/behzadi.svg)](/members/behzadi/)
 [![امین خزاعی](/img/team/khozaei.svg)](/members/khozaei/)
 [![محمد میرشائی](/img/team/mirshaei.svg)](/members/mirshaei/)
-![محسن نظام‌الملکی](/img/team/nezam.svg)
+[![محسن نظام‌الملکی](/img/team/nezam.svg)](/members/nezam/)
 ![وجیهه نیکخواه](/img/team/nikkhah.svg)
 ![پویا برزگر](/img/team/barzegar.svg)
 ![زهره بیضاوی](/img/team/beyzavi.svg)
