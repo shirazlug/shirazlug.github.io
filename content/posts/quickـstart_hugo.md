@@ -7,6 +7,7 @@ tags: ["Hugo"]
 draft: false
 author: "محسن نظام الملکی"
 readmore: true
+needshighlight: true
 ---
 
 **ساخت قفسه کتاب:**
