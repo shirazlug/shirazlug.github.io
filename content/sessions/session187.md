@@ -14,7 +14,7 @@ draft: false
 
 این جلسه از شیرازلاگ به شکل کنفرانس ویدیویی و غیرحضوری برگزار شد. فیلم ارائه ضبط شده است و می توانید در بخشهای زیر مشاهده کنید.
 
-<iframe width="560" height="315" sandbox="allow-same-origin allow-scripts" src="https://open.tube/videos/embed/69e50dc9-ebe9-4905-a6f3-8549372f93a0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" sandbox="allow-same-origin allow-scripts" src="https://open.tube/videos/embed/69e50dc9-ebe9-4905-a6f3-8549372f93a0" frameborder="0" allowfullscreen="true"></iframe>
 
 [تماشای همین فیلم در open.tube](https://open.tube/videos/watch/69e50dc9-ebe9-4905-a6f3-8549372f93a0)
 
