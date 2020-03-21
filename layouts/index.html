@@ -67,15 +67,15 @@
                     </div>
                 </div>
             </div>
-            {{ else }} {{- $last_session := printf "%v%s" $baseurl .Site.Params.homepage.image -}}
+            {{ else }} {{- $last_session_poster := printf "%v%s" $baseurl .Site.Params.homepage.lastPoster -}}
             <div class="columns has-text-centered">
                 <div class="column">
-                    <p class="shabnam">موضوع، زمان و مکان جلسهٔ آیندهٔ شیرازلاگ هنوز مشخص نشده است؛ ولی اگر همه چیز مانند روال سابق پیش برود این جلسه در تاریخ {{ .Site.Params.homepage.nextSessionDate }} برگزار خواهد شد.</p>
+                    <p class="shabnam">{{- .Site.Params.homepage.nextSessionProspect -}}</p>
                 </div>
                 <div class="column">
                     <h2 class="shabnam">جلسهٔ پیش شیراز لاگ</h2>
                     <a href="/sessions/{{ .Site.Params.homepage.lastSession }}">
-                        <img class="next-session" src="{{- $last_session -}}"  alt="{{.Site.Params.homepage.altimage}}">
+                        <img class="next-session" src="{{- $last_session_poster -}}"  alt="{{.Site.Params.homepage.altimage}}">
                     </a>
                 </div>
             </div>
