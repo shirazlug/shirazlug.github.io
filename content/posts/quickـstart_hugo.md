@@ -16,29 +16,28 @@ needshighlight: true
 
 **گام ۱ : نصب Hugo (بر روی لینوکس)‬‬**
 
-اگر از توزیعی استفاده میکنید که ابزار snap را پشتیبانی می کند ، می توانید به راحتی با دستور زیر ، hugo  را بر روی سیستم خود نصب کنید .
+اگر از توزیعی استفاده میکنید که ابزار snap را پشتیبانی می کند، می توانید به راحتی با دستور زیر ، hugo را بر روی سیستم خود نصب کنید.
 
 
-```console
+```shell
 $ sudo apt install snapd
 $ snap install hugo
 ```
 
 
-- : نصب باینری و نصب از سورس را می توانید از سایت go.hugo.io  مطالعه کنید.
-با اجرای دستور hugo help $ می توانید اطلاعاتی راجع به هیوگو بدست بیاورید. همچنین با دستور hugo version $ میتوانید از ورژن هیوگو خود مطلع شوید.
+نصب باینری و نصب از سورس را می توانید از سایت go.hugo.io  مطالعه کنید. با اجرای دستور `hugo help` می توانید اطلاعاتی راجع به هیوگو بدست بیاورید. همچنین با دستور `hugo version` میتوانید از ورژن هیوگو خود مطلع شوید.
 
 **گام ۲ : چهار چوب سایت.**
 
 برای ساخت یک چهارچوب کلی از دستور زیر استفاده می کنیم. در اینجا ما یک چهارچوب برای سایتی با نام bookshelf ایجاد کرده ایم، شما میتوانید نام دیگری انتخاب کنید.
 
-``` console
+```shell
 $ hugo new site bookshelf
 ```
 
 وارد دایرکتوری bookshelf می شویم و از دایرکتوری bookshelf ، لیست ( ls ) میگیریم.
 
-```console
+```shell
 $ ls -1
 
 archtypes
@@ -68,7 +67,7 @@ static
 
 بیایید یک پست جدید اضافه کنیم. از hugo new استفاده می کنیم.
 
-```console
+```shell
 $ hugo new post/firstpost.md
 home/.../bookshelf/content/post/firstpost.md created
 ```
@@ -76,9 +75,11 @@ home/.../bookshelf/content/post/firstpost.md created
 فرمان بالا یک پوشه جدید به نام post در دایرکتوری content ایجاد می کند و در آن فایلی به نام firstpost.md  می سازد. دقت کنید که پسوند md به معنی مارکدان  ( markdown ) میباشد.
 فرمان زیر را برای مشاهده پوشه اجرا کنید.
 
-```console
+```shell
 $ tree content
+```
 
+```text
 content
 └── post
     └── firstpost.md
@@ -87,11 +88,11 @@ content
 ```
  محتوای درون firstpost.md باید به صورت زیر باشد.( یا چیزی مانند این. ممکن است به جای +++ از --- استفاده شود.)
 
-```
+```toml
 +++
-title = “firstpost”
+title = "firstpost"
 draft = true
-date = “2017-02-17T17:40:24+03:30”
+date = "2017-02-17T17:40:24+03:30"
 +++
 ```
 
@@ -105,14 +106,14 @@ date = “2017-02-17T17:40:24+03:30”
 
 بیاید یک متن کوچک اضافه کنیم .
 
-
-	+++
-	title = “firstpost”
-	draft = true
-	date = …
-	+++
-	سلام. امروز یکشنبه ۱ اسفند است. امروز هوا خوب بود. بارندگی چند روز اخیر همه را مسرور کرده است.
-
+```toml
++++
+title = "firstpost"
+draft = true
+date = …
++++
+سلام. امروز یکشنبه ۱ اسفند است. امروز هوا خوب بود. بارندگی چند روز اخیر همه را مسرور کرده است.
+```
 
 
 
@@ -121,11 +122,11 @@ date = “2017-02-17T17:40:24+03:30”
 هیوگو یک سرور درون درون ساختی ( built-in )‌ دارد که می توانید سایت خود را در آن آماده و اجرا کنید و نتیجه کار را ببینید.
 فرمان زیر را درون دایرکتوری bookshelf اجرا کنید.
 
-```console
+```shell
 $ hugo server
 ```
 
-```console
+```text
 0 of 1 draft rendered
 0 future content
 0 pages created
@@ -153,11 +154,11 @@ http://localhost:1313
 
 برای اجرای سایت به همراه نمایش فایل های draft شده دستور زیر را وارد می کنیم.
 
-```console
+```shell
 $ hugo server --buildDrafts
 ```
 
-```console
+```text
 1 of 1 draft rendered
 0 future content
 1 pages created
@@ -181,13 +182,13 @@ Press Ctrl+C to stop
 
 دستور زیر را وارد می کنیم.
 
-```console
+```shell
 $ cd theme
 ```
 
 حالا می خواهیم تم robust را اضافه کنیم.
 
-```console
+```shell
 $ git clone https://github.com/dim0627/hugo_theme_robust.git
 $ (cd hugo_theme_robust; git checkout b8ce466)
 $ cd ..
@@ -195,11 +196,11 @@ $ cd ..
 
  اجرای دوباره ی سرور :
 
-```console
+```shell
 $ hugo server --theme=hugo_theme_robust --buildDrafts
 ```
 
-```console
+```text
 1 of 1 draft rendered
 0 future content
 1 pages created
@@ -229,13 +230,13 @@ Press Ctrl+C to stop
 
 شما به راحتی می توانید تم های مختلف را به وسیله ی سوییچ کردن بین آنها برای محتوای خود انتخاب کنید. فرض می کنیم که می خواهیم تم bleak را به سایت خود اضافه کنیم. ما تم bleak را با دستور زیر در دایرکتوری theme کپی می کنیم.
 
-```console
+```shell
 $ git clone https://github.com/Zenithar/hugo-theme-bleak.git
 ```
 
 سرور را دوباره راه اندازی می کنیم ، البته با تم hugo-theme-bleak .
 
-```console
+```shell
 $ hugo server --theme=hugo-theme-bleak --buildDrafts
 ```
 
@@ -248,18 +249,18 @@ $ hugo server --theme=hugo-theme-bleak --buildDrafts
 
 سرور را با تم robust مجددا راه اندازی کنید.
 
-```console
+```shell
 $ hugo server --theme=hugo_theme_robust --buildDrafts
 ```
 
-وب سایت از مقادیر مشخص شده در فایل bookshelf/config.toml  استفاده میکند. بیایید این فایل را بروز رسانی کنیم.
+وب سایت از مقادیر مشخص شده در فایل bookshelf/config.toml استفاده میکند. بیایید این فایل را بروز رسانی کنیم.
 
 ```toml
-languageCode="en-us"
-title= "سایت هیوگو "
-baseURL=" http://example.org/"
+languageCode = "en-us"
+title = "سایت هیوگو"
+baseURL = "http://example.org/"
 [Params]
-	Author= " محسن "
+	Author = "محسن"
 ```
 
 هیوگو از یک سیستم ریلود زنده ( live reloading ) برای آپدیت تغییرات استفاده می کند. بدین ترتیب که نیازی نیست سرور را ریست کنید و سایت به طور خودکار تغییر می کند. می توانید تغییرات ایجاد شده را ببینید.
@@ -359,13 +360,13 @@ image=firstpost.jpg
 
 تا اینجا تمام پست های ما در حالت پیش نویس ( draft ) بودنده اند. برای تبدیل این پست ها به حالت عمومی میتوانید دستور زیر را اجرا کنید و یا به صورت دستی مقدار draft را در front-matter پست false قرار دهید
 
-```console
+```shell
 $ hugo undraft content/post/first.md
 ```
 
 حالا می توانید سرور را بدون عبارت buildDrafts اجرا کنید.
 
-```console
+```shell
 $ hugo server --theme=hugo_theme_robust
 ```
 
@@ -397,11 +398,11 @@ baseURL = "https://<your GitHub username>.github.io/bookshelf/"
 
 سپس دستور زیر را اجرا کنید.
 
-```console
+```shell
 $ hugo --theme=hugo_theme_robust
 ```
 
-```console
+```text
 0 draft content
 0 future content
 5 pages created
@@ -417,32 +418,32 @@ in 17 ms
 
 در دایرکتوری روت دستورات زیر را وارد می کنیم.
 
-```console
+```shell
 $ git init
 ```
 
 برای ایجاد کردن git بر روی دایرکتوری جاری.
 
-```console
+```shell
 $ echo "/public/" >> .gitignore
 $ echo "/themes/" >> .gitignore
 ```
 
 پوشه های pubic و theme  را در لیست gitignore قرار می دهیم، بدین ترتیب در هنگام ارسال پروژه به سرور محتوای این دو پوشه فرستاده نمی شود.
 
-```console
+```shell
 $ git add –all
 ```
 
 اضافه کردن همه ی تغییرات به حافظه میانجی
 
-```console
+```shell
 $ git status
 ```
 
 دیدن تغییرات
 
-```console
+```shell
 $ git commit -m "Initial commit"
 ```
 
@@ -456,7 +457,7 @@ m- برای اضافه کردن یک توضیح
 یک مخزن جدید به نام bookshelf در صفحه ی گیت هاب خود ایجاد کنید.( همراه یک README ) . بعد یک مخزن گیت بر روی کامپیوتر شخصی و در دایرکتوری bookshelf/public ایجاد کنید و سپس یک ریموت در آن ایجاد کنید. مانند زیر:
 
 
-```console
+```shell
 $ cd public
 $ git init
 $ git remote add origin git@github.com:<github-username>/bookshelf.git
@@ -464,14 +465,14 @@ $ git remote add origin git@github.com:<github-username>/bookshelf.git
 
 خب حالا ما یک انشعاب جدید ،درست می کنیم.
 
-```console
+```shell
 $ git checkout -b gh-pages
 Switched to a new branch 'gh-pages'
 ```
 
 تمام فایل های موجود در دایرکتوری bookshelf/pubic را به فهرست git اضافه کرده و سپس آنها را کامیت ( commit ) می کنیم و در آخر به گیت هاب انتقال می دهیم .
 
-```console
+```shell
 $ git add --all
 $ git commit -m "bookshelf added"
 $ git push -f origin gh-pages
@@ -483,7 +484,7 @@ $ git push -f origin gh-pages
 
 شما هر موقع می توانید سایت خود را توسط دستورات زیر بازتولید کنید.
 
-```console
+```shell
 $ (cd ..; hugo --theme=hugo_theme_robust)
 $ git add --all
 $ git commit -m "<some change message>"
