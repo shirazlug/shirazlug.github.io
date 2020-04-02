@@ -166,8 +166,8 @@ params:
     logo: "logo/shirazlug.svg"
     # Next Session
     # TODO Make this property true whenever subject, date, time, and place of next session are determined
-    certainNextSession: false
-    # image: "img/posters/next_session.jpg"
+    certainNextSession: true
+    image: "img/posters/next_session.jpg"
     lastPoster: "img/posters/poster187.jpg"
     # link: "https://evnd.co/9qWYn"
     imageWidth: 500px

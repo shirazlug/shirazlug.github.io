@@ -43,9 +43,11 @@
                 <!-- Registeration -->
                 <div class="column">
                     <div class="column">
-                        <a class="subtitle homepage-links is-6" href="{{- $link -}}" target="_blank">
+                    	{{ with .Site.Params.homepage.link }}
+                        <a class="subtitle homepage-links is-6" href="{{- . -}}" target="_blank">
                             ثبت‌نام جلسه آینده شیرازلاگ
                         </a>
+                        {{ end }}
                     </div>
                     <div class="column">
                         <a href="{{- $link -}}" target="_blank">
@@ -55,8 +57,8 @@
                 </div>
 
                 <!-- Address -->
-                <div class="column has-text-centered">
-                    <!-- Sanati University -->
+                <!--div class="column has-text-centered">
+                    <!-- Sanati University >
                     <div class="column">
                         <a class="subtitle homepage-links is-6" href="https://www.openstreetmap.org/way/68560755">
                             {{ .Site.Params.homepage.address }}
@@ -65,7 +67,7 @@
                     <div class="column">
                         <iframe class="location" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=52.57729303797534%2C29.582537620493266%2C52.58231413325122%2C29.585653886990446&amp;layer=mapnik&amp;marker=29.584095765769607%2C52.57980358561326"></iframe>
                     </div>
-                </div>
+                </div-->
             </div>
             {{ else }} {{- $last_session_poster := printf "%v%s" $baseurl .Site.Params.homepage.lastPoster -}}
             <div class="columns has-text-centered">
