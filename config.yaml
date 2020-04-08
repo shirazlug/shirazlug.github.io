@@ -166,20 +166,20 @@ params:
     logo: "logo/shirazlug.svg"
     # Next Session
     # TODO Make this property true whenever subject, date, time, and place of next session are determined
-    certainNextSession: true
+    certainNextSession: false
     image: "img/posters/next_session.jpg"
-    lastPoster: "img/posters/poster187.jpg"
+    lastPoster: "img/posters/poster188.jpg"
     # link: "https://evnd.co/9qWYn"
     imageWidth: 500px
-    lastSession: session187
-    altimage: "نشست ۱۸۷ شیرازلاگ - زبان برنامه نویسی جاوا"
+    lastSession: session188
+    altimage: "نشست ۱۸۸ شیرازلاگ - برنامه نویسی سطح بالا با C"
     # Address
     # address: "آدرس: خ همت جنوبی، کوچه ۱۰/۲، سالن همایش امام رضا (ع)"
     # address: "آدرس: ستارخان، انتهای خ نمازی، دانشگاه زند، سالن همایش"
     # address: "آدرس: بولوار مدرس، روبروی فضل‌آباد، دانشگاه صنعتی شیراز - خانه فرهنگ"
     # address: "شیراز، میدان آزادی، پارک آزادی"
     # address: "شیراز، بولوار امیرکبیر، بوستان جنت"
-    nextSessionProspect: به دلیل تعطیلات عید نوروز تا ۱۵ فروردین ۱۳۹۹ جلسه ای نداریم
+    # nextSessionProspect: به دلیل تعطیلات عید نوروز تا ۱۵ فروردین ۱۳۹۹ جلسه ای نداریم
     # Or you can use this:
     # nextSessionProspect: موضوع، زمان و مکان جلسهٔ آیندهٔ شیرازلاگ هنوز مشخص نشده است؛ ولی اگر همه چیز مانند روال سابق پیش برود این جلسه در تاریخ چند شنبه ۹۹ ماه ۱۳۹۹ برگزار خواهد شد.
     
