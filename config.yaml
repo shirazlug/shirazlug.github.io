@@ -38,6 +38,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
 
+googleAnalytics: UA-165578778-1
 
 # Supported fonts are:
 # https://fonts.google.com/
