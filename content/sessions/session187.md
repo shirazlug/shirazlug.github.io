@@ -3,6 +3,7 @@ title: "جلسه ۱۸۷"
 author: "بابک رزمجو"
 date: "1398-12-28"
 description: "علی مولایی زبان برنامه نویسی جاوا را معرفی می کند و وضعبت فعلی آن را شرح می دهد"
+keywords: "شیرازلاگ،گنولینوکس،جاوا،برنامه نویسی جاوا" 
 weight: -1
 summaryImage: "/img/posters/poster187.jpg"
 tags: [java]

@@ -3,6 +3,7 @@ title: "جلسه ۱۸۸"
 author: "بابک رزمجو"
 date: "1399-01-20"
 description: "برنامه نویسی سطح بالا با زبان C"
+keywords: "شیرازلاگ،گنولینوکس،زبان C،برنامه‌نویسی سطح بالا،زبان سی"
 weight: -1
 summaryImage: "/img/posters/poster188.jpg"
 tags: [C language]
