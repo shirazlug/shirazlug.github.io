@@ -57,6 +57,8 @@ params:
   author: "شیرازلاگ"
   favicon: "favicon.ico"
   sitename: "Shirazlug"
+  # Google Tag Manager
+  gtm_id: GTM-MF668L5
 
   # summary options
   summary:    
