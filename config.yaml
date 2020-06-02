@@ -8,8 +8,25 @@ staticDir: "static"
 #disableKinds: ["taxonomy", "taxonomyTerm", "RSS", "sitemap"] 404 on tags
 disableKinds: ["taxonomyTerm", "RSS", "sitemap"]
 
-blackfriday:
-  hrefTargetBlank: true
+#blackfriday:
+#  hrefTargetBlank: true
+
+# Options for rendering HTML from markdown
+# NOTE : This is configuration for syntax highlighting in its new format. For some reason hugu renders this website with old 'pygments'
+# renderer, so it only accepts legacy configuration items.
+#markup:
+#  highlight:
+#    codeFences: true
+#    guessSyntax: false
+#    lineNoStart: 1
+#    lineNos: false
+#    lineNumbersInTable: true
+#    noClasses: false
+#    tabWidth: 4
+
+# Legacy configuration for syntax highlighting
+pygmentsUseClasses: true
+pygmentsCodeFences: true
 
 Taxonomies:
   tag: "tags"
@@ -21,7 +38,7 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
 
-
+googleAnalytics: UA-165578778-1
 
 # Supported fonts are:
 # https://fonts.google.com/
@@ -30,7 +47,7 @@ params:
   # parameter used to specify if you want to minify the imported js
   jsMinify: true
   # parameter used to specify if you want to add the fingerprint to the imported js
-  jsFingerprint: false
+  jsFingerprint: true
   # parameter used to specify if you want to minify the imported css
   cssMinify: true
   # parameter used to specify if you want to add the fingerprint to the imported css
@@ -40,6 +57,8 @@ params:
   author: "شیرازلاگ"
   favicon: "favicon.ico"
   sitename: "Shirazlug"
+  # Google Tag Manager
+  google_tag_manager : GTM-MF668L5
 
   # summary options
   summary:    
@@ -150,20 +169,23 @@ params:
     logo: "logo/shirazlug.svg"
     # Next Session
     # TODO Make this property true whenever subject, date, time, and place of next session are determined
-    certainNextSession: false
-    nextSessionDate: "چهارشنبه ۱۴ اسفند ۱۳۹۸"
-    image: "img/posters/next_session.jpg"
-    poster: "img/posters/poster186.jpg"
+    certainNextSession: true
+    image: "img/posters/poster189.jpg"
+    lastPoster: "img/posters/poster188.jpg"
     # link: "https://evnd.co/9qWYn"
     imageWidth: 500px
-    lastSession: session186
-    altimage: "نشست ۱۸۶ شیرازلاگ - Modern C++ "
+    lastSession: session188
+    altimage: "نشست ۱۸۹ شیرازلاگ معرفی نرم افزار KiCad"
     # Address
     # address: "آدرس: خ همت جنوبی، کوچه ۱۰/۲، سالن همایش امام رضا (ع)"
     # address: "آدرس: ستارخان، انتهای خ نمازی، دانشگاه زند، سالن همایش"
-    address: "آدرس: بولوار مدرس، روبروی فضل‌آباد، دانشگاه صنعتی شیراز - خانه فرهنگ"
+    # address: "آدرس: بولوار مدرس، روبروی فضل‌آباد، دانشگاه صنعتی شیراز - خانه فرهنگ"
     # address: "شیراز، میدان آزادی، پارک آزادی"
     # address: "شیراز، بولوار امیرکبیر، بوستان جنت"
+    # nextSessionProspect: به دلیل تعطیلات عید نوروز تا ۱۵ فروردین ۱۳۹۹ جلسه ای نداریم
+    # Or you can use this:
+    # nextSessionProspect: موضوع، زمان و مکان جلسهٔ آیندهٔ شیرازلاگ هنوز مشخص نشده است؛ ولی اگر همه چیز مانند روال سابق پیش برود این جلسه در تاریخ چند شنبه ۹۹ ماه ۱۳۹۹ برگزار خواهد شد.
+    
 
   section:
     fontFamily: "Shabnam"
@@ -211,3 +233,4 @@ params:
         weight: 1
       }
     ]
+

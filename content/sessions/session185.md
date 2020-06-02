@@ -1,7 +1,7 @@
 ---
 title: "جلسه ۱۸۵"
 keywords: "ادیتورهای محبوب در لینوکس، لینوکس، Atom،Vim،ویرایشگر،electron"
-descriptiopn: ""
+descriptiopn: "در جلسه ۱۸۵ شیرازلاگ دو تا از ادیتورهای محبوب لینوکس با نامهای vim و Atom معرفی گردید."
 author: "بابک رزمجو"
 draft: false
 date: "1398-11-02"

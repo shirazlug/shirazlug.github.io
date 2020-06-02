@@ -4,6 +4,7 @@ author: "بابک رزمجو"
 date: "1398-11-30"
 subtitle: "سی پلاس پلاس مدرن" 
 description: "نشست ۱۸۶ شیرازلاگ. در این جلسه مهندس حمیدرضا ارزاقی آخرین تغییرات و پیشرفتهای زبان برنامه نویسی ++C را معرفی کرد"
+keywords: "شیرازلاگ،گنولینوکس،سی‌پلاس‌پلاس‌ مدرن،اخرین تغییر زبان c++" 
 weight: -1
 summaryImage: "/img/posters/poster186.jpg"
 tags: [modern C++,programming language,high level]
