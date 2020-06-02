@@ -12,7 +12,7 @@ images: []
 readmore: true
 draft: false
 ---
-[![Poster for session 188](/img/posters/poster188.jpg)](/img/posters/poster188.jpg)
+[![نشست ۱۸۸ شیرازلاگ - برنامه‌نویسی سطح بالا با زبان سی توسط امین خزاعی](/img/posters/poster188.jpg)](/img/posters/poster188.jpg)
 
 این نشست به شکل آنلاین و از راه دور برگزار شد. فیلم ارائه این جلسه را می توانید در قاب زیر یا از طریق سایر پیوندهایی که در ادامه می بینید مشاهده کنید.
 
