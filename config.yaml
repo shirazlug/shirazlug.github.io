@@ -170,12 +170,12 @@ params:
     # Next Session
     # TODO Make this property true whenever subject, date, time, and place of next session are determined
     certainNextSession: true
-    image: "img/posters/poster189.jpg"
-    lastPoster: "img/posters/poster188.jpg"
+    image: "img/posters/poster192.jpg"
+    lastPoster: "img/posters/poster191.jpg"
     # link: "https://evnd.co/9qWYn"
     imageWidth: 500px
-    lastSession: session188
-    altimage: "نشست ۱۸۹ شیرازلاگ معرفی نرم افزار KiCad"
+    lastSession: session191
+    altimage: "استفاده از نرم‌افزارهای آزاد در شرکت‌های تجاری"
     # Address
     # address: "آدرس: خ همت جنوبی، کوچه ۱۰/۲، سالن همایش امام رضا (ع)"
     # address: "آدرس: ستارخان، انتهای خ نمازی، دانشگاه زند، سالن همایش"
