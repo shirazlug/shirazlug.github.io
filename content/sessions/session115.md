@@ -16,4 +16,4 @@ readmore: true
 * ساختن ساختمان داده های دلخواه
 * توضیخات مختصری درباره numpy
 
-برای اطلاعات بیشتر به [اینجا](http://rhodesmill.org/brandon/talks/#data-structures) مراجعه نمایید.
+برای اطلاعات بیشتر به [اینجا](https://rhodesmill.org/brandon/talks/#data-structures) مراجعه نمایید.

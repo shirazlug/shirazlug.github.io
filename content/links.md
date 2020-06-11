@@ -11,24 +11,24 @@ readmore: true
 ##### گروه کاربران لینوکس شیراز
 
 - [کانال تلگرام](https://t.me/shirazlug)
-- [گروه تلگرام جهت پرسش و پاسخ](http://tiny.cc/shiraz)
+- [گروه تلگرام جهت پرسش و پاسخ](https://tiny.cc/shiraz)
 - [اینستاگرام](https://www.instagram.com/ShirazLUG.ir/)
 - [پروژه‌های شیرازلاگ](https://framagit.org/shirazlug)
 
 ---
 
 ##### گروه تلگرام سایر لاگ‌ها در ایران
-- [تهران](http://tiny.cc/teh)
-- [اصفهان](http://tiny.cc/esfahan)
-- [اراک](http://tiny.cc/arak)
-- [اهواز](http://tiny.cc/ahwaz)
-- [زنجان](http://tiny.cc/zanjan)
-- [قزوین](http://tiny.cc/qazvin)
-- [قم](http://tiny.cc/Qom)
-- [کرمانشاه](http://tiny.cc/kermanshah)
-- [گیلان](http://tiny.cc/guilan)
-- [مشهد](http://tiny.cc/mashad)
-<!-- [بجنورد](http://tiny.cc/Bojnord) FIXME this link is broken -->
-- [مازندران](http://tiny.cc/mazandaran)
-- [گرگان](http://t.me/Gorganlug)
-- [همدان](http://tiny.cc/hmdlug)
+- [تهران](https://tiny.cc/teh)
+- [اصفهان](https://tiny.cc/esfahan)
+- [اراک](https://tiny.cc/arak)
+- [اهواز](https://tiny.cc/ahwaz)
+- [زنجان](https://tiny.cc/zanjan)
+- [قزوین](https://tiny.cc/qazvin)
+- [قم](https://tiny.cc/Qom)
+- [کرمانشاه](https://tiny.cc/kermanshah)
+- [گیلان](https://tiny.cc/guilan)
+- [مشهد](https://tiny.cc/mashad)
+<!-- [بجنورد](https://tiny.cc/Bojnord) FIXME this link is broken -->
+- [مازندران](https://tiny.cc/mazandaran)
+- [گرگان](https://t.me/Gorganlug)
+- [همدان](https://tiny.cc/hmdlug)

@@ -17,5 +17,5 @@ readmore: true
 در پایان نیز جلسه پرسش و پاسخ در مورد این ارائه و مسائل دیگر برگزار شد.
 
 فایل این ارائه را می توانید از [اینجا](https://framagit.org/shirazlug/resources/tree/master/presentations/session_121)
-<!--یا [اینجا](http://tiny.cc/shirazlug_s121)--> دریافت کنید.
+<!--یا [اینجا](https://tiny.cc/shirazlug_s121)--> دریافت کنید.
 

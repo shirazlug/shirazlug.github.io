@@ -10,8 +10,8 @@ readmore: true
 
 **فایل‌ها:**
 
-  * [shirazlug-presentation.odp](http://download.tuxfamily.org/shirazlug/sessions/s0/shirazlug-presentation.odp)
-  * [shirazlug-presentation.pdf](http://download.tuxfamily.org/shirazlug/sessions/s0/shirazlug-presentation.pdf)
+  * [shirazlug-presentation.odp](https://download.tuxfamily.org/shirazlug/sessions/s0/shirazlug-presentation.odp)
+  * [shirazlug-presentation.pdf](https://download.tuxfamily.org/shirazlug/sessions/s0/shirazlug-presentation.pdf)
 
 برای دانلود فایل‌های تمامی جلسه‌ها می‌توانید به [این پیوند](https://shirazlug.ir/all-sessions-files/ "دانلود فایل‌های تمامی جلسه‌ها" ) مراجعه نمایید.
 

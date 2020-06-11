@@ -16,6 +16,6 @@ readmore: true
 
 در ادامه پویا، ارائه خود را که مربوط به برنامه نویسی بات تلگرام در پایتون بود، شروع کرد. وی ابتدا به معرفی بات ها پرداخت و سپس روش ثبت یک بات در تلگرام را توضیح داد. معرفی کتابخانه بات تلگرام در پایتون [python_telegram_bot](https://github.com/python-telegram-bot/python-telegram-bot) و نیز کد نویسی های مربوط به آن، نیز از مباحث مورد ارائه بود.
 
-فایل ارائه را می توانید از [اینجا](https://framagit.org/shirazlug/resources/tree/master/presentations/session_122) <!-- FIXME not foundیا [اینجا](http://tiny.cc/shirazlug_s122)--> دریافت کنید.
+فایل ارائه را می توانید از [اینجا](https://framagit.org/shirazlug/resources/tree/master/presentations/session_122) <!-- FIXME not foundیا [اینجا](https://tiny.cc/shirazlug_s122)--> دریافت کنید.
 
 
