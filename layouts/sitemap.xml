@@ -1,36 +1,932 @@
-<!-- <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  {{ range .Data.Pages }}{{ if not .Params.robotsdisallow }}
-  <url>
-    <loc>{{ .Permalink }}</loc>{{ if not .Lastmod.IsZero }}
-    <lastmod>{{ safeHTML ( .Lastmod.Format "2006-01-02T15:04:05-07:00" ) }}</lastmod>{{ end }}
-    {{ with .Sitemap.ChangeFreq }}
-    <changefreq>{{ . }}</changefreq>{{ end }}
-    {{ if ge .Sitemap.Priority 0.0 }}
-    <priority>{{ .Sitemap.Priority }}</priority>{{ end }}
-    {{ if .IsTranslated }}
-    {{ range .Translations }}
-    <xhtml:link
-                rel="alternate"
-                hreflang="{{ .Lang }}"
-                href="{{ .Permalink }}"
-                />{{ end }}
-    <xhtml:link
-                rel="alternate"
-                hreflang="{{ .Lang }}"
-                href="{{ .Permalink }}"
-                />{{ end }}
-    <xhtml:link
-                rel="alternate"
-                hreflang="x-default"
-                href="{{ .Permalink }}"
-                />
-  </url>
-  {{ end }}{{ end }}
-</urls -->
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>{{ .Site.BaseURL }}</loc>
-    <lastmod>{{ safeHTML ( .Site.LastChange.Format "2006-01-02T15:04:05-07:00" ) }}</lastmod>
-  </url>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://shirazlug.ir/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/links/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/about/</loc>
+  <lastmod>2020-06-11T13:19:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/team/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/news/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/events/</loc>
+  <lastmod>2020-06-11T13:19:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/posts/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/about/about_shirazlug/</loc>
+  <lastmod>2020-06-11T13:19:56+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/about/creed/</loc>
+  <lastmod>2020-06-11T13:19:56+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/about/statute/</loc>
+  <lastmod>2020-06-11T13:19:56+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/members/khozaei/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/members/behzadi/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/members/nezam/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/members/mirshaei/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/members/razmjoo/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/members/shaygani/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/news/orangepi_appropriation_rasbrizero/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/events/event8_free_software_conf_2/</loc>
+  <lastmod>2020-06-11T13:19:56+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/events/event7_wordpress/</loc>
+  <lastmod>2020-06-11T13:19:56+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/events/event6_4th_birthday/</loc>
+  <lastmod>2020-06-11T13:19:56+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/events/event5_ubuntu_python_workshop/</loc>
+  <lastmod>2020-06-11T13:19:56+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/events/event4_joomla/</loc>
+  <lastmod>2020-06-11T13:19:56+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/events/event3_archlinux/</loc>
+  <lastmod>2020-06-11T13:19:56+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/events/event2_nowruz/</loc>
+  <lastmod>2020-06-11T13:19:56+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/events/event1_3rd_birthday/</loc>
+  <lastmod>2020-06-11T13:19:56+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/events/event0_voip/</loc>
+  <lastmod>2020-06-11T13:19:56+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/events/event0_free_software_conf_1/</loc>
+  <lastmod>2020-06-11T13:19:56+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/posts/quick%D9%80start_hugo/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/posts/introduction_hugo/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session192/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session191/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session190/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session189/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session188/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session187/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session186/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session185/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session184/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session183/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session182/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session181/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session180/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session179/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session178/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session177/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session176/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session175/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session174/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session173/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session172/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session171/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session170/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session169/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session168/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session167/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session166/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session165/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session164/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session163/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session162/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session161/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session160/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session159/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session158/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session157/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session156/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session155/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session154/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session153/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session152/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session151/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session150/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session149/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session148/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session147/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session146/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session145/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session144/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session143/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session142/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session141/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session140/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session139/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session138/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session137/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session136/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session135/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session134/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session133/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session132/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session131/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session130/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session129/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session128/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session127/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session126/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session125/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session124/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session123/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session122/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session121/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session120/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session119/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session118/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session117/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session116/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session115/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session80/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session79/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session78/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session77/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session76/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session75/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session74/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session73/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session72/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session68/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session67/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session66/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session65/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session64/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session62/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session61/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session60/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session59/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session58/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session57/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session56/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session55/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session54/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session53/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session52/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session51/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session50/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session49/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session48/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session47/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session46/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session45/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session44/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session43/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session42/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session41/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session40/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session39/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session38/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session37/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session36/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session35/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session34/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session33/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session32/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session31/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session30/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session29/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session28/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session27/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session26/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session25/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session24/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session23/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session22/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session21/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session20/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session19/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session18/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session17/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session16/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session15/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session14/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session12/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session11/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session10/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session9/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session8/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session7/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session6/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session5/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session4/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session3/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session2/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session1/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://shirazlug.ir/sessions/session0/</loc>
+  <lastmod>2020-06-11T13:19:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
 </urlset>
