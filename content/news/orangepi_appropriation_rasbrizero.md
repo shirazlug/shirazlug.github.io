@@ -3,7 +3,7 @@ draft: false
 tags: ["Raspberry Pi", "Orange Pi"]
 subtitle: "Orange Pi One در فکر تصاحب جایگاه Raspberry Pi Zero"
 description: "Orange Pi One در فکر تصاحب جایگاه Raspberry Pi Zero"
-date: "2017-08-31T16:24:33+04:30"
+date: "1397-08-09"
 title: "رقابت بین مینی کامپیوترها"
 keywords: "مینی کامپیوتر‌ها، orang Pi،Raspbret pi zero، orang pi one، رقابت،شیرازلاگ" 
 readmore: true
