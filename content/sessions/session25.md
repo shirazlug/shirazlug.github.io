@@ -4,7 +4,7 @@ subtitle: "Scratch for kids"
 date: "1394-05-08"
 author: "mehdiMj"
 draft: false
-tags: ['lug-version', 'Scratch']
+tags: ['lug_version', 'Scratch']
 categories:
     - "sessions"
 readmore: true
