@@ -175,7 +175,7 @@ params:
     # link: "https://evnd.co/9qWYn"
     imageWidth: 500px
     lastSession: session191
-    altimage: "استفاده از نرم‌افزارهای آزاد در شرکت‌های تجاری"
+    altimage: "استفاده از میکروسرویس‌ها در Golang"
     # Address
     # address: "آدرس: خ همت جنوبی، کوچه ۱۰/۲، سالن همایش امام رضا (ع)"
     # address: "آدرس: ستارخان، انتهای خ نمازی، دانشگاه زند، سالن همایش"

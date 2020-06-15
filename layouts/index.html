@@ -51,7 +51,7 @@
                     </div>
                     <div class="column">
                         <a href="{{- $link -}}" target="_blank">
-                            <img class="next-session" src="{{- $next_session -}}">
+                            <img class="next-session" src="{{- $next_session -}}"  alt="{{.Site.Params.homepage.altimage}}">
                         </a>
                     </div>
                 </div>
@@ -78,7 +78,7 @@
                     <h2 class="shabnam">جلسهٔ پیش شیراز لاگ</h2>
                     <a href="/sessions/{{ .Site.Params.homepage.lastSession }}">
                         <img class="next-session" src="{{- $last_session_poster -}}"  alt="{{.Site.Params.homepage.altimage}}">
-                    </a>
+                    </a>                    
                 </div>
             </div>
             {{ end }}
