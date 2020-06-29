@@ -57,6 +57,8 @@ params:
   author: "شیرازلاگ"
   favicon: "favicon.ico"
   sitename: "Shirazlug"
+  google_tag_manager : GTM-MF668L5
+  images : "img/posters/default_poster.jpg"
 
   # summary options
   summary:    
@@ -87,6 +89,7 @@ params:
     fontFamily: "Shabnam" 
     tags: "برچسب‌ها"
     menu: [
+      
       {
         name: "home",
         title: "خانه",
@@ -142,7 +145,8 @@ params:
         url: "/links/",
         weight: 1,
         icon: 'link'
-      }
+      },
+     
     ]
   
   # 404 page options
