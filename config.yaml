@@ -58,6 +58,7 @@ params:
   favicon: "favicon.ico"
   sitename: "Shirazlug"
   google_tag_manager : GTM-MF668L5
+  images : "img/posters/default_poster.jpg"
 
   # summary options
   summary:    
