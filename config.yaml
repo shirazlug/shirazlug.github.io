@@ -171,13 +171,13 @@ params:
     logo: "logo/shirazlug.svg"
     # Next Session
     # TODO Make this property true whenever subject, date, time, and place of next session are determined
-    certainNextSession: true
-    image: "img/posters/poster193.jpg"
-    lastPoster: "img/posters/poster192.jpg"
+    certainNextSession: false
+    #image: "img/posters/poster193.jpg"
+    lastPoster: "img/posters/poster194.jpg"
     # link: "https://evnd.co/9qWYn"
     imageWidth: 500px
-    lastSession: session191
-    altimage: "استفاده از میکروسرویس‌ها در Golang"
+    lastSession: session194
+    altimage: "آشنایی با الکترون جهت طراحی اپلیکیشن"
     # Address
     # address: "آدرس: خ همت جنوبی، کوچه ۱۰/۲، سالن همایش امام رضا (ع)"
     # address: "آدرس: ستارخان، انتهای خ نمازی، دانشگاه زند، سالن همایش"
@@ -196,7 +196,7 @@ params:
   footer:
     fontFamily: "Shabnam"
     logo: "logo/shirazlug_white.svg"   
-    copyright: "۱۳۹۸ - شیرازلاگ"
+    copyright: "۱۳۹۸،۱۳۹۹ - شیرازلاگ"
     social: [
       {
         title: "contact@shirazlug.ir",
