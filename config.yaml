@@ -169,15 +169,20 @@ params:
     description: "به شیرازلاگ خوش آمدید :) لاگ به معنی گروه کاربران گنو/لینوکس است و از افراد مختلف که به منظور تبادل اطلاعات در حوزه‌ی نرم‌افزارهای آزاد و متن‌باز دور هم جمع می‌شوند، تشکیل شده است. اگر تمایل دارید دانش خود را با دیگران به اشتراک بگذارید یا کنجکاوید تا از تکنولوژی‌های آزاد جدید اطلاعاتی کسب کنید و یا از بودن در کنار چند دوست فعال در این زمینه لذت می‌برید، با ما همراه شوید. در ضمن، شرکت در جلسات برای عموم آزاد و رایگان است."
     # Logo
     logo: "logo/shirazlug.svg"
+
+    # Last Session Details
+    lastSessionPoster: "img/posters/poster194.jpg"
+    lastSessionAlt: "آشنایی با الکترون جهت طراحی اپلیکیشن"
+
     # Next Session
     # TODO Make this property true whenever subject, date, time, and place of next session are determined
-    certainNextSession: false
-    #image: "img/posters/poster193.jpg"
-    lastPoster: "img/posters/poster194.jpg"
+    certainNextSession: true
+    nextSessionPoster: "img/posters/poster195.jpg"
+    nextSessionAlt: "میکروسرویس‌ها در پایتون"
+    
     # link: "https://evnd.co/9qWYn"
     imageWidth: 500px
-    lastSession: session194
-    altimage: "آشنایی با الکترون جهت طراحی اپلیکیشن"
+    # lastSession: session194
     # Address
     # address: "آدرس: خ همت جنوبی، کوچه ۱۰/۲، سالن همایش امام رضا (ع)"
     # address: "آدرس: ستارخان، انتهای خ نمازی، دانشگاه زند، سالن همایش"
