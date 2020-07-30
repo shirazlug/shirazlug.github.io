@@ -4,7 +4,7 @@ subtitle: "network + & GLAMP"
 date: "1394-04-28"
 author: "mehdiMj"
 draft: false
-tags: ['network_plus', 'GLAMP']
+tags: ['Network Plus', 'GLAMP']
 categories:
     - "sessions"
 readmore: true
