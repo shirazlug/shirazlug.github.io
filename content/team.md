@@ -1,18 +1,16 @@
 ---
 draft: false
 title: "تیم اجرایی"
-subtitle: "معرفی راهبران و تیم اجرایی شیراز لاگ"
-keywords: "شیراز لاگ,تیم اجرایی، رهبران ۹۸، گرافیک، توسعه دهنده سایت،رادیو لاگ، شبکه‌های اجتماعی"
-description: "معرفی راهبران و تیم اجرایی شیراز لاگ"
+subtitle: "معرفی راهبران و تیم اجرایی شیرازلاگ"
+keywords: "شیرازلاگ,تیم اجرایی، راهبران شیرازلاگ، گرافیک، توسعه دهنده سایت،رادیولاگ، شبکه‌های اجتماعی"
+description: "معرفی راهبران و تیم اجرایی شیرازلاگ"
 date: "1397-08-09"
 readmore: true
 ---
-## راهبران ۹۸
+## راهبران منتخب شیرازلاگ در سال ۹۹
 [![امین خزاعی](/img/team/khozaei.svg)](/members/khozaei/)
 [![مریم بهزادی](/img/team/behzadi.svg)](/members/behzadi/)
-![مهدی مهاجر](/img/team/mohajer.svg)
-![علی مولایی](/img/team/molaei.svg)
-![سید رحیم فیروزی](/img/team/firouzi.svg)
+[![محمد میرشائی](/img/team/mirshaei.svg)](/members/mirshaei/)
 
 ---
 
@@ -54,4 +52,4 @@ readmore: true
 [![امین خزاعی](/img/team/khozaei.svg)](/members/khozaei/)
 ![محمد شعاعی](/img/team/shoaei.svg)
 
-<!-- TODO We need a method to automatically populate these lists -->
+---
