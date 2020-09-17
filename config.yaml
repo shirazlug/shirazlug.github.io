@@ -56,7 +56,8 @@ params:
   mainColour: "#F39200"
   author: "شیرازلاگ"
   favicon: "favicon.ico"
-  sitename: "Shirazlug"
+  sitename: "شیرازلاگ"
+  og_image: "img/team/og_image.jpg"
   # google_tag_manager : GTM-MF668L5
   
 
