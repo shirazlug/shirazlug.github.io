@@ -44,6 +44,8 @@ summaryImage: "/img/team/khozaei.svg"
 * مدیرعامل شرکت ویرا فناور دانش‌مان هیوا
 * سخنران 
 [جشن انتشار اوبونتو دانشگاه اراک](http://araku.ac.ir/-/%D8%AC%D8%B4%D9%86-%D8%A7%D9%86%D8%AA%D8%B4%D8%A7%D8%B1-%D8%A7%D9%88%D8%A8%D9%88%D9%86%D8%AA%D9%88-%D9%88-%D9%87%D9%85%D8%A7%DB%8C%D8%B4-%D9%84%DB%8C%D9%86%D9%88%DA%A9%D8%B3-%D9%88-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C) - پاییز ۹۸
+* مدرس و بنیان‌گذار پلتفرم آموزشی 
+[پالیزتاک](https://paliztalk.ir/)
 
 ---
 
@@ -52,5 +54,5 @@ summaryImage: "/img/team/khozaei.svg"
 * [تلگرام](https://t.me/aminkhozaei)
 * [لینکدین](https://linkedin.com/in/khozaei) 
 * [اینستاگرام](https://www.instagram.com/amin.khozaei/)
-
+* [توییتر](https://twitter.com/aminkhozaei)
 
