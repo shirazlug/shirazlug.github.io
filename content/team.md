@@ -11,6 +11,7 @@ readmore: true
 [![امین خزاعی](/img/team/khozaei.svg)](/members/khozaei/)
 [![مریم بهزادی](/img/team/behzadi.svg)](/members/behzadi/)
 [![محمد میرشائی](/img/team/mirshaei.svg)](/members/mirshaei/)
+[![سید صالح شجاعی](/img/team/saleh.svg)](/members/saleh/)
 
 ---
 

@@ -10,10 +10,11 @@ readmore: true
 
 ##### گروه کاربران لینوکس شیراز
 
-- [کانال تلگرام](https://t.me/shirazlug)
-- [گروه تلگرام جهت پرسش و پاسخ](https://tiny.cc/shiraz)
-- [اینستاگرام](https://www.instagram.com/ShirazLUG.ir/)
-- [پروژه‌های شیرازلاگ](https://framagit.org/shirazlug)
+- [کانال تلگرام شیرازلاگ](https://t.me/shirazlug)
+- [گروه تلگرام شیرازلاگ جهت پرسش و پاسخ](https://tiny.cc/shiraz)
+- [صفحه اینستاگرام شیرازلاگ](https://www.instagram.com/ShirazLUG.ir/)
+- [اکانت توییتر شیرازلاگ](https://twitter.com/shirazlug_ir)
+- [پروژه‌های آزاد در شیرازلاگ](https://framagit.org/shirazlug)
 
 ---
 
