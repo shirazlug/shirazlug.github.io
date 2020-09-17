@@ -118,13 +118,13 @@ params:
         weight: 5,
         icon: 'calendar'
       },
-      {
-        name: "news",
-        title: "اخبار",
-        url: "/news/",
-        weight: 4,
-        icon: 'rss'
-      },
+      # {
+      #   name: "news",
+      #   title: "اخبار",
+      #   url: "/news/",
+      #   weight: 4,
+      #   icon: 'rss'
+      # },
       {
         name: "team",
         title: "تیم اجرایی",
