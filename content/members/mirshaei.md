@@ -26,3 +26,7 @@ summaryImage: "/img/team/mirshaei.svg"
 
 # سایر فعالیت‌ها
 * عضو تیم توسعه پلتفرم آموزشی [پالیزتاک](https://paliztalk.ir/)
+
+
+# لینک های ارتباطی
+* [ایمیل](mailto: mirshaei@paliztalk.com)
