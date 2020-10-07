@@ -29,4 +29,5 @@ summaryImage: "/img/team/mirshaei.svg"
 
 
 # لینک های ارتباطی
-* [ایمیل](mailto: mirshaei@paliztalk.com)
+
+* [ایمیل](mailto:mirshaei@paliztalk.com)
