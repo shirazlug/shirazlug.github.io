@@ -11,4 +11,4 @@ images: []
 readmore: false
 draft: false
 ---
-[![آشنایی با الکترون جهت طراحی اپلیکیشن](/img/posters/poster193.jpg)](/img/posters/poster193.jpg)
+[![آشنایی با الکترون جهت طراحی اپلیکیشن](/img/posters/poster194.jpg)](/img/posters/poster194.jpg)

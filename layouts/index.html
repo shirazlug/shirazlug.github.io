@@ -38,50 +38,15 @@
                     {{- $description -}}
                 </h1>
             </div>
-            <hr>
-            <div class="columns has-text-centered">
-                {{ if .Site.Params.homepage.certainNextSession }}
-                {{- $next_session := printf "%v%s" $baseurl .Site.Params.homepage.nextSessionPoster -}}
-                {{- $link := .Site.Params.homepage.link -}}
-                <!-- Registeration -->
-                <div class="column">
-                    <div class="column">
-                        {{ with .Site.Params.homepage.link }}
-                        <a class="subtitle homepage-links is-6" href="{{- . -}}" target="_blank">
-                            ثبت‌نام جلسه آینده شیرازلاگ
-                        </a>
-                        {{ end }}
-                    </div>
-                    <div class="column">
-                        <h2 class="shabnam">جلسهٔ بعدی شیرازلاگ</h2>
-                        <a href="{{- $link -}}" target="_blank">
-                            <img class="next-session" src="{{- $next_session -}}"
-                                alt="{{.Site.Params.homepage.nextSessionAlt}}">
-                        </a>
-                    </div>
-                </div>
 
-                <!-- Address -->
-                <!--div class="column has-text-centered" -->
-                <!-- Sanati University >
-                    <div class="column">
-                        <a class="subtitle homepage-links is-6" href="https://www.openstreetmap.org/way/68560755">
-                            {{ .Site.Params.homepage.address }}
-                        </a>
-                    </div>
-                    <div class="column">
-                        <iframe class="location" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=52.57729303797534%2C29.582537620493266%2C52.58231413325122%2C29.585653886990446&amp;layer=mapnik&amp;marker=29.584095765769607%2C52.57980358561326"></iframe>
-                    </div>
-                </div-->
-                {{ end }}
+            <hr>
+
+            <div class="column has-text-centered">
                 {{- $last_session_poster := printf "%v%s" $baseurl .Site.Params.homepage.lastSessionPoster -}}
-                <div class="column">
+                <div class="column">                    
                     <div class="column">
-                        <p class="shabnam">{{- .Site.Params.homepage.nextSessionProspect -}}</p>
-                    </div>
-                    <div class="column">
-                        <h2 class="shabnam">جلسهٔ قبلی شیرازلاگ</h2>
-                        <a href="/sessions/{{ .Site.Params.homepage.lastSession }}">
+                        <h2 class="shabnam">آخرین جلسه شیرازلاگ</h2>
+                        <a href="/sessions/session{{ .Site.Params.homepage.lastSessionNo }}">
                             <img class="next-session" src="{{- $last_session_poster -}}"
                                 alt="{{.Site.Params.homepage.lastSessionAlt}}">
                         </a>
