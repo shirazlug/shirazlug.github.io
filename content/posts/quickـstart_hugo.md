@@ -216,7 +216,7 @@ Press Ctrl+C to stop
 
 به آدرس http://locolhost:1313  بروید و نتیجه را مشاهده کنید. سایت شما ظاهری مانند این خواهد داشت:
 
-[![poster](/img/quick_start_hugo/hugoImage1.png)](/img/quick_start_hugo/hugoImage1.png)
+<!-- [![poster](/img/quick_start_hugo/hugoImage1.png)](/img/quick_start_hugo/hugoImage1.png) -->
 
 بیایید لایه های مختلف تم را یاد بگیریم .یک تم از اجزای زیر ساخته شده است .
 
@@ -243,7 +243,7 @@ $ hugo server --theme=hugo-theme-bleak --buildDrafts
 حالا وب سایت شما چنین ظاهری خواهد داشت.
 ( عکس از سایت اصلی گرفته شده است ).
 
-[![poster](/img/quick_start_hugo/hugoImage2.png)](/img/quick_start_hugo/hugoImage2.png)
+<!-- [![poster](/img/quick_start_hugo/hugoImage2.png)](/img/quick_start_hugo/hugoImage2.png) -->
 
 **گام ۷ : به روز رسانی فایل پیکربندی سایت ، config.toml .**
 
@@ -265,7 +265,7 @@ baseURL = "http://example.org/"
 
 هیوگو از یک سیستم ریلود زنده ( live reloading ) برای آپدیت تغییرات استفاده می کند. بدین ترتیب که نیازی نیست سرور را ریست کنید و سایت به طور خودکار تغییر می کند. می توانید تغییرات ایجاد شده را ببینید.
 
-[![poster](/img/quick_start_hugo/hugoImage3.png)](/img/quick_start_hugo/hugoImage3.png)
+<!-- [![poster](/img/quick_start_hugo/hugoImage3.png)](/img/quick_start_hugo/hugoImage3.png) -->
 
 
 **گام ۸: شخصی سازی تم robust:**
@@ -281,11 +281,11 @@ baseURL = "http://example.org/"
 یک دایرکتوری به نام images درون دایرکتوری bookshelf/static بسازید و عکس مورد نظر خود را با نام default.jpg در آنجا کپی کنید. ما از عکس زیر استفاده خواهیم کرد.
 
 
-[![poster](/img/quick_start_hugo/hugoImage4.png)](/img/quick_start_hugo/hugoImage4.png)
+<!-- [![poster](/img/quick_start_hugo/hugoImage4.png)](/img/quick_start_hugo/hugoImage4.png) -->
 
 بعد از قرار دادن عکس ، سایت به این شکل میشود.
 
-[![poster](/img/quick_start_hugo/hugoImage5.png)](/img/quick_start_hugo/hugoImage5.png)
+<!-- [![poster](/img/quick_start_hugo/hugoImage5.png)](/img/quick_start_hugo/hugoImage5.png) -->
 
 توجه: اگر بعد از انجام عملیات فوق، تغییری مشاهده نکردید، به این دلیل است که محتوای عکس در حافظه کش مرورگر شما ذخیره شده است ، که این مشکل با ریست کردن سیستم درست خواهد شد.
 
@@ -316,7 +316,7 @@ baseURL = "http://example.org/"
 
 حالا وبسایت مطابق زیر نمایش داده خواهد شد.
 
-[![poster](/img/quick_start_hugo/hugoImage6.png)](/img/quick_start_hugo/hugoImage6.png)
+<!-- [![poster](/img/quick_start_hugo/hugoImage6.png)](/img/quick_start_hugo/hugoImage6.png) -->
 
 حالا می خواهیم اطلاعات مربوط به تم ، در قسمت فوتر ( footer ) سایت را حذف کنیم. بنابراین یک دایرکتوری جدید به نام partials درون دایرکتوری bookshelf/layouts می سازیم. در آن جا یک فایل جدید با نام default_foot.html می سازیم و محتویات فایل layouts/partials/default_foot.html  واقع در دایرکتوری تم را در آن کپی می کنیم. محتوای مربوط به قسمت footer را با محتویات زیر جایگزین می کنیم.
 
@@ -354,7 +354,7 @@ image=firstpost.jpg
 حال عکس مورد نظر خود را به نام firstpost.jpg تغییر داده و در دایرکتوری bookshelf/static/image قرار دهید. بعد از اضافه کردن چندین کتاب وب سایت نویسنده ، به این صورت در آمده است.
 
 
-[![poster](/img/quick_start_hugo/hugoImage7.png)](/img/quick_start_hugo/hugoImage7.png)
+<!-- [![poster](/img/quick_start_hugo/hugoImage7.png)](/img/quick_start_hugo/hugoImage7.png) -->
 
 **گام ۹ : ایجاد پست عمومی ( public ):**
 
@@ -383,7 +383,7 @@ disqus به شما اجازه می دهد که کامنت ها را در بل�
 بعد از انجام این عمل امکان کامنت گذاشتن به سایت شما اضافه می شود، مانند زیر :
 ( عکس از سایت نویسنده می باشد.)
 
-[![poster](/img/quick_start_hugo/hugoImage8.png)](/img/quick_start_hugo/hugoImage8.png)
+<!-- [![poster](/img/quick_start_hugo/hugoImage8.png)](/img/quick_start_hugo/hugoImage8.png) -->
 
 
 **گام ۱۱: قرار دادن سایت بر روی سرور:**

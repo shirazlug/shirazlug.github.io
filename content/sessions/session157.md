@@ -10,7 +10,7 @@ categories:
 summaryImage: "/img/posters/poster157.jpg"
 readmore: true
 ---
-[![نشست ۱۵۷ شیرازلاگ - Tor - The Onion Network](/img/posters/poster157.jpg)](../..۷/img/poster157)
+[![نشست ۱۵۷ شیرازلاگ - Tor - The Onion Network](/img/posters/poster157.jpg)](/img/posters/poster157.jpg)
 
 صد و پنجاه و هفتمین جلسه شیرازلاگ با موضوع Tor در خانه فرهنگ دانشگاه صنعتی شیراز برگزار شد .در این نشست مهندس مولایی به توضیح نحوه نصب و راه اندازی tor، کاربردها و سرویس های مخفی در tor پرداخت.
 

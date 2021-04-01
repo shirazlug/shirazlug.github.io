@@ -10,7 +10,7 @@ categories:
 summaryImage: "/img/posters/poster156.jpg"
 readmore: true
 ---
-[![نشست ۱۵۶ شیرازلاگ - وب اسکرپینگ با پایتون](/img/posters/poster156.jpg)](/img/posters/poster156.png)
+[![نشست ۱۵۶ شیرازلاگ - وب اسکرپینگ با پایتون](/img/posters/poster156.jpg)](/img/posters/poster156.jpg)
   
 صد و پنجاه و ششمین جلسه لاگ با ارایه پویا برزگر با موضوع  web scraping با پایتون با حضور جمعی از دوستان و علاقه مندان برگزار شد. در این جلسه پویا با پکیج پایتون Beautiful Soup به استخراج اطلاعات سایت های دیوار, مکتب خونه و arch linux پرداخت و کاربرد های این پکیج را در داده کاوی به حاضران نشان داد.
 
