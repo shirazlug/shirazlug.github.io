@@ -10,4 +10,4 @@ categories:
 summaryImage: "/img/posters/poster150.jpg"
 readmore: false
 ---
-[![نشست ۱۵۰ شیرازلاگ - زبان توصیفی QML](../../img/posters/poster150.jpg)](../../img/poster150.jpg)
+[![نشست ۱۵۰ شیرازلاگ - زبان توصیفی QML](/img/posters/poster150.jpg)](/img/posters/poster150.jpg)

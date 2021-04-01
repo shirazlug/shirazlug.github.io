@@ -11,4 +11,4 @@ categories:
 summaryImage: "/img/posters/poster175.jpg"
 readmore: false
 ---
-[![نشست ۱۷۵ - خودکارسازی فرآیند با انسیبل](../../img/posters/poster175.jpg)](../../img/poster175.jpg)
+[![نشست ۱۷۵ - خودکارسازی فرآیند با انسیبل](/img/posters/poster175.jpg)](/img/posters/poster175.jpg)

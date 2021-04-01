@@ -11,7 +11,7 @@ categories:
 summaryImage: "/img/posters/poster167.jpg"
 readmore: true
 ---
-[![نشست ۱۶۷ شیرازلاگ - آشنایی با openstack](../../img/posters/poster167.jpg)](../../img/poster167.jpg)
+[![نشست ۱۶۷ شیرازلاگ - آشنایی با openstack](/img/posters/poster167.jpg)](/img/posters/poster167.jpg)
 
 
 صد و شصت وهفتمین نشست شیرازلاگ با حضور جمعی از اعضا و علاقه مندان در خانه فرهنگ دانشگاه صنعتی شیراز با ارائه  سعید بستان دوست برگزار شد.‍‍ در این نشست ابتدا سعید مقدمه ای در مورد تاریخچه openstack وکاربردهای آن گفت سپس به پروژه ها و سرویس های موجود در آن اشاره کرد.
@@ -20,26 +20,26 @@ readmore: true
     <div class="col-lg-12">
         <h1 class="page-header">گالری تصاویر</h1>    
             <div class="col-lg-4 col-md-4 col-xs-6 thumb">
-            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="../../img/a.29.jpg" data-target="#image-gallery">
-              <img class="img-responsive" src="../../img/a.29.jpg"
+            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="/img/a.29.jpg" data-target="#image-gallery">
+              <img class="img-responsive" src="/img/a.29.jpg"
               alt="جلسات هفتگی شیرازلاگ">
             </a>
         </div>
             <div class="col-lg-4 col-md-4 col-xs-6 thumb">
-            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="../../img/a.30.jpg" data-target="#image-gallery">
-                <img class="img-responsive" src="../../img/a.30.jpg"
+            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="/img/a.30.jpg" data-target="#image-gallery">
+                <img class="img-responsive" src="/img/a.30.jpg"
                 alt="جلسات هفتگی شیرازلاگ">
             </a>
         </div>
             <div class="col-lg-4 col-md-4 col-xs-6 thumb">
-            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="../../img/a.31.jpg" data-target="#image-gallery">
-                <img class="img-responsive" src="../../img/a.31.jpg"
+            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="/img/a.31.jpg" data-target="#image-gallery">
+                <img class="img-responsive" src="/img/a.31.jpg"
                 alt="جلسات هفتگی شیرازلاگ">
             </a>
     </div>
      <div class="col-lg-4 col-md-4 col-xs-6 thumb">
-            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="../../img/a.36.jpg" data-target="#image-gallery">
-                <img class="img-responsive" src="../../img/a.36.jpg"
+            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="/img/a.36.jpg" data-target="#image-gallery">
+                <img class="img-responsive" src="/img/a.36.jpg"
                 alt="جلسات هفتگی شیرازلاگ">
             </a>
         </div>

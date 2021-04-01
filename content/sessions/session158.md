@@ -10,7 +10,7 @@ categories:
 summaryImage: "/img/posters/poster158.jpg"
 readmore: true
 ---
-[![نشست ۱۵۸ شیرازلاگ - رایانش ابری](../../img/posters/poster158.jpg)](../../img/poster158.jpg)
+[![نشست ۱۵۸ شیرازلاگ - رایانش ابری](/img/posters/poster158.jpg)](/img/posters/poster158.jpg)
 
 صد و پنجاه و هشتمین نشست شیرازلاگ با موضوع cloud در حضور جمعی از دوستان و علاقه مندان برگزار شد .در این نشست ابتدا مهندس سعید بستان دوست به تعریف مفهوم cloud پرداخته، از مزایا و معایب آن گفت و انواع مختلف cloud را شرح داد و در آخر نحوه ساخت cloud private را به صورت عملی به حضار نشان داد.
 
@@ -20,14 +20,14 @@ readmore: true
     <div class="col-lg-12">
         <h1 class="page-header">گالری تصاویر</h1>    
             <div class="col-lg-4 col-md-4 col-xs-6 thumb">
-            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="../../img/photo_2018-12-12_21-31-52.jpg" data-target="#image-gallery">
-              <img class="img-responsive" src="../../img/photo_2018-12-12_21-31-52.jpg"
+            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="/img/photo_2018-12-12_21-31-52.jpg" data-target="#image-gallery">
+              <img class="img-responsive" src="/img/photo_2018-12-12_21-31-52.jpg"
               alt="جلسات هفتگی شیرازلاگ">
             </a>
         </div>
             <div class="col-lg-4 col-md-4 col-xs-6 thumb">
-            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="../../img/photo_2018-12-12_21-31-57.jpg" data-target="#image-gallery">
-                <img class="img-responsive" src="../../img/photo_2018-12-12_21-31-57.jpg"
+            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="/img/photo_2018-12-12_21-31-57.jpg" data-target="#image-gallery">
+                <img class="img-responsive" src="/img/photo_2018-12-12_21-31-57.jpg"
                 alt="جلسات هفتگی شیرازلاگ">
             </a>
         </div>
@@ -39,31 +39,31 @@ readmore: true
         </div>
         <div class="col-lg-4 col-md-4 col-xs-6 thumb">
         <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="../..//img/photo_2018-12-12_21-32-04.jpg" data-target="#image-gallery">
-          <img class="img-responsive" src="../../img/photo_2018-12-12_21-32-04.jpg"
+          <img class="img-responsive" src="/img/photo_2018-12-12_21-32-04.jpg"
           alt="جلسات هفتگی شیرازلاگ">
         </a>
     </div>
         <div class="col-lg-4 col-md-4 col-xs-6 thumb">
-        <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="../../img/photo_2018-12-12_21-32-08.jpg" data-target="#image-gallery">
-          <img class="img-responsive" src="../../img/photo_2018-12-12_21-32-08.jpg"
+        <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="/img/photo_2018-12-12_21-32-08.jpg" data-target="#image-gallery">
+          <img class="img-responsive" src="/img/photo_2018-12-12_21-32-08.jpg"
           alt="جلسات هفتگی شیرازلاگ">
         </a>
     </div>
  <div class="col-lg-4 col-md-4 col-xs-6 thumb">
-        <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="../../img/photo_2018-12-13_14-42-30.jpg" data-target="#image-gallery">
-          <img class="img-responsive" src="../../img/photo_2018-12-13_14-42-30.jpg"
+        <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="/img/photo_2018-12-13_14-42-30.jpg" data-target="#image-gallery">
+          <img class="img-responsive" src="/img/photo_2018-12-13_14-42-30.jpg"
           alt="جلسات هفتگی شیرازلاگ">
         </a>
     </div>
     <div class="col-lg-4 col-md-4 col-xs-6 thumb">
-        <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="../../img/photo_2018-12-13_14-42-33.jpg" data-target="#image-gallery">
-          <img class="img-responsive" src="../../img/photo_2018-12-13_14-42-33.jpg"
+        <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="/img/photo_2018-12-13_14-42-33.jpg" data-target="#image-gallery">
+          <img class="img-responsive" src="/img/photo_2018-12-13_14-42-33.jpg"
           alt="جلسات هفتگی شیرازلاگ">
         </a>
     </div>
       <div class="col-lg-4 col-md-4 col-xs-6 thumb">
-        <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="../../img/photo_2018-12-12_21-32-08.jpg" data-target="#image-gallery">
-          <img class="img-responsive" src="../../img/photo_2018-12-12_21-32-08.jpg"
+        <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="/img/photo_2018-12-12_21-32-08.jpg" data-target="#image-gallery">
+          <img class="img-responsive" src="/img/photo_2018-12-12_21-32-08.jpg"
           alt="جلسات هفتگی شیرازلاگ">
         </a>
     </div>

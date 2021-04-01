@@ -10,7 +10,7 @@ categories:
 summaryImage: "/img/posters/poster156.jpg"
 readmore: true
 ---
-[![نشست ۱۵۶ شیرازلاگ - وب اسکرپینگ با پایتون](../../img/posters/poster156.jpg)](../../img/poster156.png)
+[![نشست ۱۵۶ شیرازلاگ - وب اسکرپینگ با پایتون](/img/posters/poster156.jpg)](/img/posters/poster156.png)
   
 صد و پنجاه و ششمین جلسه لاگ با ارایه پویا برزگر با موضوع  web scraping با پایتون با حضور جمعی از دوستان و علاقه مندان برگزار شد. در این جلسه پویا با پکیج پایتون Beautiful Soup به استخراج اطلاعات سایت های دیوار, مکتب خونه و arch linux پرداخت و کاربرد های این پکیج را در داده کاوی به حاضران نشان داد.
 
@@ -18,14 +18,14 @@ readmore: true
     <div class="col-lg-12">
         <h1 class="page-header">گالری تصاویر</h1>    
             <div class="col-lg-4 col-md-4 col-xs-6 thumb">
-            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="../../img/446424416_464765.jpg" data-target="#image-gallery">
-              <img class="img-responsive" src="../../img/446424416_464765.jpg" 
+            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="/img/446424416_464765.jpg" data-target="#image-gallery">
+              <img class="img-responsive" src="/img/446424416_464765.jpg" 
               alt="جلسات هفتگی شیرازلاگ">
             </a>
         </div>
             <div class="col-lg-4 col-md-4 col-xs-6 thumb">
-            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="../../img/446429351_463607.jpg" data-target="#image-gallery">
-                <img class="img-responsive" src="../../img/446429351_463607.jpg" 
+            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="/img/446429351_463607.jpg" data-target="#image-gallery">
+                <img class="img-responsive" src="/img/446429351_463607.jpg" 
                 alt="جلسات هفتگی شیرازلاگ">
             </a>
         </div>
@@ -37,13 +37,13 @@ readmore: true
         </div>
         <div class="col-lg-4 col-md-4 col-xs-6 thumb">
         <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="../..//img/448409712_329772.jpg" data-target="#image-gallery">
-          <img class="img-responsive" src="../../img/448409712_329772.jpg" 
+          <img class="img-responsive" src="/img/448409712_329772.jpg" 
           alt="جلسات هفتگی شیرازلاگ">
         </a>
     </div>
         <div class="col-lg-4 col-md-4 col-xs-6 thumb">
-        <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="../../img/449014880_54361.jpg" data-target="#image-gallery">
-          <img class="img-responsive" src="../../img/449014880_54361.jpg" 
+        <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="/img/449014880_54361.jpg" data-target="#image-gallery">
+          <img class="img-responsive" src="/img/449014880_54361.jpg" 
           alt="جلسات هفتگی شیرازلاگ">
         </a>
     </div>

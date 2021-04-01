@@ -10,4 +10,4 @@ summaryImage: "/img/events/nowruz.jpg"
 readmore: false
 ---
 
-[![nowruz](../../img/events/nowruz.jpg)](../../img/events/nowruz.jpg)
+[![nowruz](/img/events/nowruz.jpg)](/img/events/nowruz.jpg)

@@ -9,5 +9,5 @@ categories:
 summaryImage: "/img/posters/poster137.jpg"
 readmore: false
 ---
-[![نشست ۱۳۷ شیرازلاگ - تکنولوژی‌های مربوط به DevOps](../../img/posters/poster137.jpg)](../../img/poster137.jpg)
+[![نشست ۱۳۷ شیرازلاگ - تکنولوژی‌های مربوط به DevOps](/img/posters/poster137.jpg)](/img/posters/poster137.jpg)
 

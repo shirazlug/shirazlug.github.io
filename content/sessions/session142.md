@@ -9,7 +9,7 @@ categories:
 summaryImage: "/img/posters/poster142.jpg"
 readmore: true
 ---
-[![نشست ۱۴۲ شیرازلاگ - گرافیک دو بعدی در HTML5](../../img/posters/poster142.jpg)](../../img/poster142.jpg)
+[![نشست ۱۴۲ شیرازلاگ - گرافیک دو بعدی در HTML5](/img/posters/poster142.jpg)](/img/posters/poster142.jpg)
 
 صد و چهل و دومین نشست شیرازلاگ در دانشگاه شیراز با عنوان گرافیک دو بعدی در HTML5 برگزار شد. رحیم فیروزی در این جلسه به بررسی Canvas و SVG پرداخت. همچنین مثال های عملی از این تگ های پر کاربرد مطرح کرد و در رابطه با صفت های این تگ ها و همچنین استایل های قابل استفاده توضیح داد. در ادامه یک بازی ساده که با استفاده از جاوااسکریپت و HTML5 به صورت دو بعدی نوشته شده بود، مورد بحث و بررسی اعضا قرار گرفت و کد این بازی به صورت کامل توسط رحیم توضیح داده شد.
 
@@ -25,28 +25,28 @@ readmore: true
     <div class="col-lg-12">
         <h1 class="page-header">گالری تصاویر</h1>    
         <div class="col-lg-4 col-md-4 col-xs-6 thumb">
-            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="../../img/photo_2018-04-23_20-24-12.jpg" data-target="#image-gallery">
-                <img class="img-responsive" src="../../img/photo_2018-04-23_20-24-12.jpg" alt="جلسات هفتگی شیرازلاگ">
+            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="/img/photo_2018-04-23_20-24-12.jpg" data-target="#image-gallery">
+                <img class="img-responsive" src="/img/photo_2018-04-23_20-24-12.jpg" alt="جلسات هفتگی شیرازلاگ">
             </a>
         </div>
         <div class="col-lg-4 col-md-4 col-xs-6 thumb">
-            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="../../img/photo_2018-04-23_20-24-18.jpg" data-target="#image-gallery">
-                <img class="img-responsive" src="../../img/photo_2018-04-23_20-24-18.jpg" alt="جلسات هفتگی شیرازلاگ">
+            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="/img/photo_2018-04-23_20-24-18.jpg" data-target="#image-gallery">
+                <img class="img-responsive" src="/img/photo_2018-04-23_20-24-18.jpg" alt="جلسات هفتگی شیرازلاگ">
             </a>
         </div>
         <div class="col-lg-4 col-md-4 col-xs-6 thumb">
-            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="../../img/photo_2018-05-30_11-27-06.jpg" data-target="#image-gallery">
-                <img class="img-responsive" src="../../img/photo_2018-05-30_11-27-06.jpg" alt="جلسات هفتگی شیرازلاگ">
+            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="/img/photo_2018-05-30_11-27-06.jpg" data-target="#image-gallery">
+                <img class="img-responsive" src="/img/photo_2018-05-30_11-27-06.jpg" alt="جلسات هفتگی شیرازلاگ">
             </a>
         </div>
         <div class="col-lg-4 col-md-4 col-xs-6 thumb">
-            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="../../img/photo_2018-05-30_11-27-10.jpg" data-target="#image-gallery">
-                <img class="img-responsive" src="../../img/photo_2018-05-30_11-27-10.jpg" alt="جلسات هفتگی شیرازلاگ">
+            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="/img/photo_2018-05-30_11-27-10.jpg" data-target="#image-gallery">
+                <img class="img-responsive" src="/img/photo_2018-05-30_11-27-10.jpg" alt="جلسات هفتگی شیرازلاگ">
             </a>
         </div>
         <div class="col-lg-4 col-md-4 col-xs-6 thumb">
-            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="../../img/photo_2018-04-23_20-24-17.jpg" data-target="#image-gallery">
-                <img class="img-responsive" src="../../img/photo_2018-04-23_20-24-17.jpg" alt="جلسات هفتگی شیرازلاگ">
+            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="/img/photo_2018-04-23_20-24-17.jpg" data-target="#image-gallery">
+                <img class="img-responsive" src="/img/photo_2018-04-23_20-24-17.jpg" alt="جلسات هفتگی شیرازلاگ">
             </a>
         </div>        
 </div>

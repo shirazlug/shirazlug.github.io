@@ -13,4 +13,4 @@ readmore: true
 
 <https://github.com/saaie/shirazlug/tree/master/presentation/vala>
 
-[![3](../../img/a45f4a2e-fdbb-11e6-86dd-a088b4d860141488289303.9799147.jpeg)](../../img/a45f4a2e-fdbb-11e6-86dd-a088b4d860141488289303.9799147.jpeg)
+[![3](/img/a45f4a2e-fdbb-11e6-86dd-a088b4d860141488289303.9799147.jpeg)](/img/a45f4a2e-fdbb-11e6-86dd-a088b4d860141488289303.9799147.jpeg)

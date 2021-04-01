@@ -11,4 +11,4 @@ categories:
 summaryImage: "/img/posters/poster176.jpg"
 readmore: false
 ---
-[![نشست ۱۷۶ - مستقل سازی اپلیکیشن از زیرساخت با استفاده از داکر](../../img/posters/poster176.jpg)](../../img/poster176.jpg)
+[![نشست ۱۷۶ - مستقل سازی اپلیکیشن از زیرساخت با استفاده از داکر](/img/posters/poster176.jpg)](/img/posters/poster176.jpg)

@@ -9,7 +9,7 @@ categories:
 summaryImage: "/img/posters/poster129.jpg"
 readmore: true
 ---
-[![نشست ۱۲۹ شیرازلاگ - Fish Shell ](../../img/posters/poster129.jpg)](../../img/poster127.jpg)
+[![نشست ۱۲۹ شیرازلاگ - Fish Shell ](/img/posters/poster129.jpg)](/img/posters/poster129.jpg)
 
 در صد وبیست و نهمین نشست شیرازلاگ، پویا برزگر با موضوع Fish Shell به عنوان ارائه دهنده در دانشگاه زند حاضر شد. پویا در این نشست ابتدا به معرفی شل های مختلف پرداخت و ضرورت استفاده از یک شل کاربرپسند را عنوان کرد. 
 

@@ -10,7 +10,7 @@ categories:
 summaryImage: "/img/posters/poster157.jpg"
 readmore: true
 ---
-[![نشست ۱۵۷ شیرازلاگ - Tor - The Onion Network](../../img/posters/poster157.jpg)](../..۷/img/poster157)
+[![نشست ۱۵۷ شیرازلاگ - Tor - The Onion Network](/img/posters/poster157.jpg)](../..۷/img/poster157)
 
 صد و پنجاه و هفتمین جلسه شیرازلاگ با موضوع Tor در خانه فرهنگ دانشگاه صنعتی شیراز برگزار شد .در این نشست مهندس مولایی به توضیح نحوه نصب و راه اندازی tor، کاربردها و سرویس های مخفی در tor پرداخت.
 
@@ -18,15 +18,15 @@ readmore: true
     <div class="col-lg-12">
         <h1 class="page-header">گالری تصاویر</h1>    
             <div class="col-lg-4 col-md-4 col-xs-6 thumb">
-            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="../../img/photo_2018-12-14_01-29-12.jpg" data-target="#image-gallery">
-              <img class="img-responsive" src="../../img/photo_2018-12-14_01-29-12.jpg" 
+            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="/img/photo_2018-12-14_01-29-12.jpg" data-target="#image-gallery">
+              <img class="img-responsive" src="/img/photo_2018-12-14_01-29-12.jpg" 
               alt="جلسات هفتگی شیرازلاگ">
             </a>
         </div>
 
   <div class="col-lg-4 col-md-4 col-xs-6 thumb">
-            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="../../img/photo_2018-11-28_23-29-16.jpg" data-target="#image-gallery">
-                <img class="img-responsive" src="../../img/photo_2018-11-28_23-29-16.jpg" 
+            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="/img/photo_2018-11-28_23-29-16.jpg" data-target="#image-gallery">
+                <img class="img-responsive" src="/img/photo_2018-11-28_23-29-16.jpg" 
                 alt="جلسات هفتگی شیرازلاگ">
             </a>
         </div>

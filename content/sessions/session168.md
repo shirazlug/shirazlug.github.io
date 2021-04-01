@@ -11,7 +11,7 @@ categories:
 summaryImage: "/img/posters/poster168.jpg"
 readmore: true
 ---
-[![نشست ۱۶۸ - Jupyter به عنوان یکی از اصلی‌ترین ابزارها توسط متخصصین علم داده برای آنالیز داده استفاده می شود.](../../img/posters/poster168.jpg)](../../img/poster168.jpg)
+[![نشست ۱۶۸ - Jupyter به عنوان یکی از اصلی‌ترین ابزارها توسط متخصصین علم داده برای آنالیز داده استفاده می شود.](/img/posters/poster168.jpg)](/img/posters/poster168.jpg)
 
 صد و شصت و هشتمین نشست شیرازلاگ با همکاری شیرازپاگ، و با ارائهٔ مهندس حمیدرضا معدلی در خانهٔ فرهنگ دانشگاه صنعتی شیراز برگزار شد.
 
@@ -78,38 +78,38 @@ readmore: true
     <div class="col-lg-12">
         <h1 class="page-header">گالری تصاویر</h1>    
             <div class="col-lg-4 col-md-4 col-xs-6 thumb">
-            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="../../img/1ju.jpg" data-target="#image-gallery">
-              <img class="img-responsive" src="../../img/1ju.jpg"
+            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="/img/1ju.jpg" data-target="#image-gallery">
+              <img class="img-responsive" src="/img/1ju.jpg"
               alt="جلسات هفتگی شیرازلاگ">
             </a>
         </div>
             <div class="col-lg-4 col-md-4 col-xs-6 thumb">
             <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="2ju.jpg" data-target="#image-gallery">
-                <img class="img-responsive" src="../../img/2ju.jpg"
+                <img class="img-responsive" src="/img/2ju.jpg"
                 alt="جلسات هفتگی شیرازلاگ">
             </a>
         </div>
             <div class="col-lg-4 col-md-4 col-xs-6 thumb">
-            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="../../img/3ju.jpg" data-target="#image-gallery">
-                <img class="img-responsive" src="../../img/3ju.jpg"
+            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="/img/3ju.jpg" data-target="#image-gallery">
+                <img class="img-responsive" src="/img/3ju.jpg"
                 alt="جلسات هفتگی شیرازلاگ">
             </a>
     </div>
      <div class="col-lg-4 col-md-4 col-xs-6 thumb">
-            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="../../img/4ju.jpg" data-target="#image-gallery">
-                <img class="img-responsive" src="../../img/4ju.jpg"
+            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="/img/4ju.jpg" data-target="#image-gallery">
+                <img class="img-responsive" src="/img/4ju.jpg"
                 alt="جلسات هفتگی شیرازلاگ">
             </a>
        </div>
             <div class="col-lg-4 col-md-4 col-xs-6 thumb">
             <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="5ju.jpg" data-target="#image-gallery">
-                <img class="img-responsive" src="../../img/5ju.jpg"
+                <img class="img-responsive" src="/img/5ju.jpg"
                 alt="جلسات هفتگی شیرازلاگ">
             </a>
              </div>
             <div class="col-lg-4 col-md-4 col-xs-6 thumb">
             <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="6ju.jpg" data-target="#image-gallery">
-                <img class="img-responsive" src="../../img/6ju.jpg"
+                <img class="img-responsive" src="/img/6ju.jpg"
                 alt="جلسات هفتگی شیرازلاگ">
             </a>
         </div>

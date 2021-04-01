@@ -11,9 +11,9 @@ categories:
 summaryImage: "/img/posters/poster160.jpg"
 readmore: true
 ---
-[![نشست ۱۶۰ شیرازلاگ - بینایی ماشین )(machin learning)](../../img/posters/poster160.jpg)](../../img/posters/poster160.jpg)
+[![نشست ۱۶۰ شیرازلاگ - بینایی ماشین )(machin learning)](/img/posters/poster160.jpg)](/img/posters/poster160.jpg)
 
-[![چهارمین جشن تولد شیرازلاگ](../../img/events/4th-birthday.jpg)](../../img/events/4th-birthday.jpg)
+[![چهارمین جشن تولد شیرازلاگ](/img/events/4th-birthday.jpg)](/img/events/4th-birthday.jpg)
 
 صد و شستمین جلسه شیرازلاگ با موضوع بینایی ماشینی  در تاریخ ۱۹ دی در خانه فرهنگ دانشگاه صنعتی برگزار شد در این نشست خانم مهندس مریم بهزادی ابتدا مقدمه ای در مورد بینایی ماشینی گفتند و سپس از کاربردها و کتابخانه های پر کاربرد در این زمینه ارائه نمودند.در انتهای نشست، تولد چهارسالگی شیرازلاگ، به همراه جمعی از دوستان جشن گرفته شد. 
 
@@ -25,32 +25,32 @@ readmore: true
     <div class="column">
         <h1 class="page-header">گالری تصاویر</h1>    
             <div class="col-lg-4 col-md-4 col-xs-6 thumb">
-            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="../../img/IMG_2.jpg" data-target="#image-gallery">
-              <img class="img-responsive" src="../../img/IMG_2.jpg"
+            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="/img/IMG_2.jpg" data-target="#image-gallery">
+              <img class="img-responsive" src="/img/IMG_2.jpg"
               alt="جلسات هفتگی شیرازلاگ">
             </a>
         </div>
             <div class="col-lg-4 col-md-4 col-xs-6 thumb">
-            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="../../img/IMG_3.jpg" data-target="#image-gallery">
-                <img class="img-responsive" src="../../img/IMG_3.jpg"
+            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="/img/IMG_3.jpg" data-target="#image-gallery">
+                <img class="img-responsive" src="/img/IMG_3.jpg"
                 alt="جلسات هفتگی شیرازلاگ">
             </a>
         </div>
             <div class="col-lg-4 col-md-4 col-xs-6 thumb">
-            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="../../img/IMG_4.jpg" data-target="#image-gallery">
-                <img class="img-responsive" src="../../img/IMG_4.jpg"
+            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="/img/IMG_4.jpg" data-target="#image-gallery">
+                <img class="img-responsive" src="/img/IMG_4.jpg"
                 alt="جلسات هفتگی شیرازلاگ">
             </a>
     </div>
      <div class="col-lg-4 col-md-4 col-xs-6 thumb">
-            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="../../img/IMG_5.jpg" data-target="#image-gallery">
-                <img class="img-responsive" src="../../img/IMG_5.jpg"
+            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="/img/IMG_5.jpg" data-target="#image-gallery">
+                <img class="img-responsive" src="/img/IMG_5.jpg"
                 alt="جلسات هفتگی شیرازلاگ">
             </a>
     </div>
      <div class="col-lg-4 col-md-4 col-xs-6 thumb">
-            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="../../img/IMG_6.jpg" data-target="#image-gallery">
-                <img class="img-responsive" src="../../img/IMG_6.jpg"
+            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="/img/IMG_6.jpg" data-target="#image-gallery">
+                <img class="img-responsive" src="/img/IMG_6.jpg"
                 alt="جلسات هفتگی شیرازلاگ">
             </a>
     </div>

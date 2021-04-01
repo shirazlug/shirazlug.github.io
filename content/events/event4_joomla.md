@@ -10,4 +10,4 @@ summaryImage: "/img/events/joomla.jpg"
 readmore: false
 ---
 
-[![joomla](../../img/events/joomla.jpg)](../../img/events/joomla.jpg)
+[![joomla](/img/events/joomla.jpg)](/img/events/joomla.jpg)

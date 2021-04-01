@@ -11,4 +11,4 @@ categories:
 summaryImage: "/img/posters/poster177.jpg"
 readmore: false
 ---
-[![نشست ۱۷۷ - هم‌افزایی شماره صفر](../../img/posters/poster177.jpg)](../../img/poster177.jpg)
+[![نشست ۱۷۷ - هم‌افزایی شماره صفر](/img/posters/poster177.jpg)](/img/posters/poster177.jpg)

@@ -11,4 +11,4 @@ categories:
 summaryImage: "/img/posters/poster174.jpg"
 readmore: false
 ---
-[![نشست ۱۷۴ - راهکارهای آموزش و فرهنگ ‌سازی استفاده از نرم افزار آزاد](../../img/posters/poster174.jpg)](../../img/poster174.jpg)
+[![نشست ۱۷۴ - راهکارهای آموزش و فرهنگ ‌سازی استفاده از نرم افزار آزاد](/img/posters/poster174.jpg)](/img/posters/poster174.jpg)

@@ -9,7 +9,7 @@ categories:
 summaryImage: "/img/posters/poster135.jpg"
 readmore: true
 ---
-[![نشست ۱۳۵ شیرازلاگ - توانمندسازی سازمان‌های مردم نهاد](../../img/posters/poster135.jpg)](../../img/poster135.jpg)
+[![نشست ۱۳۵ شیرازلاگ - توانمندسازی سازمان‌های مردم نهاد](/img/posters/poster135.jpg)](/img/posters/poster135.jpg)
 
 صد و سی و پنجمین نشست شیرازلاگ در دانشگاه زند با ارائه هادی یداللهی و موضوع توانمندسازی سازمان‌های مردم‌نهاد برگزار شد.
 

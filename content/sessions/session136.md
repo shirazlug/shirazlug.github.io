@@ -9,4 +9,4 @@ categories:
 summaryImage: "/img/posters/poster136.jpg"
 readmore: false
 ---
-[![نشست ۱۳۶ شیرازلاگ - میزگرد با موضوع جمع‌آوری اطلاعات در اوبونتو](../../img/posters/poster136.jpg)](../../img/poster136.jpg)
+[![نشست ۱۳۶ شیرازلاگ - میزگرد با موضوع جمع‌آوری اطلاعات در اوبونتو](/img/posters/poster136.jpg)](/img/posters/poster136.jpg)

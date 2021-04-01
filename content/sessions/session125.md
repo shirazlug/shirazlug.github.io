@@ -9,7 +9,7 @@ categories:
 summaryImage: "/img/posters/poster125.jpg"
 readmore: true
 ---
-[![نشست ۱۲۵ شیرازلاگ - SEO & SMO ](../../img/posters/poster125.jpg)](../../img/posters/poster125.jpg)
+[![نشست ۱۲۵ شیرازلاگ - SEO & SMO ](/img/posters/poster125.jpg)](/img/posters/poster125.jpg)
 
 صد و بیست و پنجمین نشست گروه کاربران لینوکس شیراز، با ارائه محمد مهدی مهاجر در دانشگاه زند برگزار شد. سرفصل هایی که در این جلسه مورد بحث قرار گرفتند در ادامه بیان شده است.
 

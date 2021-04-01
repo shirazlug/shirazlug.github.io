@@ -19,7 +19,7 @@ readmore: true
 مطالب مرتبط با ارائه ها : [R](https://shirazlug.ir/wp-content/uploads/2015/10/R.zip) و [introduction to LISP](https://shirazlug.ir/wp-content/uploads/2015/10/introduction_to_LISP.pdf)
 -->
 
-[![۳۶.۴](../../img/936611a8-fdbb-11e6-86dd-a088b4d860141488289275.503092.jpeg)](../../img/936611a8-fdbb-11e6-86dd-a088b4d860141488289275.503092.jpeg)
-[![۳۶.۲](../../img/93661536-fdbb-11e6-86dd-a088b4d860141488289275.5031624.jpeg)](../../img/93661536-fdbb-11e6-86dd-a088b4d860141488289275.5031624.jpeg)
+[![۳۶.۴](/img/936611a8-fdbb-11e6-86dd-a088b4d860141488289275.503092.jpeg)](/img/936611a8-fdbb-11e6-86dd-a088b4d860141488289275.503092.jpeg)
+[![۳۶.۲](/img/93661536-fdbb-11e6-86dd-a088b4d860141488289275.5031624.jpeg)](/img/93661536-fdbb-11e6-86dd-a088b4d860141488289275.5031624.jpeg)
 
-[![۳۶.۱](../../img/9366177a-fdbb-11e6-86dd-a088b4d860141488289275.5032177.jpeg)](../../img/9366177a-fdbb-11e6-86dd-a088b4d860141488289275.5032177.jpeg)
+[![۳۶.۱](/img/9366177a-fdbb-11e6-86dd-a088b4d860141488289275.5032177.jpeg)](/img/9366177a-fdbb-11e6-86dd-a088b4d860141488289275.5032177.jpeg)

@@ -1,6 +1,6 @@
 baseURL: "https://shirazlug.ir/"
 languageCode: "fa-IR"
-title: "وب‌سایت رسمی شیرازلاگ (گروه کاربران گنو/لینوکس شیراز)"
+title: "شیرازلاگ (گروه کاربران گنو/لینوکس شیراز)"
 theme: hugo-refresh-rtl
 staticDir: "static"
 disableKinds: ["taxonomyTerm", "RSS"]
