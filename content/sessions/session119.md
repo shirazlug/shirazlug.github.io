@@ -9,7 +9,7 @@ categories:
 summaryImage: "/img/posters/poster119.jpg"
 readmore: true
 ---
-[![نشست ۱۱۹ شیرازلاگ - inkscape برای طراحان گرافیک](../../img/posters/poster119.jpg)](../../img/posters/poster119.jpg)
+[![نشست ۱۱۹ شیرازلاگ - inkscape برای طراحان گرافیک](/img/posters/poster119.jpg)](/img/posters/poster119.jpg)
 
 جلسه صد و نوزدهم شیرازلاگ با ارائه محسن نظام الملکی در دانشگاه زند برگزار شد. وی در این جلسه به معرفی نرم افزاری حرفه ای برای طراحان گرافیک پرداخت. این نرم افزار که [inkscape](https://inkscape.org/en/) نام دارد، ابزاری آزاد و اوپن سورس است که می تواند جایگزین بسیار خوبی برای نرم‌افزارهای انحصاری مانند illustrator یا  corelDRAW شود.
 

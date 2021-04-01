@@ -11,7 +11,7 @@ categories:
 summaryImage: "/img/posters/poster179.jpg"
 readmore: true
 ---
-[![نشست ۱۷۹ شیرازلاگ - ارتباط Real-time با Web-RTC](../../img/posters/poster179.jpg)](../../img/poster179.jpg)
+[![نشست ۱۷۹ شیرازلاگ - ارتباط Real-time با Web-RTC](/img/posters/poster179.jpg)](/img/posters/poster179.jpg)
 
 صد و هفتاد و نهمین نشست شیرازلاگ با حضور اعضای محترم در دانشگاه صنعتی شیراز برگزار شد. در این نشست مهندس رحیم فیروزی در رابطه با کاربردهای گسترده‌ی WebRTC و نحوه‌ی ارتباط real-time با این ابزار پرداختند. 
 

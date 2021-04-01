@@ -10,7 +10,7 @@ summaryImage: "/img/events/gnulinux.jpg"
 readmore: true
 ---
 
-[![joomla](../../img/events/gnulinux.jpg)](../../img/events/gnulinux.jpg)
+[![joomla](/img/events/gnulinux.jpg)](/img/events/gnulinux.jpg)
 
 فایل های مربوط به این کارگاه را می توانید از
 [اینجا](https://framagit.org/shirazlug/resources/tree/master/presentations/workshop-ubuntu-python)

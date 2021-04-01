@@ -10,5 +10,5 @@ categories:
 summaryImage: "/img/posters/poster149.jpg"
 readmore: false
 ---
-[![نشست ۱۴۹ شیرازلاگ - میزگرد با موضوع نرم افزار آزاد و بازار کار آن در ایران](../../img/posters/poster149.jpg)](../../img/poster149.jpg)
+[![نشست ۱۴۹ شیرازلاگ - میزگرد با موضوع نرم افزار آزاد و بازار کار آن در ایران](/img/posters/poster149.jpg)](/img/posters/poster149.jpg)
 

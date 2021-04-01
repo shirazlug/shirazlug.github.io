@@ -13,4 +13,4 @@ readmore: true
 
 <!--FIXME missing file [rasp](https://shirazlug.ir/wp-content/uploads/2015/11/rasp.zip)-->
 
-[![1](../../img/96e005b4-fdbb-11e6-86dd-a088b4d860141488289281.3354676.jpeg)](../../img/96e005b4-fdbb-11e6-86dd-a088b4d860141488289281.3354676.jpeg)
+[![1](/img/96e005b4-fdbb-11e6-86dd-a088b4d860141488289281.3354676.jpeg)](/img/96e005b4-fdbb-11e6-86dd-a088b4d860141488289281.3354676.jpeg)

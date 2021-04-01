@@ -11,4 +11,4 @@ categories:
 summaryImage: "/img/posters/poster178.jpg"
 readmore: false
 ---
-[![نشست ۱۷۸ شیرازلاگ - معرفی سخت افزار متن‌باز ](../../img/posters/poster178.jpg)](../../img/poster178.jpg)
+[![نشست ۱۷۸ شیرازلاگ - معرفی سخت افزار متن‌باز ](/img/posters/poster178.jpg)](/img/posters/poster178.jpg)

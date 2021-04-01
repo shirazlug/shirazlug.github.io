@@ -11,7 +11,7 @@ categories:
 summaryImage: "/img/posters/poster163.jpg"
 readmore: true
 ---
-[![نشست ۱۶۳ شیرازلاگ - لیبره آفیس، پلتفرم اداری گنو/لینوکس](../../img/posters/poster163.jpg)](../../img/poster163.jpg)
+[![نشست ۱۶۳ شیرازلاگ - لیبره آفیس، پلتفرم اداری گنو/لینوکس](/img/posters/poster163.jpg)](/img/posters/poster163.jpg)
 
 صد و شصت و سومین نشست شیرازلاگ با حضور جمعی از اعضا در دانشگاه صنعتی شیراز برگزار شد. در این جلسه خانم مهندس راضیه جعفری به معرفی لیبره آفیس پرداخت که یک تحت عنوان پلتفرم اداری گنو/لینوکس شناخته می‌شود و تقریبا همه طرفداران گنو/لینوکس با آن آشنا هستند. در ادامه در رابطه با نحوه نصب و استفاده از این ابزار صحبت شد و قابلیت های پیشرفته آن معرفی گردید. 
 
@@ -19,32 +19,32 @@ readmore: true
     <div class="col-lg-12">
         <h1 class="page-header">گالری تصاویر</h1>    
             <div class="col-lg-4 col-md-4 col-xs-6 thumb">
-            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="../../img/IMG_20190406_075958.jpg" data-target="#image-gallery">
-              <img class="img-responsive" src="../../img/IMG_20190406_075958.jpg"
+            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="/img/IMG_20190406_075958.jpg" data-target="#image-gallery">
+              <img class="img-responsive" src="/img/IMG_20190406_075958.jpg"
               alt="جلسات هفتگی شیرازلاگ">
             </a>
         </div>
             <div class="col-lg-4 col-md-4 col-xs-6 thumb">
-            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="../../img/IMG_20190406_080000.jpg" data-target="#image-gallery">
-                <img class="img-responsive" src="../../img/IMG_20190406_080000.jpg"
+            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="/img/IMG_20190406_080000.jpg" data-target="#image-gallery">
+                <img class="img-responsive" src="/img/IMG_20190406_080000.jpg"
                 alt="جلسات هفتگی شیرازلاگ">
             </a>
         </div>
             <div class="col-lg-4 col-md-4 col-xs-6 thumb">
-            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="../../img/IMG_20190406_080004.jpg" data-target="#image-gallery">
-                <img class="img-responsive" src="../../img/IMG_20190406_080004.jpg"
+            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="/img/IMG_20190406_080004.jpg" data-target="#image-gallery">
+                <img class="img-responsive" src="/img/IMG_20190406_080004.jpg"
                 alt="جلسات هفتگی شیرازلاگ">
             </a>
     </div>
      <div class="col-lg-4 col-md-4 col-xs-6 thumb">
-            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="../../img/IMG_20190406_080007.jpg" data-target="#image-gallery">
-                <img class="img-responsive" src="../../img/IMG_20190406_080007.jpg"
+            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="/img/IMG_20190406_080007.jpg" data-target="#image-gallery">
+                <img class="img-responsive" src="/img/IMG_20190406_080007.jpg"
                 alt="جلسات هفتگی شیرازلاگ">
             </a>
     </div>
      <div class="col-lg-4 col-md-4 col-xs-6 thumb">
-            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="../../img/IMG_20190406_080010.jpg" data-target="#image-gallery">
-                <img class="img-responsive" src="../../img/IMG_20190406_080010.jpg"
+            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="/img/IMG_20190406_080010.jpg" data-target="#image-gallery">
+                <img class="img-responsive" src="/img/IMG_20190406_080010.jpg"
                 alt="جلسات هفتگی شیرازلاگ">
             </a>
  </div>

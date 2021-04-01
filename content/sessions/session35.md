@@ -19,6 +19,6 @@ readmore: true
 برای دسترسی به اسلاید های ارائه می توانید به [Python](https://shirazlug.ir/wp-content/uploads/2015/10/Python.zip) و [netinstall](https://shirazlug.ir/wp-content/uploads/2015/10/netinstall.odp) و [slide](https://shirazlug.ir/wp-content/uploads/2015/10/slide.zip) مراجعه نمایید.
 -->
 
-[![۲](../../img/922e5f8e-fdbb-11e6-86dd-a088b4d860141488289273.4603431.jpg)](../../img/922e5f8e-fdbb-11e6-86dd-a088b4d860141488289273.4603431.jpg)
+[![۲](/img/922e5f8e-fdbb-11e6-86dd-a088b4d860141488289273.4603431.jpg)](/img/922e5f8e-fdbb-11e6-86dd-a088b4d860141488289273.4603431.jpg)
 
-[![۳](../../img/922e6182-fdbb-11e6-86dd-a088b4d860141488289273.4603765.jpeg)](../../img/922e6182-fdbb-11e6-86dd-a088b4d860141488289273.4603765.jpeg)
+[![۳](/img/922e6182-fdbb-11e6-86dd-a088b4d860141488289273.4603765.jpeg)](/img/922e6182-fdbb-11e6-86dd-a088b4d860141488289273.4603765.jpeg)

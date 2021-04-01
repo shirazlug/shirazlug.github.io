@@ -11,7 +11,7 @@ categories:
 summaryImage: "/img/posters/poster162.jpg"
 readmore: true
 ---
-[![نشست ۱۶۲ - وب معنایی ](../../img/posters/poster162.jpg)](../../img/poster162.jpg)
+[![نشست ۱۶۲ - وب معنایی ](/img/posters/poster162.jpg)](/img/posters/poster162.jpg)
 
 صد و شصت و دومین نشست شیرازلاگ با محوریت موضوعی وب معنایی در دانشگاه صنعتی برگزار شد. در این نشست مهدی مهاجر به تاریخچه وب معنایی اشاره کرد و به توضیح مفاهیم رایج در آن پرداخت. در این جلسه در رابطه با آنتولوژی وب owl، پروژه dbPedia و همچنین زبان پرس و جوی SPARQL بحث شد.
 در ادامه راجع به این صحبت کردیم که با درک این مفاهیم، چه راهکارهایی را در سایت خود به کار ببریم تا سئوی بهتری داشته باشیم.
@@ -30,44 +30,44 @@ readmore: true
     <div class="col-lg-12">
         <h1 class="page-header">گالری تصاویر</h1>    
             <div class="col-lg-4 col-md-4 col-xs-6 thumb">
-            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="../../img/IMG_20190406_080125.jpg" data-target="#image-gallery">
-              <img class="img-responsive" src="../../img/IMG_20190406_080125.jpg"
+            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="/img/IMG_20190406_080125.jpg" data-target="#image-gallery">
+              <img class="img-responsive" src="/img/IMG_20190406_080125.jpg"
               alt="جلسات هفتگی شیرازلاگ">
             </a>
         </div>
             <div class="col-lg-4 col-md-4 col-xs-6 thumb">
-            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="../../img/IMG_20190406_080131.jpg" data-target="#image-gallery">
-                <img class="img-responsive" src="../../img/IMG_20190406_080131.jpg"
+            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="/img/IMG_20190406_080131.jpg" data-target="#image-gallery">
+                <img class="img-responsive" src="/img/IMG_20190406_080131.jpg"
                 alt="جلسات هفتگی شیرازلاگ">
             </a>
         </div>
             <div class="col-lg-4 col-md-4 col-xs-6 thumb">
-            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="../../img/IMG_20190406_080133.jpg" data-target="#image-gallery">
-                <img class="img-responsive" src="../../img/IMG_20190406_080133.jpg"
+            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="/img/IMG_20190406_080133.jpg" data-target="#image-gallery">
+                <img class="img-responsive" src="/img/IMG_20190406_080133.jpg"
                 alt="جلسات هفتگی شیرازلاگ">
             </a>
     </div>
      <div class="col-lg-4 col-md-4 col-xs-6 thumb">
-            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="../../img/IMG_20190406_080136.jpg" data-target="#image-gallery">
-                <img class="img-responsive" src="../../img/IMG_20190406_080136.jpg"
+            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="/img/IMG_20190406_080136.jpg" data-target="#image-gallery">
+                <img class="img-responsive" src="/img/IMG_20190406_080136.jpg"
                 alt="جلسات هفتگی شیرازلاگ">
             </a>
     </div>
      <div class="col-lg-4 col-md-4 col-xs-6 thumb">
-            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="../../img/IMG_20190406_080148.jpg" data-target="#image-gallery">
-                <img class="img-responsive" src="../../img/IMG_20190406_080148.jpg"
+            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="/img/IMG_20190406_080148.jpg" data-target="#image-gallery">
+                <img class="img-responsive" src="/img/IMG_20190406_080148.jpg"
                 alt="جلسات هفتگی شیرازلاگ">
             </a>
  </div>
   <div class="col-lg-4 col-md-4 col-xs-6 thumb">
-            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="../../img/IMG_20190406_080152.jpg" data-target="#image-gallery">
-                <img class="img-responsive" src="../../img/IMG_20190406_080152.jpg"
+            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="/img/IMG_20190406_080152.jpg" data-target="#image-gallery">
+                <img class="img-responsive" src="/img/IMG_20190406_080152.jpg"
                 alt="جلسات هفتگی شیرازلاگ">
             </a>
         </div>
   <div class="col-lg-4 col-md-4 col-xs-6 thumb">
-            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="../../img/IMG_20190406_080210.jpg" data-target="#image-gallery">
-                <img class="img-responsive" src="../../img/IMG_20190406_080210.jpg"
+            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="/img/IMG_20190406_080210.jpg" data-target="#image-gallery">
+                <img class="img-responsive" src="/img/IMG_20190406_080210.jpg"
                 alt="جلسات هفتگی شیرازلاگ">
             </a>
         </div>

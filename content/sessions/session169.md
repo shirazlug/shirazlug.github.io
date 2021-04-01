@@ -11,7 +11,7 @@ categories:
 summaryImage: "/img/posters/poster169.jpg"
 readmore: true
 ---
-[![نشست ۱۶۹ - ماژول و درایورنویسی تحت سیستم عامل گنو/لینوکس](../../img/posters/poster169.jpg)](../../img/poster169.jpg)
+[![نشست ۱۶۹ - ماژول و درایورنویسی تحت سیستم عامل گنو/لینوکس](/img/posters/poster169.jpg)](/img/posters/poster169.jpg)
   
 صد و شصت و نهمین نشست شیرازلاگ با ارائهٔ امین خزاعی در دانشگاه صنعتی شیراز با حضور جمعی از اعضا برگزار شد. امین در ابتدا دربارهٔ تاریخچهٔ کرنل لینوکس و معماری آن صحبت کرد. دربارهٔ اپلیکیشن‌های سطح کاربر و سطح کرنل توضیح داد و تفاوت‌های آنها را بیان کرد. همچنین دربارهٔ کرنل‌های مونولوتیک و تفاوت آن‌ها با میکروکرنل‌ها بحث شد. در پایان نیز یک کرنل ماژول تعریف و پیاده‌سازی شد و منابع مفید و کاربردی در این خصوص معرفی گردید.
 
@@ -22,26 +22,26 @@ readmore: true
     <div class="col-lg-12">
         <h1 class="page-header">گالری تصاویر</h1>    
             <div class="col-lg-4 col-md-4 col-xs-6 thumb">
-            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="../../img/1.cphoto_2019-06-12_18-49-34.jpg" data-target="#image-gallery">
-              <img class="img-responsive" src="../../img/1.cphoto_2019-06-12_18-49-34.jpg"
+            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="/img/1.cphoto_2019-06-12_18-49-34.jpg" data-target="#image-gallery">
+              <img class="img-responsive" src="/img/1.cphoto_2019-06-12_18-49-34.jpg"
               alt="جلسات هفتگی شیرازلاگ">
             </a>
         </div>
             <div class="col-lg-4 col-md-4 col-xs-6 thumb">
-            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="../../img/2.cphoto_2019-06-12_18-49-41.jpg" data-target="#image-gallery">
-                <img class="img-responsive" src="../../img/2.cphoto_2019-06-12_18-49-41.jpg"
+            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="/img/2.cphoto_2019-06-12_18-49-41.jpg" data-target="#image-gallery">
+                <img class="img-responsive" src="/img/2.cphoto_2019-06-12_18-49-41.jpg"
                 alt="جلسات هفتگی شیرازلاگ">
             </a>
         </div>
             <div class="col-lg-4 col-md-4 col-xs-6 thumb">
-            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="../../img/3.cphoto_2019-06-12_18-49-42.jpg" data-target="#image-gallery">
-                <img class="img-responsive" src="../../img/3.cphoto_2019-06-12_18-49-42.jpg"
+            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="/img/3.cphoto_2019-06-12_18-49-42.jpg" data-target="#image-gallery">
+                <img class="img-responsive" src="/img/3.cphoto_2019-06-12_18-49-42.jpg"
                 alt="جلسات هفتگی شیرازلاگ">
             </a>
     </div>
      <div class="col-lg-4 col-md-4 col-xs-6 thumb">
-            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="../../img/4.cphoto_2019-06-12_18-49-46.jpg" data-target="#image-gallery">
-                <img class="img-responsive" src="../../img/4.cphoto_2019-06-12_18-49-46.jpg"
+            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="/img/4.cphoto_2019-06-12_18-49-46.jpg" data-target="#image-gallery">
+                <img class="img-responsive" src="/img/4.cphoto_2019-06-12_18-49-46.jpg"
                 alt="جلسات هفتگی شیرازلاگ">
             </a>
         </div>

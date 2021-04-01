@@ -9,7 +9,7 @@ categories:
 summaryImage: "/img/posters/poster128.jpg"
 readmore: true
 ---
-[![نشست ۱۲۸ شیرازلاگ - آشنایی با زبان برنامه‌نویسی Ruby](../../img/posters/poster128.jpg)](../../img/posters/poster128.jpg)
+[![نشست ۱۲۸ شیرازلاگ - آشنایی با زبان برنامه‌نویسی Ruby](/img/posters/poster128.jpg)](/img/posters/poster128.jpg)
 
 صد و بیست و هشتمین نشست شیرازلاگ، با موضوع آشنایی با برنامه نویسی Ruby در دانشگاه زند و با ارائه گودرز جعفری برگزار شد.
 

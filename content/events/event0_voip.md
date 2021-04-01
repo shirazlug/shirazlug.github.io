@@ -10,4 +10,4 @@ keywords: ["کارگاه", "وویپ", "ویپ", "voip", "دانشگاه", "آم
 readmore: false
 ---
 
-[![voip](../../img/events/voip.jpg)](../../img/events/voip.jpg)
+[![voip](/img/events/voip.jpg)](/img/events/voip.jpg)

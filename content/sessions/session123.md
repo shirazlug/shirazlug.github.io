@@ -9,7 +9,7 @@ categories:
 summaryImage: "/img/posters/poster123.jpg"
 readmore: true
 ---
-[![نشست ۱۲۳ شیرازلاگ - آشنایی با LaTeX](../../img/posters/poster123.jpg)](../../img/posters/poster123.jpg)
+[![نشست ۱۲۳ شیرازلاگ - آشنایی با LaTeX](/img/posters/poster123.jpg)](/img/posters/poster123.jpg)
 
 نشست صد و بیست و سوم شیرازلاگ با ارائه مریم بهزادی در دانشگاه زند برگزار شد. خانم بهزادی در این ارائه به معرفی ابزار [latex](https://www.latex-project.org/) پرداختند. 
 
@@ -19,7 +19,7 @@ readmore: true
 
 در حال حاضر LaTeX یکی از محبوب ترین ویرایشگرهای متن در حوزه آکادمیک محسوب می شود و برای نگارش مقالات، کتاب ها و پایان نامه ها به کار گرفته می شود.
 
-[![IMGsession123](../../img/IMGsession123_1.jpg)](../../img/IMGsession123_1.jpg)
+[![IMGsession123](/img/IMGsession123_1.jpg)](/img/IMGsession123_1.jpg)
 
 
 از محورهای مورد بحث در این ارائه، آشنایی با لاتک و تاریخچه آن، معرفی ویرایشگرهای موجود، آشنایی با TeXstudi، بررسی قالب های مجلات معتبر، ایجاد اولین پروژه و درج شکل و ارجاع دهی و فرمول های ریاضی بود.

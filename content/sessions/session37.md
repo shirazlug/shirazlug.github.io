@@ -15,10 +15,10 @@ readmore: true
 <!-- FIXME missing file
 اسلاید ارائه : [Bash](https://shirazlug.ir/wp-content/uploads/2015/10/Bash.odp)-->
 
-[![index](../../img/94894b86-fdbb-11e6-86dd-a088b4d860141488289277.4116495.jpeg)](../../img/94894b86-fdbb-11e6-86dd-a088b4d860141488289277.4116495.jpeg)
-[![۲](../../img/94894d48-fdbb-11e6-86dd-a088b4d860141488289277.41168.jpeg)](../../img/94894d48-fdbb-11e6-86dd-a088b4d860141488289277.41168.jpeg)
+[![index](/img/94894b86-fdbb-11e6-86dd-a088b4d860141488289277.4116495.jpeg)](/img/94894b86-fdbb-11e6-86dd-a088b4d860141488289277.4116495.jpeg)
+[![۲](/img/94894d48-fdbb-11e6-86dd-a088b4d860141488289277.41168.jpeg)](/img/94894d48-fdbb-11e6-86dd-a088b4d860141488289277.41168.jpeg)
 
 <!--FIXME missing picture (https://shirazlug.ir/wp-content/uploads/2015/10/۴.jpeg)-->
 
-[![۳](../../img/94894e42-fdbb-11e6-86dd-a088b4d860141488289277.4117036.jpeg)](../../img/94894e42-fdbb-11e6-86dd-a088b4d860141488289277.4117036.jpeg)
-[![۴](../../img/94894f1e-fdbb-11e6-86dd-a088b4d860141488289277.411725.jpeg)](../../img/94894f1e-fdbb-11e6-86dd-a088b4d860141488289277.411725.jpeg)
+[![۳](/img/94894e42-fdbb-11e6-86dd-a088b4d860141488289277.4117036.jpeg)](/img/94894e42-fdbb-11e6-86dd-a088b4d860141488289277.4117036.jpeg)
+[![۴](/img/94894f1e-fdbb-11e6-86dd-a088b4d860141488289277.411725.jpeg)](/img/94894f1e-fdbb-11e6-86dd-a088b4d860141488289277.411725.jpeg)

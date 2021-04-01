@@ -10,7 +10,7 @@ categories:
 summaryImage: "/img/posters/poster133.jpg"
 readmore: true
 ---
-[![نشست ۱۳۳ شیرازلاگ - فلسفه پروژه گنو و بررسی لایسنس‌های نرم‌افزار آزاد](../../img/posters/poster133.jpg)](../../img/poster133.jpg)
+[![نشست ۱۳۳ شیرازلاگ - فلسفه پروژه گنو و بررسی لایسنس‌های نرم‌افزار آزاد](/img/posters/poster133.jpg)](/img/posters/poster133.jpg)
 
 صد و سی و سومین نشست شیرازلاگ با ارائه خوب پیمان لاری در دانشگاه زند برگزار شد. در این جلسه پیمان به معرفی پروژه گنو و اهداف آن پرداخت. در ادامه هم انواع لایسنس های مورد تایید FSF را شرح داد و به معرفی معایب و مزایای هر کدام پرداخت.
 
@@ -29,18 +29,18 @@ readmore: true
     <div class="col-lg-12">
         <h1 class="page-header">گالری تصاویر</h1>    
             <div class="col-lg-4 col-md-4 col-xs-6 thumb">
-            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="../../img/photo_2018-01-30_21-37-02.jpg" data-target="#image-gallery">
-                <img class="img-responsive" src="../../img/photo_2018-01-30_21-37-02.jpg" alt="جلسات هفتگی شیرازلاگ">
+            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="/img/photo_2018-01-30_21-37-02.jpg" data-target="#image-gallery">
+                <img class="img-responsive" src="/img/photo_2018-01-30_21-37-02.jpg" alt="جلسات هفتگی شیرازلاگ">
             </a>
         </div>
             <div class="col-lg-4 col-md-4 col-xs-6 thumb">
-            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="../../img/photo_2018-01-30_21-37-06.jpg" data-target="#image-gallery">
-                <img class="img-responsive" src="../../img/photo_2018-01-30_21-37-06.jpg" alt="جلسات هفتگی شیرازلاگ">
+            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="/img/photo_2018-01-30_21-37-06.jpg" data-target="#image-gallery">
+                <img class="img-responsive" src="/img/photo_2018-01-30_21-37-06.jpg" alt="جلسات هفتگی شیرازلاگ">
             </a>
         </div>
             <div class="col-lg-4 col-md-4 col-xs-6 thumb">
-            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="../../img/photo_2018-01-30_21-37-08.jpg" data-target="#image-gallery">
-                <img class="img-responsive" src="../../img/photo_2018-01-30_21-37-08.jpg" alt="جلسات هفتگی شیرازلاگ">
+            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="/img/photo_2018-01-30_21-37-08.jpg" data-target="#image-gallery">
+                <img class="img-responsive" src="/img/photo_2018-01-30_21-37-08.jpg" alt="جلسات هفتگی شیرازلاگ">
             </a>
         </div>
 </div>

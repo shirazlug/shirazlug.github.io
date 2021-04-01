@@ -9,7 +9,7 @@ categories:
 summaryImage: "/img/posters/poster120.jpg"
 readmore: true
 ---
-[![نشست ۱۲۰ شیرازلاگ - گنوم شل (Gnome Shell)](../../img/posters/poster120.jpg)](../../img/posters/poster120.jpg)
+[![نشست ۱۲۰ شیرازلاگ - گنوم شل (Gnome Shell)](/img/posters/poster120.jpg)](/img/posters/poster120.jpg)
 
 صد و بیستمین جلسه شیرازلاگ در دانشگاه زند با ارائه امین خزاعی برگزار شد. در این جلسه امین به معرفی گنوم شل [Gnome Shell](https://www.gnome.org/) پرداخت.
 
@@ -18,7 +18,7 @@ readmore: true
 
 آقای خزاعی در این ارائه تعدادی از تکنولوژی های موجود در گنوم مانند GIO، PulseAudio، Flatpak و ... را توضیح داده و برخی از افزونه های پرکاربرد گنوم را نیز معرفی کردند.
 
-[![session120](../../img/IMGsession120_1.jpg)](../../img/IMGsession120_1.jpg)
+[![session120](/img/IMGsession120_1.jpg)](/img/IMGsession120_1.jpg)
 
 فایل های مربوط به این ارائه را می توانید از [اینجا](https://framagit.org/shirazlug/resources/tree/master/presentations/session_120)
 یا [اینجا](https://www.slideshare.net/secret/DfMQWwbgnofLJO)

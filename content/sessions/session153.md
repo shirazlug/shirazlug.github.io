@@ -10,4 +10,4 @@ categories:
 summaryImage: "/img/posters/poster153.jpg"
 readmore: false
 ---
-[![نشست ۱۵۳ شیرازلاگ - Jekyll](../../img/posters/poster153.jpg)](../../img/poster153.jpg)
+[![نشست ۱۵۳ شیرازلاگ - Jekyll](/img/posters/poster153.jpg)](/img/posters/poster153.jpg)

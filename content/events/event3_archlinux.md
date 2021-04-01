@@ -10,4 +10,4 @@ summaryImage: "/img/events/archlinux.jpg"
 readmore: false
 ---
 
-[![archlinux](../../img/events/archlinux.jpg)](../../img/events/archlinux.jpg)
+[![archlinux](/img/events/archlinux.jpg)](/img/events/archlinux.jpg)

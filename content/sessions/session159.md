@@ -10,7 +10,7 @@ categories:
 summaryImage: "/img/posters/poster159.jpg"
 readmore: true
 ---
-[![نشست ۱۵۹ -systemd  ](../../img/posters/poster159.jpg)](../../img/poster159.jpg)
+[![نشست ۱۵۹ -systemd  ](/img/posters/poster159.jpg)](/img/posters/poster159.jpg)
 
 صد و پنجاه و نهمین نشست  شیرازلاگ با موضوع systemd در حضور جمعی از دوستان وعلاقه مندان به سیستم عامل گنو/لینوکس در خانهٔ فرهنگ واقع در دانشکدهٔ صنعتی شیراز برگزار شد. در این نشست ابتدا مهندس امین خزاعی مقدمه ای در مورد تاریخچه و فلسفهٔ systemd گفت و در آخر به مدیریت سرویس های سیستمی از طریق systemd پرداخت.
 <!-- FIXME This code for gallery of pictures does not work correctly; And such a long HTML code should not be here. We can use hugo templates to generate a gallery for each session or post. -->
@@ -18,14 +18,14 @@ readmore: true
     <div class="col-lg-12">
         <h1 class="page-header">گالری تصاویر</h1>    
             <div class="col-lg-4 col-md-4 col-xs-6 thumb">
-            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="../../img/IMG_3271.jpg" data-target="#image-gallery">
-              <img class="img-responsive" src="../../img/IMG_3271.jpg"
+            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="/img/IMG_3271.jpg" data-target="#image-gallery">
+              <img class="img-responsive" src="/img/IMG_3271.jpg"
               alt="جلسات هفتگی شیرازلاگ">
             </a>
         </div>
             <div class="col-lg-4 col-md-4 col-xs-6 thumb">
-            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="../../img/IMG_3272.jpg" data-target="#image-gallery">
-                <img class="img-responsive" src="../../img/IMG_3272.jpg"
+            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="/img/IMG_3272.jpg" data-target="#image-gallery">
+                <img class="img-responsive" src="/img/IMG_3272.jpg"
                 alt="جلسات هفتگی شیرازلاگ">
             </a>
         </div>

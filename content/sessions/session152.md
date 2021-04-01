@@ -10,4 +10,4 @@ categories:
 summaryImage: "/img/posters/poster152.jpg"
 readmore: false
 ---
-[![نشست ۱۵۲ شیرازلاگ - غلط‌یابی و استانداردسازی متن فارسی](../../img/posters/poster152.jpg)](../../img/poster152.jpg)
+[![نشست ۱۵۲ شیرازلاگ - غلط‌یابی و استانداردسازی متن فارسی](/img/posters/poster152.jpg)](/img/posters/poster152.jpg)

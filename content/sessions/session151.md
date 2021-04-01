@@ -10,4 +10,4 @@ categories:
 summaryImage: "/img/posters/poster151.jpg"
 readmore: false
 ---
-[![نشست ۱۵۱ شیرازلاگ - گیت پیشرفته](../../img/posters/poster151.jpg)](../../img/poster151.jpg)
+[![نشست ۱۵۱ شیرازلاگ - گیت پیشرفته](/img/posters/poster151.jpg)](/img/posters/poster151.jpg)

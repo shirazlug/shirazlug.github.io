@@ -11,7 +11,7 @@ categories:
 summaryImage: "/img/posters/poster161.jpg"
 readmore: true
 ---
-[![نشست ۱۶۱ شیرازلاگ - موتور بازی‌سازی Godot](../../img/posters/poster161.jpg)](../../img/poster161.jpg)
+[![نشست ۱۶۱ شیرازلاگ - موتور بازی‌سازی Godot](/img/posters/poster161.jpg)](/img/posters/poster161.jpg)
 
 صد و شصت و یکمین نشست شیرازلاگ با ارائه حسن حیدری نسب در دانشگاه زند برگزار شد. آقای حیدری نسب در این نشست به معرفی موتور بازی سازی Godot پرداختند و مثال هایی به صورت عملی در رابطه با این موتور قدرتمند ارائه دادند. 
 
@@ -23,26 +23,26 @@ readmore: true
     <div class="col-lg-12">
         <h1 class="page-header">گالری تصاویر</h1>  
   <div class="col-lg-4 col-md-4 col-xs-6 thumb">
-            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="../../img/IMG_20190406_080323.jpg" data-target="#image-gallery">
-                <img class="img-responsive" src="../../img/IMG_20190406_080323.jpg"
+            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="/img/IMG_20190406_080323.jpg" data-target="#image-gallery">
+                <img class="img-responsive" src="/img/IMG_20190406_080323.jpg"
                 alt="جلسات هفتگی شیرازلاگ">
             </a>
         </div>
  <div class="col-lg-4 col-md-4 col-xs-6 thumb">
-            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="../../img/IMG_20190406_080328.jpg" data-target="#image-gallery">
-                <img class="img-responsive" src="../../img/IMG_20190406_080328.jpg"
+            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="/img/IMG_20190406_080328.jpg" data-target="#image-gallery">
+                <img class="img-responsive" src="/img/IMG_20190406_080328.jpg"
                 alt="جلسات هفتگی شیرازلاگ">
             </a>
         </div>
  <div class="col-lg-4 col-md-4 col-xs-6 thumb">
-            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="../../img/IMG_20190406_080357.jpg" data-target="#image-gallery">
-                <img class="img-responsive" src="../../img/IMG_20190406_080357.jpg"
+            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="/img/IMG_20190406_080357.jpg" data-target="#image-gallery">
+                <img class="img-responsive" src="/img/IMG_20190406_080357.jpg"
                 alt="جلسات هفتگی شیرازلاگ">
             </a>
         </div> 
         <div class="col-lg-4 col-md-4 col-xs-6 thumb">
-            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="../../img/IMG_20190406_080321.jpg" data-target="#image-gallery">
-                <img class="img-responsive" src="../../img/IMG_20190406_080321.jpg"
+            <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="نشست هفتگی شیرازلاگ با حضور جمعی از دوستان" data-caption="" data-image="/img/IMG_20190406_080321.jpg" data-target="#image-gallery">
+                <img class="img-responsive" src="/img/IMG_20190406_080321.jpg"
                 alt="جلسات هفتگی شیرازلاگ">
             </a>
         </div>

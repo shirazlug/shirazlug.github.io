@@ -12,6 +12,6 @@ readmore: true
 
 <!-- FIXME Missing pucture ![](https://shirazlug.ir/wp-content/uploads/2015/05/6jue_photo_2015-05-12_14-40-54.jpg) -->
 
-![photo_2015-05-12_14-40-54](../../img/759884b2-fdbb-11e6-86dd-a088b4d860141488289225.5020704.jpg)
+![photo_2015-05-12_14-40-54](/img/759884b2-fdbb-11e6-86dd-a088b4d860141488289225.5020704.jpg)
 
-![photo_2015-05-12_14-41-10](../../img/75988840-fdbb-11e6-86dd-a088b4d860141488289225.5021396.jpg)
+![photo_2015-05-12_14-41-10](/img/75988840-fdbb-11e6-86dd-a088b4d860141488289225.5021396.jpg)
