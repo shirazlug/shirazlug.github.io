@@ -2,7 +2,7 @@
 title: "جلسه ۱۹۷"
 author: "بهزادی"
 date: "1399-08-27"
-description: ""
+description: "خوشگل‌سازی دسکتاپ گنوم"
 subtitle: "خوشگل‌سازی دسکتاپ گنوم"
 weight: -1
 summaryImage: "/img/posters/poster197.jpg"

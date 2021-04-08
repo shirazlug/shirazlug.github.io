@@ -140,9 +140,9 @@ params:
     logo: "logo/shirazlug.svg"
 
     # Last Session Details
-    lastSessionPoster: "img/posters/poster198.jpg"
-    lastSessionAlt: "مانیتورینگ با زبیکس"
-    lastSessionNo: "198"
+    lastSessionPoster: "img/posters/poster200.jpg"
+    lastSessionAlt: "معرفی زبان گو (an introduction to GO)"
+    lastSessionNo: "200"
     
     imageWidth: 500px
     # Address

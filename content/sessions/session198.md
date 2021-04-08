@@ -2,7 +2,7 @@
 title: "جلسه ۱۹۸"
 author: "بهزادی"
 date: "1399-09-11"
-description: ""
+description: "مانیتورینگ با زبیکس"
 subtitle: "مانیتورینگ با زبیکس"
 weight: -1
 summaryImage: "/img/posters/poster198.jpg"
