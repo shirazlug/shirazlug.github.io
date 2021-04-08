@@ -2,7 +2,7 @@
 title: "جلسه ۱۹۶"
 author: "بهزادی"
 date: "1399-06-03"
-description: ""
+description: "دورهمی دوستانه شیرازلاگ"
 subtitle: "دورهمی دوستانه شیرازلاگ"
 weight: -1
 summaryImage: "/img/posters/poster196.jpg"
