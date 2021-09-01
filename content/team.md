@@ -12,6 +12,7 @@ readmore: true
 [![مریم بهزادی](/img/team/behzadi.svg)](/members/behzadi/)
 [![محمد میرشائی](/img/team/mirshaei.svg)](/members/mirshaei/)
 [![سید صالح شجاعی](/img/team/saleh.svg)](/members/saleh/)
+[![سعید بستان دوست](/img/team/ssbostan.png)](/members/ssbostan/)
 
 ---
 
