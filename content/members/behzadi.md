@@ -37,8 +37,6 @@ summaryImage: "/img/team/behzadi.svg"
 [فناوران اینترنت اشیاء هیوا](https://hiva-iot.com/)
 * سخنران 
 [جشن انتشار اوبونتو دانشگاه اراک](/events/event9_arak_conf/) - پاییز ۹۸
-* مدرس و توسعه‌دهنده پلتفرم آموزشی 
-[پالیزتاک](https://paliztalk.ir/)
 
 ---
 
