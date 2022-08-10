@@ -1,5 +1,5 @@
 ---
-title: "جلسه ۱۴۵"
+title: "نشست ۱۴۵"
 subtitle: "Embedded Linux"
 description: "Embedded Linux"
 date: "1397-03-07"
@@ -7,10 +7,10 @@ author: "مریم بهزادی"
 draft: false
 categories:
     - "sessions"
-summaryImage: "/img/posters/poster145.jpg"
+summaryImage: "/img/sessions/poster145.jpg"
 readmore: true
 ---
-[![نشست ۱۴۵ شیرازلاگ - Embedded Linux](/img/posters/poster145.jpg)](/img/posters/poster145.jpg)
+[![نشست ۱۴۵ شیرازلاگ - Embedded Linux](/img/sessions/poster145.jpg)](/img/sessions/poster145.jpg)
 
 صد و چهل و پنجمین نشست شیرازلاگ با ارائه امین خزاعی با استقبال جمع کثیری از دوستان در دانشگاه شیراز برگزار شد. 
 
@@ -31,7 +31,7 @@ readmore: true
 * پروژه یوکتو (Yocto)
 * زبان های برنامه نویسی رایج در اینترنت اشیاء
 
-از آن جایی که این جلسه استقبال زیادی از موضوع و ارائه شد، و همچنین به دلیل درخواست مکرر دوستان در رابطه با ادامه مبحث، سعی می کنیم در آینده جلسات یا کارگاه هایی در این زمینه داشته باشیم.
+از آن جایی که این نشست استقبال زیادی از موضوع و ارائه شد، و همچنین به دلیل درخواست مکرر دوستان در رابطه با ادامه مبحث، سعی می کنیم در آینده جلسات یا کارگاه هایی در این زمینه داشته باشیم.
 
 فایل های این ارائه را می توانید از 
 [اینجا](https://gitlab.com/shirazlug/resources/tree/master/presentations/session_145) 

@@ -1,5 +1,5 @@
 ---
-title: "جلسه ۱۵۷"
+title: "نشست ۱۵۷"
 subtitle: "Tor - The Onion Network"
 description: "Tor - The Onion Network"
 date: "1397-09-07"
@@ -7,12 +7,12 @@ author: "آرمان علی قنبری"
 draft: false
 categories:
     - "sessions"
-summaryImage: "/img/posters/poster157.jpg"
+summaryImage: "/img/sessions/poster157.jpg"
 readmore: true
 ---
-[![نشست ۱۵۷ شیرازلاگ - Tor - The Onion Network](/img/posters/poster157.jpg)](/img/posters/poster157.jpg)
+[![نشست ۱۵۷ شیرازلاگ - Tor - The Onion Network](/img/sessions/poster157.jpg)](/img/sessions/poster157.jpg)
 
-صد و پنجاه و هفتمین جلسه شیرازلاگ با موضوع Tor در خانه فرهنگ دانشگاه صنعتی شیراز برگزار شد .در این نشست مهندس مولایی به توضیح نحوه نصب و راه اندازی tor، کاربردها و سرویس های مخفی در tor پرداخت.
+صد و پنجاه و هفتمین نشست شیرازلاگ با موضوع Tor در خانه فرهنگ دانشگاه صنعتی شیراز برگزار شد .در این نشست مهندس مولایی به توضیح نحوه نصب و راه اندازی tor، کاربردها و سرویس های مخفی در tor پرداخت.
 
 <div class="row">
     <div class="col-lg-12">

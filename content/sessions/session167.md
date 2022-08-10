@@ -1,5 +1,5 @@
 ---
-title: "جلسه ۱۶۷"
+title: "نشست ۱۶۷"
 subtitle: "آشنایی با OpenStack"
 description: "نشست ۱۶۷ شیرازلاگ- مفاهیم و اجزای OpenStack، پروژه ها و سرویس های قابل ارايه آن مورد بحث و بررسی قرار گرفت."
 keywords: "شیرازلاگ،اپن استک،زیرساخت ابری،مراکز داده مجازی،OpenStack"
@@ -8,10 +8,10 @@ author: "آرمان علی قنبری, مریم بهزادی"
 draft: false
 categories:
     - "sessions"
-summaryImage: "/img/posters/poster167.jpg"
+summaryImage: "/img/sessions/poster167.jpg"
 readmore: true
 ---
-[![نشست ۱۶۷ شیرازلاگ - آشنایی با openstack](/img/posters/poster167.jpg)](/img/posters/poster167.jpg)
+[![نشست ۱۶۷ شیرازلاگ - آشنایی با openstack](/img/sessions/poster167.jpg)](/img/sessions/poster167.jpg)
 
 
 صد و شصت وهفتمین نشست شیرازلاگ با حضور جمعی از اعضا و علاقه مندان در خانه فرهنگ دانشگاه صنعتی شیراز با ارائه  سعید بستان دوست برگزار شد.‍‍ در این نشست ابتدا سعید مقدمه ای در مورد تاریخچه openstack وکاربردهای آن گفت سپس به پروژه ها و سرویس های موجود در آن اشاره کرد.

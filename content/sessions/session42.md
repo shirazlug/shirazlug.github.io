@@ -1,5 +1,5 @@
 ---
-title: "جلسه ۴۲"
+title: "نشست ۴۲"
 subtitle: "بحث آزاد"
 date: "1394-09-18"
 categories:

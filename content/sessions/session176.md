@@ -1,5 +1,5 @@
 ---
-title: "جلسه ۱۷۶"
+title: "نشست ۱۷۶"
 subtitle: "مستقل سازی اپلیکیشن از زیرساخت با استفاده از داکر"
 description: "مستقل سازی اپلیکیشن از زیرساخت با استفاده از داکر"
 keywords: "شیرازلاگ، داکر، مستقل سازی اپلیکیشن از زیر ساخت،Docker،Linux،لینوکس،Linux"
@@ -8,7 +8,7 @@ author: "مریم بهزادی"
 draft: false
 categories:
     - "sessions"
-summaryImage: "/img/posters/poster176.jpg"
+summaryImage: "/img/sessions/poster176.jpg"
 readmore: false
 ---
-[![نشست ۱۷۶ - مستقل سازی اپلیکیشن از زیرساخت با استفاده از داکر](/img/posters/poster176.jpg)](/img/posters/poster176.jpg)
+[![نشست ۱۷۶ - مستقل سازی اپلیکیشن از زیرساخت با استفاده از داکر](/img/sessions/poster176.jpg)](/img/sessions/poster176.jpg)

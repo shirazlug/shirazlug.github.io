@@ -1,5 +1,5 @@
 ---
-title: "جلسه ۱۵۸"
+title: "نشست ۱۵۸"
 subtitle: "رایانش ابری"
 description: "رایانش ابری"
 date: "1397-09-21"
@@ -7,10 +7,10 @@ author: "آرمان علی قنبری"
 draft: false
 categories:
     - "sessions"
-summaryImage: "/img/posters/poster158.jpg"
+summaryImage: "/img/sessions/poster158.jpg"
 readmore: true
 ---
-[![نشست ۱۵۸ شیرازلاگ - رایانش ابری](/img/posters/poster158.jpg)](/img/posters/poster158.jpg)
+[![نشست ۱۵۸ شیرازلاگ - رایانش ابری](/img/sessions/poster158.jpg)](/img/sessions/poster158.jpg)
 
 صد و پنجاه و هشتمین نشست شیرازلاگ با موضوع cloud در حضور جمعی از دوستان و علاقه مندان برگزار شد .در این نشست ابتدا مهندس سعید بستان دوست به تعریف مفهوم cloud پرداخته، از مزایا و معایب آن گفت و انواع مختلف cloud را شرح داد و در آخر نحوه ساخت cloud private را به صورت عملی به حضار نشان داد.
 

@@ -1,5 +1,5 @@
 ---
-title: "جلسه ۱۶۰"
+title: "نشست ۱۶۰"
 subtitle: "بینایی ماشین"
 description: "بینایی ماشین"
 keywords: "شیرازلاگ،بینایی ماشین،Opencv"
@@ -8,14 +8,14 @@ author: "آرمان علی قنبری"
 draft: false
 categories:
     - "sessions"
-summaryImage: "/img/posters/poster160.jpg"
+summaryImage: "/img/sessions/poster160.jpg"
 readmore: true
 ---
-[![نشست ۱۶۰ شیرازلاگ - بینایی ماشین )(machin learning)](/img/posters/poster160.jpg)](/img/posters/poster160.jpg)
+[![نشست ۱۶۰ شیرازلاگ - بینایی ماشین )(machin learning)](/img/sessions/poster160.jpg)](/img/sessions/poster160.jpg)
 
 [![چهارمین جشن تولد شیرازلاگ](/img/events/4th-birthday.jpg)](/img/events/4th-birthday.jpg)
 
-صد و شستمین جلسه شیرازلاگ با موضوع بینایی ماشینی  در تاریخ ۱۹ دی در خانه فرهنگ دانشگاه صنعتی برگزار شد در این نشست خانم مهندس مریم بهزادی ابتدا مقدمه ای در مورد بینایی ماشینی گفتند و سپس از کاربردها و کتابخانه های پر کاربرد در این زمینه ارائه نمودند.در انتهای نشست، تولد چهارسالگی شیرازلاگ، به همراه جمعی از دوستان جشن گرفته شد. 
+صد و شستمین نشست شیرازلاگ با موضوع بینایی ماشینی  در تاریخ ۱۹ دی در خانه فرهنگ دانشگاه صنعتی برگزار شد در این نشست خانم مهندس مریم بهزادی ابتدا مقدمه ای در مورد بینایی ماشینی گفتند و سپس از کاربردها و کتابخانه های پر کاربرد در این زمینه ارائه نمودند.در انتهای نشست، تولد چهارسالگی شیرازلاگ، به همراه جمعی از دوستان جشن گرفته شد. 
 
 فایل های این ارائه را می توانید از [اینجا](https://framagit.org/shirazlug/resources/tree/master/presentations/session_160)
 یا [اینجا](https://www.slideshare.net/ShirazLUG/ss-128459204)

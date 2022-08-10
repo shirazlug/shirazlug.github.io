@@ -1,5 +1,5 @@
 ---
-title: "جلسه ۱۵۶"
+title: "نشست ۱۵۶"
 subtitle: "وب اسکرپینگ با پایتون"
 description: "وب اسکرپینگ با پایتون"
 date: "1397-08-23"
@@ -7,12 +7,12 @@ author: "آرمان علی قنبری"
 draft: false
 categories:
     - "sessions"
-summaryImage: "/img/posters/poster156.jpg"
+summaryImage: "/img/sessions/poster156.jpg"
 readmore: true
 ---
-[![نشست ۱۵۶ شیرازلاگ - وب اسکرپینگ با پایتون](/img/posters/poster156.jpg)](/img/posters/poster156.jpg)
+[![نشست ۱۵۶ شیرازلاگ - وب اسکرپینگ با پایتون](/img/sessions/poster156.jpg)](/img/sessions/poster156.jpg)
   
-صد و پنجاه و ششمین جلسه لاگ با ارایه پویا برزگر با موضوع  web scraping با پایتون با حضور جمعی از دوستان و علاقه مندان برگزار شد. در این جلسه پویا با پکیج پایتون Beautiful Soup به استخراج اطلاعات سایت های دیوار, مکتب خونه و arch linux پرداخت و کاربرد های این پکیج را در داده کاوی به حاضران نشان داد.
+صد و پنجاه و ششمین نشست لاگ با ارایه پویا برزگر با موضوع  web scraping با پایتون با حضور جمعی از دوستان و علاقه مندان برگزار شد. در این نشست پویا با پکیج پایتون Beautiful Soup به استخراج اطلاعات سایت های دیوار, مکتب خونه و arch linux پرداخت و کاربرد های این پکیج را در داده کاوی به حاضران نشان داد.
 
 <div class="row">
     <div class="col-lg-12">

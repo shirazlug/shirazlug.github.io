@@ -1,5 +1,5 @@
 ---
-title: "جلسه ۱۷۴"
+title: "نشست ۱۷۴"
 subtitle: "راهکارهای آموزش و فرهنگ ‌سازی استفاده از نرم افزار آزاد"
 description: "راهکارهای آموزش و فرهنگ ‌سازی استفاده از نرم افزار آزاد"
 keywords: "شیرازلاگ،نرم افزار آزاد،آموزش"
@@ -8,7 +8,7 @@ author: "مریم بهزادی"
 draft: false
 categories:
     - "sessions"
-summaryImage: "/img/posters/poster174.jpg"
+summaryImage: "/img/sessions/poster174.jpg"
 readmore: false
 ---
-[![نشست ۱۷۴ - راهکارهای آموزش و فرهنگ ‌سازی استفاده از نرم افزار آزاد](/img/posters/poster174.jpg)](/img/posters/poster174.jpg)
+[![نشست ۱۷۴ - راهکارهای آموزش و فرهنگ ‌سازی استفاده از نرم افزار آزاد](/img/sessions/poster174.jpg)](/img/sessions/poster174.jpg)

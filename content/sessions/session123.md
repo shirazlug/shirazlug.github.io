@@ -1,15 +1,15 @@
 ---
-title: "جلسه ۱۲۳"
+title: "نشست ۱۲۳"
 subtitle: "آشنایی با LaTeX"
 description: "آشنایی با LaTeX"
 date: "1396-08-22"
 author: "وجیهه نیکخواه"
 categories:
     - "sessions"
-summaryImage: "/img/posters/poster123.jpg"
+summaryImage: "/img/sessions/poster123.jpg"
 readmore: true
 ---
-[![نشست ۱۲۳ شیرازلاگ - آشنایی با LaTeX](/img/posters/poster123.jpg)](/img/posters/poster123.jpg)
+[![نشست ۱۲۳ شیرازلاگ - آشنایی با LaTeX](/img/sessions/poster123.jpg)](/img/sessions/poster123.jpg)
 
 نشست صد و بیست و سوم شیرازلاگ با ارائه مریم بهزادی در دانشگاه زند برگزار شد. خانم بهزادی در این ارائه به معرفی ابزار [latex](https://www.latex-project.org/) پرداختند. 
 

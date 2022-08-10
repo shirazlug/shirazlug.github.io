@@ -1,5 +1,5 @@
 ---
-title: "جلسه ۱۷۸"
+title: "نشست ۱۷۸"
 subtitle: "معرفی سخت افزار متن‌باز"
 description: "معرفی سخت افزار متن باز"
 keywords: "شیرازلاگ، سخت افزار متن باز، Open Hardware"
@@ -8,7 +8,7 @@ author: "مریم بهزادی"
 draft: false
 categories:
     - "sessions"
-summaryImage: "/img/posters/poster178.jpg"
+summaryImage: "/img/sessions/poster178.jpg"
 readmore: false
 ---
-[![نشست ۱۷۸ شیرازلاگ - معرفی سخت افزار متن‌باز ](/img/posters/poster178.jpg)](/img/posters/poster178.jpg)
+[![نشست ۱۷۸ شیرازلاگ - معرفی سخت افزار متن‌باز ](/img/sessions/poster178.jpg)](/img/sessions/poster178.jpg)

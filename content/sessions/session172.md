@@ -1,5 +1,5 @@
 ---
-title: "جلسه ۱۷۲"
+title: "نشست ۱۷۲"
 subtitle: "منطق فازی" 
 description: "در نشست ۱۷۲ شیرازلاگ در زمینه تعاریف اولیه در منطق فازی، توابع عضویت، کاربردهای منطق فازی در صنعت و ... مورد بحث و بررسی قرار گرفت."
 keywords: ""
@@ -8,10 +8,10 @@ author: "مریم بهزادی"
 draft: false
 categories:
     - "sessions"
-summaryImage: "/img/posters/poster172.jpg"
+summaryImage: "/img/sessions/poster172.jpg"
 readmore: true
 ---
-[![نشست ۱۷۲ - منطق فازی](/img/posters/poster172.jpg)](/img/posters/poster172.jpg)
+[![نشست ۱۷۲ - منطق فازی](/img/sessions/poster172.jpg)](/img/sessions/poster172.jpg)
 
 صد و هفتاد و دومین نشست شیرازلاگ با ارائهٔ مریم بهزادی در دانشگاه شیراز با حضور اعضای محترم شیرازلاگ برگزار شد. در این نشست خانم بهزادی به معرفی منطق فازی پرداختند و به کاربردهای گستردهٔ این علم در صنعت اشاره کردند. 
 

@@ -44,7 +44,7 @@ params:
 
   # summary options
   summary:    
-    defaultImage : "img/posters/default_poster.jpg"
+    defaultImage : "img/sessions/default_poster.jpg"
   
   # loading options
   loading:
@@ -75,7 +75,7 @@ params:
       }, 
       {
         name: "sessions",
-        title: "جلسه‌های لاگ",
+        title: "نشست‌های لاگ",
         url: "/sessions/",
         weight: 7,
         icon: 'th-list'
@@ -140,9 +140,9 @@ params:
     logo: "logo/shirazlug.svg"
 
     # Last Session Details
-    lastSessionPoster: "img/posters/poster201.jpg"
-    lastSessionAlt: "همه چیز درباره توزیع جنتو"
-    lastSessionNo: "201"
+    lastSessionPoster: "img/sessions/poster205.jpg"
+    lastSessionAlt: "فریمورک Gatsby"
+    lastSessionNo: "205"
     
     imageWidth: 500px
     # Address

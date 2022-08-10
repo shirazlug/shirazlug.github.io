@@ -1,14 +1,14 @@
 ---
-title: "جلسه ۱۱۶"
+title: "نشست ۱۱۶"
 subtitle: "گنو/لینوکس برای توسعه دهندگان"
 date: "1396-07-03"
 author: "وجیهه نیکخواه"
 categories:
     - "sessions"
-summaryImage: "/img/posters/poster116.jpg"
+summaryImage: "/img/sessions/poster116.jpg"
 readmore: true
 ---
-[![نشست ۱۱۶ شیرازلاگ - گنو/لینوکس برای توسعه دهندگان](/img/posters/poster116.jpg)](/img/posters/poster116.jpg)
+[![نشست ۱۱۶ شیرازلاگ - گنو/لینوکس برای توسعه دهندگان](/img/sessions/poster116.jpg)](/img/sessions/poster116.jpg)
 
 نشست صد و شانزدهم شیرازلاگ با ارائه امین خزاعی در دانشگاه زند برگزار شد. آقای خزاعی در این ارائه به بررسی ابزارهای مورد نیاز در گنو لینوکس برای توسعه دهندگان پرداختند. 
 
