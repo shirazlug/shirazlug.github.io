@@ -1,5 +1,5 @@
 ---
-title: "جلسه ۵۱"
+title: "نشست ۵۱"
 subtitle: "BSD"
 date: "1394-11-27"
 author: "Mahshid, mehdiMj"
@@ -9,7 +9,7 @@ categories:
     - "sessions"
 readmore: true
 ---
-در این جلسه آقای جفره درباره ی موارد مختلف از جمله، BSD مباحثی را مطرح کردند.
+در این نشست آقای جفره درباره ی موارد مختلف از جمله، BSD مباحثی را مطرح کردند.
 
 <!-- FIXME All these pictures are missing:
 [![](/img/a579f68e-fdbb-11e6-86dd-a088b4d860141488289305.8324594.jpg)](img/a579f68e-fdbb-11e6-86dd-a088b4d860141488289305.8324594.jpg)

@@ -1,5 +1,5 @@
 ---
-title: "جلسه ۱۶۱"
+title: "نشست ۱۶۱"
 subtitle: "موتور بازی‌سازی Godot"
 description: "موتور بازی‌سازی Godot"
 keywords: "شیرازلاگ،موتوربازی سازی،Godot"
@@ -8,10 +8,10 @@ author: "مریم بهزادی"
 draft: false
 categories:
     - "sessions"
-summaryImage: "/img/posters/poster161.jpg"
+summaryImage: "/img/sessions/poster161.jpg"
 readmore: true
 ---
-[![نشست ۱۶۱ شیرازلاگ - موتور بازی‌سازی Godot](/img/posters/poster161.jpg)](/img/posters/poster161.jpg)
+[![نشست ۱۶۱ شیرازلاگ - موتور بازی‌سازی Godot](/img/sessions/poster161.jpg)](/img/sessions/poster161.jpg)
 
 صد و شصت و یکمین نشست شیرازلاگ با ارائه حسن حیدری نسب در دانشگاه زند برگزار شد. آقای حیدری نسب در این نشست به معرفی موتور بازی سازی Godot پرداختند و مثال هایی به صورت عملی در رابطه با این موتور قدرتمند ارائه دادند. 
 

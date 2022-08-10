@@ -1,5 +1,5 @@
 ---
-title: "جلسه ۱۶۵"
+title: "نشست ۱۶۵"
 subtitle: "مروری بر واژگان و فلسفه نرم افزار آزاد"
 description: "تاریخچه GNU،استفاده از GNU/Linux به جای واژه linux وچالش های پیش روی نرم افزار آزاد ،copyleft و اهمیت استفاده از نرم افزارهای آزاد"
 keywords: "شیرازلاگ،گنو/لینوکس،copyleft،GNU/Linux،copyleft"
@@ -8,12 +8,12 @@ author: "آرمان علی قنبری، زهره بیضاوی"
 draft: false
 categories:
     - "sessions"
-summaryImage: "/img/posters/poster165.jpg"
+summaryImage: "/img/sessions/poster165.jpg"
 readmore: true
 ---
-[![نشست ۱۶۵ - مروری بر واژگان و فلسفه نرم افزار آزاد](/img/posters/poster165.jpg)](/img/posters/poster165.jpg)
+[![نشست ۱۶۵ - مروری بر واژگان و فلسفه نرم افزار آزاد](/img/sessions/poster165.jpg)](/img/sessions/poster165.jpg)
 
-صد و شصت و پنجمین نشست شیرازلاگ با حضور جمعی از اعضا و علاقه مندان به نرم افزار آزاد در دانشگاه صنعتی شیراز برگزار شد. در این جلسه مهندس بابک رزمجو به توضیح تاریخچه GNU،استفاده از GNU/Linux به جای واژه Linux وچالش های پیش روی نرم افزار آزاد ،copyleft و اهمیت استفاده از نرم افزارهای آزاد پرداخت.
+صد و شصت و پنجمین نشست شیرازلاگ با حضور جمعی از اعضا و علاقه مندان به نرم افزار آزاد در دانشگاه صنعتی شیراز برگزار شد. در این نشست مهندس بابک رزمجو به توضیح تاریخچه GNU،استفاده از GNU/Linux به جای واژه Linux وچالش های پیش روی نرم افزار آزاد ،copyleft و اهمیت استفاده از نرم افزارهای آزاد پرداخت.
 
 فایل های این ارائه را می توانید از [اینجا](https://framagit.org/shirazlug/resources/tree/master/presentations/session_165) دریافت کنید.
 

@@ -1,5 +1,5 @@
 ---
-title: "جلسه ۱۷۵"
+title: "نشست ۱۷۵"
 subtitle: "خودکارسازی فرآیند با انسیبل"
 description: "خودکارسازی فرآیند با انسیبل"
 keywords: "شیرازلاگ،لینوکس،انسیبل،خودکارسازی فرایند با نسیبل"
@@ -8,7 +8,7 @@ author: "مریم بهزادی"
 draft: false
 categories:
     - "sessions"
-summaryImage: "/img/posters/poster175.jpg"
+summaryImage: "/img/sessions/poster175.jpg"
 readmore: false
 ---
-[![نشست ۱۷۵ - خودکارسازی فرآیند با انسیبل](/img/posters/poster175.jpg)](/img/posters/poster175.jpg)
+[![نشست ۱۷۵ - خودکارسازی فرآیند با انسیبل](/img/sessions/poster175.jpg)](/img/sessions/poster175.jpg)

@@ -1,5 +1,5 @@
 ---
-title: "جلسه ۱۶۴"
+title: "نشست ۱۶۴"
 subtitle: "میزگرد با موضوع رزولوشن شیرازلاگ و اعضا در سال جدید"
 description: "میزگرد با موضوع رزولوشن شیرازلاگ و اعضا در سال ۹۸ شیرازلاگ"
 keywords: "شیرازلاگ، رزولوشن شیرازلاگ،نرم افزار آزاد"
@@ -8,10 +8,10 @@ author: "مریم بهزادی، آرمان علی قنبری"
 draft: false
 categories:
     - "sessions"
-summaryImage: "/img/posters/poster164.jpg"
+summaryImage: "/img/sessions/poster164.jpg"
 readmore: true
 ---
-[![نشست ۱۶۴ - میزگرد با موضوع رزولوشن شیرازلاگ و اعضا در سال ۹۸ شیرازلاگ](/img/posters/poster164.jpg)](/img/posters/poster164.jpg)
+[![نشست ۱۶۴ - میزگرد با موضوع رزولوشن شیرازلاگ و اعضا در سال ۹۸ شیرازلاگ](/img/sessions/poster164.jpg)](/img/sessions/poster164.jpg)
 
 <div class="row">
     <div class="col-lg-12">

@@ -1,15 +1,15 @@
 ---
-title: "جلسه ۱۴۴"
+title: "نشست ۱۴۴"
 subtitle: "رمزنگاری"
 description: "رمزنگاری"
 date: "1397-02-24"
 author: "مریم بهزادی"
 categories:
     - "sessions"
-summaryImage: "/img/posters/poster144.jpg"
+summaryImage: "/img/sessions/poster144.jpg"
 readmore: true
 ---
-[![نشست ۱۴۴ شیرازلاگ - رمزنگاری](/img/posters/poster144.jpg)](/img/posters/poster144.jpg)
+[![نشست ۱۴۴ شیرازلاگ - رمزنگاری](/img/sessions/poster144.jpg)](/img/sessions/poster144.jpg)
 
 صد و چهل و چهارمین نشست شیرازلاگ با موضوع رمزنگاری در دانشگاه شیراز و با ارائه محمد مهدی مهاجر برگزار شد. در این نشست آقای مهاجر ابتدا **تاریخچه** ای از رمزنگاری را بیان کردند. سپس به **وضعیت کنونی** این مبحث در دنیای تکنولوژی پرداختند و در ادامه پیش بینی هایی که برای **آینده** ی این موضوع انجام شده است را بیان کردند.
 

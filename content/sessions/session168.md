@@ -1,17 +1,17 @@
 ---
-title: "جلسهٔ ۱۶۸"
+title: "نشستٔ ۱۶۸"
 subtitle: "پروژهٔ Jupyter و اکوسیستم آن"
-description: "جلسه ۱۶۸ شیرازلاگ- Jupyter به عنوان یکی از اصلی‌ترین ابزارها توسط متخصصین علم داده برای آنالیز داده استفاده می شود."
+description: "نشست ۱۶۸ شیرازلاگ- Jupyter به عنوان یکی از اصلی‌ترین ابزارها توسط متخصصین علم داده برای آنالیز داده استفاده می شود."
 keywords: "شیرازلاگ،علم داده،آنالیزداده،Open Sience،Jupyter،Python،R،JupyterLab"
 date: "1398-03-01"
 author: "آرمان علی قنبری , حمیدرضا معدلی، مریم بهزادی"
 draft: false
 categories:
     - "sessions"
-summaryImage: "/img/posters/poster168.jpg"
+summaryImage: "/img/sessions/poster168.jpg"
 readmore: true
 ---
-[![نشست ۱۶۸ - Jupyter به عنوان یکی از اصلی‌ترین ابزارها توسط متخصصین علم داده برای آنالیز داده استفاده می شود.](/img/posters/poster168.jpg)](/img/posters/poster168.jpg)
+[![نشست ۱۶۸ - Jupyter به عنوان یکی از اصلی‌ترین ابزارها توسط متخصصین علم داده برای آنالیز داده استفاده می شود.](/img/sessions/poster168.jpg)](/img/sessions/poster168.jpg)
 
 صد و شصت و هشتمین نشست شیرازلاگ با همکاری شیرازپاگ، و با ارائهٔ مهندس حمیدرضا معدلی در خانهٔ فرهنگ دانشگاه صنعتی شیراز برگزار شد.
 

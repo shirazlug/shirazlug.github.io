@@ -1,17 +1,17 @@
 ---
-title: "جلسه ۱۲۵"
+title: "نشست ۱۲۵"
 subtitle: "SEO & SMO"
 description: "SEO & SMO"
 date: "1396-09-13"
 author: "مریم بهزادی"
 categories:
     - "sessions"
-summaryImage: "/img/posters/poster125.jpg"
+summaryImage: "/img/sessions/poster125.jpg"
 readmore: true
 ---
-[![نشست ۱۲۵ شیرازلاگ - SEO & SMO ](/img/posters/poster125.jpg)](/img/posters/poster125.jpg)
+[![نشست ۱۲۵ شیرازلاگ - SEO & SMO ](/img/sessions/poster125.jpg)](/img/sessions/poster125.jpg)
 
-صد و بیست و پنجمین نشست گروه کاربران لینوکس شیراز، با ارائه محمد مهدی مهاجر در دانشگاه زند برگزار شد. سرفصل هایی که در این جلسه مورد بحث قرار گرفتند در ادامه بیان شده است.
+صد و بیست و پنجمین نشست گروه کاربران لینوکس شیراز، با ارائه محمد مهدی مهاجر در دانشگاه زند برگزار شد. سرفصل هایی که در این نشست مورد بحث قرار گرفتند در ادامه بیان شده است.
 
 * شیوه ساخت وبسایت مبتنی بر SEO Friendly
 * انواع متا تگ ها، تایتل و og تگ ها 
