@@ -19,11 +19,6 @@ sitemap:
   filename: sitemap.xml
   priority: 0.5
 
-googleAnalytics: UA-165578778-1
-
-# Supported fonts are:
-# https://fonts.google.com/
-
 params:
   # main params of the site
   description: "وب‌سایت رسمی شیرازلاگ (گروه کاربران گنو/لینوکس شیراز)"
@@ -146,11 +141,7 @@ params:
     
     imageWidth: 500px
     # Address
-    # address: "آدرس: خ همت جنوبی، کوچه ۱۰/۲، سالن همایش امام رضا (ع)"
-    # address: "آدرس: ستارخان، انتهای خ نمازی، دانشگاه زند، سالن همایش"
-    # address: "آدرس: بولوار مدرس، روبروی فضل‌آباد، دانشگاه صنعتی شیراز - خانه فرهنگ"
-    # address: "شیراز، میدان آزادی، پارک آزادی"
-    # address: "شیراز، بولوار امیرکبیر، بوستان جنت"
+    address: "شیراز، فرهنگ‌شهر، ابتدای کوچه ۱۹، جنب درمانگاه حکیم، مجموعه تفریحی و فرهنگی دیاکو"
 
   section:
     fontFamily: "Shabnam"
