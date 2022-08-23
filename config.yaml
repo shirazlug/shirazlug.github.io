@@ -135,9 +135,9 @@ params:
     logo: "logo/shirazlug.svg"
 
     # Last Session Details
-    lastSessionPoster: "img/sessions/poster205.jpg"
-    lastSessionAlt: "فریمورک Gatsby"
-    lastSessionNo: "205"
+    lastSessionPoster: "img/sessions/poster206.jpg"
+    lastSessionAlt: "Why&&How use Vim (A mid-’70s Text Editor) in 2022"
+    lastSessionNo: "206"
     
     imageWidth: 500px
     # Address
