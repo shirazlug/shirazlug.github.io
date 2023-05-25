@@ -11,7 +11,7 @@ readmore: true
 ##### گروه کاربران لینوکس شیراز
 
 - [کانال تلگرام شیرازلاگ](https://t.me/shirazlug)
-- [گروه تلگرام شیرازلاگ جهت پرسش و پاسخ](https://tiny.cc/shiraz)
+- [گروه تلگرام شیرازلاگ جهت پرسش و پاسخ](https://t.me/shirazlug)
 - [صفحه اینستاگرام شیرازلاگ](https://www.instagram.com/ShirazLUG.ir/)
 - [اکانت توییتر شیرازلاگ](https://twitter.com/shirazlug_ir)
 - [پروژه‌های آزاد در شیرازلاگ](https://framagit.org/shirazlug)
