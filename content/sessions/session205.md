@@ -9,7 +9,7 @@ weight: -1
 summaryImage: "/img/sessions/poster205.jpg"
 tags: []
 images: []
-readmore: false
+readmore: true
 draft: false
 ---
 [![معرفی فریمورک Gatsby](/img/sessions/poster205.jpg)](/img/sessions/poster205.jpg)
