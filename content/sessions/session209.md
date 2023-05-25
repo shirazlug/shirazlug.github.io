@@ -1,7 +1,8 @@
 ---
 title: "نشست ۲۰۹"
 subtitle: "بحث آزاد"
-description: "بحث آزاد"
+description: ""
+presenter: ""
 keywords: "بحث آزاد, شیرازلاگ"
 date: "1401-06-30"
 author: "گودرز جعفری"
@@ -14,4 +15,3 @@ readmore: true
 ---
 [![بحث آزاد](/img/sessions/poster209.jpg)](/img/sessions/poster209.jpg)
 
-بحث آزاد

@@ -15,4 +15,3 @@ readmore: true
 ---
 [![بحث آزاد](/img/sessions/poster210.jpg)](/img/sessions/poster210.jpg)
 
-بحث آزاد
