@@ -1,7 +1,8 @@
 ---
 title: "نشست ۲۱۱"
 subtitle: "بحث آزاد و انتخابات راهبران جدید"
-description: "بحث آزاد و انتخابات راهبران جدید"
+description: ""
+presenter: ""
 keywords: "بحث آزاد, شیرازلاگ"
 date: "1402-02-13"
 author: "گودرز جعفری"
