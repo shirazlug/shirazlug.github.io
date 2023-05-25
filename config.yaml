@@ -150,7 +150,7 @@ params:
   footer:
     fontFamily: "Shabnam"
     logo: "logo/shirazlug_white.svg"   
-    copyright: "۱۳۹۸،۱۳۹۹ - شیرازلاگ"
+    copyright: "۱۳۹۸ - ۱۴۰۲ Ⓒ شیرازلاگ"
     social: [
       {
         title: "contact@shirazlug.ir",
@@ -159,31 +159,31 @@ params:
         weight: 6
       },
       {
-        title: "shirazlug",
+        title: "کانال تلگرام",
         icon: "fab fa-telegram",
         url: "https://t.me/shirazlug",
         weight: 5
       },
       {
-        title: "shirazlug.ir",
+        title: "اینستاگرام",
         icon: "fab fa-instagram",
         url: "https://www.instagram.com/ShirazLUG.ir/",
         weight: 4
       },
       {
-        title: "shirazlug_ir",
+        title: "توییتر",
         icon: "fab fa-twitter",
         url: "https://twitter.com/ShirazLUG_ir",
         weight: 3
       },
       {
-        title: "shirazlug",
+        title: "لینکدین",
         icon: "fab fa-linkedin",
         url: "https://www.linkedin.com/in/shirazlug/",
         weight: 2
       },
       {
-        title: "shirazlug",
+        title: "سورس کدها",
         icon: "fab fa-gitlab",
         url: "https://framagit.org/shirazlug",
         weight: 1
