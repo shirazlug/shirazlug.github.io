@@ -1,6 +1,6 @@
 baseURL: "https://shirazlug.ir/"
 languageCode: "fa-IR"
-title: "489891 - ۴۸۹۸۹۱"
+title: "شیرازلاگ (گروه کاربران گنو/لینوکس شیراز)"
 theme: hugo-refresh-rtl
 staticDir: "static"
 disableKinds: ["taxonomyTerm", "RSS"]
