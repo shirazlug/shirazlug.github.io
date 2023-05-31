@@ -48,7 +48,7 @@
   3. با استفاده از دستور زیر یک نسخه از پروژه را به همراه ساب ماژول‌های به کار رفته در آن، در کامپیوتر شخصی خود ذخیره کنید. دقت داشته باشید که در دستور زیر به جای عبارت `USERNAME`، نام‌کاربری خودتان که در فراماگیت ساختید را قرار دهید.
  
 ```
-   git clone --recursive git@framagit.org:USERNAME/shirazlug.frama.io.git
+git clone --recursive git@framagit.org:USERNAME/shirazlug.frama.io.git
 ```
 
   4. آخرین نسخه از هیوگو (hugo) را از طریق [این آموزش](https://gohugo.io/installation/) نصب کنید. برای اطمینان از اینکه hugo را نصب کردید و دسترسی در ترمینال دارید، در خط فرمان وارد کنید:
