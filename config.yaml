@@ -135,9 +135,9 @@ params:
     logo: "logo/shirazlug.svg"
 
     # Last Session Details
-    lastSessionPoster: "img/sessions/poster213.jpg"
-    lastSessionAlt: "Embedded  Linux"
-    lastSessionNo: "213"
+    lastSessionPoster: "img/sessions/poster215.jpg"
+    lastSessionAlt: "Everything as Code"
+    lastSessionNo: "215"
     
     imageWidth: 500px
     # Address
