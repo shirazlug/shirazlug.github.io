@@ -38,16 +38,16 @@ params:
   og_image: "img/team/og_image.jpg"
 
   # summary options
-  summary:    
+  summary:
     defaultImage : "img/sessions/default_poster.jpg"
-  
+
   # loading options
   loading:
     image: "images/rings.svg"
 
   # main pages options
   mainPage:
-    fontFamily: "Shabnam" 
+    fontFamily: "Shabnam"
 
   # sidebar options
   sidebar:
@@ -57,17 +57,17 @@ params:
 
   # navbar options
   navbar:
-    fontFamily: "Shabnam" 
+    fontFamily: "Shabnam"
     tags: "برچسب‌ها"
     menu: [
-      
+
       {
         name: "home",
         title: "خانه",
         url: "/",
         weight: 8,
         icon: 'home'
-      }, 
+      },
       {
         name: "sessions",
         title: "نشست‌های لاگ",
@@ -81,7 +81,7 @@ params:
         url: "/posts/",
         weight: 6,
         icon: 'clipboard'
-      },      
+      },
       {
         name: "events",
         title: "رویدادها",
@@ -102,7 +102,7 @@ params:
         url: "/about/",
         weight: 2,
         icon: 'info'
-      },      
+      },
       {
         name: "links",
         title: "لینک‌های مفید",
@@ -110,9 +110,9 @@ params:
         weight: 1,
         icon: 'link'
       },
-     
+
     ]
-  
+
   # 404 page options
   pagNotFound:
     # option to specify the main picture of the sidebar
@@ -127,7 +127,7 @@ params:
   # homepage options
   homepage:
     # option to specify the title in the homepage
-    title: "شیرازلاگ"    
+    title: "شیرازلاگ"
     # option to specify the subtitle in the homepage
     subtitle: " (گروه کاربران لینوکس شیراز) "
     description: "به شیرازلاگ خوش آمدید :) لاگ به معنی گروه کاربران گنو/لینوکس است و از افراد مختلف که به منظور تبادل اطلاعات در حوزه‌ی نرم‌افزارهای آزاد و متن‌باز دور هم جمع می‌شوند، تشکیل شده است. اگر تمایل دارید دانش خود را با دیگران به اشتراک بگذارید یا کنجکاوید تا از تکنولوژی‌های آزاد جدید اطلاعاتی کسب کنید و یا از بودن در کنار چند دوست فعال در این زمینه لذت می‌برید، با ما همراه شوید. در ضمن، شرکت در جلسات برای عموم آزاد و رایگان است."
@@ -135,13 +135,13 @@ params:
     logo: "logo/shirazlug.svg"
 
     # Last Session Details
-    lastSessionPoster: "img/sessions/poster215.jpg"
-    lastSessionAlt: "Everything as Code"
-    lastSessionNo: "215"
-    
+    lastSessionPoster: "img/sessions/poster216.jpg"
+    lastSessionAlt: "Network Sniffing Attacks"
+    lastSessionNo: "216"
+
     imageWidth: 500px
     # Address
-    address: "شیراز، فرهنگ‌شهر، ابتدای کوچه ۱۹، جنب درمانگاه حکیم، مجموعه تفریحی و فرهنگی دیاکو"
+    address: "شیراز، بلوار مدرس، دانشگاه صنعتی شیراز، خانه فرهنگ"
 
   section:
     fontFamily: "Shabnam"
@@ -149,7 +149,7 @@ params:
   # footer options
   footer:
     fontFamily: "Shabnam"
-    logo: "logo/shirazlug_white.svg"   
+    logo: "logo/shirazlug_white.svg"
     copyright: "۱۳۹۸ - ۱۴۰۲ Ⓒ شیرازلاگ"
     social: [
       {

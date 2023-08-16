@@ -40,30 +40,31 @@
             </div>
 
             <hr>
-
-            <div class="column has-text-centered">
-                <div class="column">                    
-                    <div class="column">
-                        <h2 class="title is-4 is-bold shabnam">همایش ۱۴۰۲ شیرازلاگ</h2>
-                        <div class="shabnam">
-                            <span class="subtitle is-6 is-bold is-muted"><strong>اطلاعیه مهم:</strong> به ‌زودی اطلاعیه در کانال تلگرام و از همین طریق اعلام می‌شود.</span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            
-            <hr>
-
-            <div class="column has-text-centered">
+            {{- $next_session := printf "%v%s" $baseurl .Site.Params.homepage.image -}}
+            {{- $link := .Site.Params.homepage.link -}}
+            <div class="columns has-text-centered">
                 {{- $last_session_poster := printf "%v%s" $baseurl .Site.Params.homepage.lastSessionPoster -}}
-                <div class="column">                    
+                <div class="column">
                     <div class="column">
-                        <h2 class="shabnam">آخرین نشست شیرازلاگ</h2>
+                        <h2 class="homepage-links is-6">آخرین نشست شیرازلاگ</h2>
                         <br>
                         <a href="/sessions/session{{ .Site.Params.homepage.lastSessionNo }}">
                             <img class="next-session" src="{{- $last_session_poster -}}"
                                 alt="{{.Site.Params.homepage.lastSessionAlt}}">
                         </a>
+                    </div>
+                </div>
+                <!-- Address -->
+                <div class="column has-text-centered">
+                    <!-- Sanati University -->
+                    <div class="column">
+                        <a class="subtitle homepage-links is-6" href="https://www.openstreetmap.org/way/68560755">
+                            {{ .Site.Params.homepage.address }}
+                        </a>
+                    </div>
+                    <div class="column">
+                        <iframe class="location" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"
+                            src="https://www.openstreetmap.org/export/embed.html?bbox=52.57729303797534%2C29.582537620493266%2C52.58231413325122%2C29.585653886990446&amp;layer=mapnik&amp;marker=29.584095765769607%2C52.57980358561326"></iframe>
                     </div>
                 </div>
             </div>
