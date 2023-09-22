@@ -135,13 +135,13 @@ params:
     logo: "logo/shirazlug.svg"
 
     # Last Session Details
-    lastSessionPoster: "img/sessions/poster216.jpg"
-    lastSessionAlt: "Network Sniffing Attacks"
-    lastSessionNo: "216"
+    lastSessionPoster: "img/sessions/poster217.jpg"
+    lastSessionAlt: "Introduction to Jupyter Notebook"
+    lastSessionNo: "217"
 
     imageWidth: 500px
     # Address
-    address: "شیراز، بلوار مدرس، دانشگاه صنعتی شیراز، خانه فرهنگ"
+    address: "شیراز، بلوار مدرس، بلوار آزادگان، کارخانه نوآوری شیراز"
 
   section:
     fontFamily: "Shabnam"
