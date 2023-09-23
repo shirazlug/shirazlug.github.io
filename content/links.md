@@ -23,6 +23,7 @@ readmore: true
 - [اصفهان](https://tiny.cc/esfahan)
 - [اراک](https://tiny.cc/arak)
 - [اهواز](https://tiny.cc/ahwaz)
+- [استهبان](https://t.me/EstahbanLug)
 - [زنجان](https://tiny.cc/zanjan)
 - [قزوین](https://tiny.cc/qazvin)
 - [قم](https://tiny.cc/Qom)
