@@ -156,12 +156,19 @@ params:
         title: "contact@shirazlug.ir",
         icon: "fas fa-envelope",
         url: "mailto:contact@shirazlug.ir",
-        weight: 6
+        weight: 7
       },
       {
         title: "کانال تلگرام",
         icon: "fab fa-telegram",
         url: "https://t.me/shirazlug",
+        weight: 6
+      },
+      {
+        title: "ماستودون",
+        icon: "fab fa-mastodon",
+        rel: "me",
+        url: "https://mastodon.social/@ShirazLUG",
         weight: 5
       },
       {
