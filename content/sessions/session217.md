@@ -13,4 +13,4 @@ categories:
 summaryImage: "/img/sessions/poster217.jpg"
 readmore: true
 ---
-[![Network Sniffing Attacks](/img/sessions/poster217.jpg)](/img/sessions/poster217.jpg)
+[![Jupyter Notebook](/img/sessions/poster217.jpg)](/img/sessions/poster217.jpg)
