@@ -135,9 +135,9 @@ params:
     logo: "logo/shirazlug.svg"
 
     # Last Session Details
-    lastSessionPoster: "img/sessions/poster219.jpg"
-    lastSessionAlt: "Immutable Linux distributions"
-    lastSessionNo: "219"
+    lastSessionPoster: "img/sessions/poster220.jpg"
+    lastSessionAlt: "Xenomai Real time Linux"
+    lastSessionNo: "220"
 
     imageWidth: 500px
     # Address
@@ -150,7 +150,7 @@ params:
   footer:
     fontFamily: "Shabnam"
     logo: "logo/shirazlug_white.svg"
-    copyright: "۱۳۹۸ - ۱۴۰۲ Ⓒ شیرازلاگ"
+    copyright: "۱۳۹۶ - ۱۴۰۲ Ⓒ شیرازلاگ"
     social: [
       {
         title: "contact@shirazlug.ir",
