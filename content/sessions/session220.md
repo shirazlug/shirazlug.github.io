@@ -4,7 +4,7 @@ subtitle: "Xenomai رایانش بی‌درنگ"
 description: ""
 keywords: "Xenomai رایانش بی‌درنگ, Xenomai Real time Linux, شیرازلاگ"
 presenter: "امین خزاعی"
-date: "1402-10-08"
+date: "1402-09-08"
 author: "گودرز جعفری"
 draft: false
 weight: -1
