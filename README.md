@@ -4,7 +4,7 @@
 
 اعضای جامعه ی کاربری شیرازلاگ تصمیم گرفتند تا توسعه سایت را به فراماگیت و سرویس صفحات آن منتقل کنند.
 
-برخی از این نیاز ها عبارت اند از:
+برخی از این نیاز‌ها عبارت‌اند از:
 
 - آسانی در مشارکت همگانی
 - انعطاف پذیری و کنترل بالا در توسعه
@@ -12,10 +12,11 @@
 
 
 ---
-## توسعه دهندگان سایت
+## توسعه‌دهندگان سایت
 
- این پروژه به لطف همهٔ کسانی توسعه داده شده است که به صورت داوطلبانه و بدون دریافت هیچگونه هزینه ای، به اشتراک دانش و خلاقیت خود پرداخته اند. شما هم می توانید به توسعه این سایت کمک کنید و در فهرست توسعه دهندگان قرار بگیرید.
+ این پروژه به لطف همهٔ کسانی توسعه داده شده است که به صورت داوطلبانه و بدون دریافت هیچگونه هزینه‌ای، به اشتراک دانش و خلاقیت خود پرداخته‌اند. شما هم می‌توانید به توسعه این سایت کمک کنید و در فهرست توسعه دهندگان قرار بگیرید.
 
+[![گودرز جعفری](https://shirazlug.ir/img/team/goudarzjafari.svg)](https://shirazlug.ir/members/jafari/)
 [![مریم بهزادی](https://shirazlug.ir/img/team/behzadi.svg)](https://shirazlug.ir/members/behzadi/)
 [![امین خزاعی](https://shirazlug.ir/img/team/khozaei.svg)](https://shirazlug.ir/members/khozaei/)
 ![محمد میرشائی](https://shirazlug.ir/img/team/mirshaei.svg)
@@ -30,10 +31,10 @@
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**فهرست مطالب** 
+**فهرست مطالب**
 
-1. [چگونه میتوانید کمک کنید؟](#%DA%86%DA%AF%D9%88%D9%86%D9%87-%D9%85%DB%8C%D8%AA%D9%88%D8%A7%D9%86%DB%8C%D8%AF-%DA%A9%D9%85%DA%A9-%DA%A9%D9%86%DB%8C%D8%AF%D8%9F)
-2. [سرویس گیت لب سی آی](#%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%DA%AF%DB%8C%D8%AA-%D9%84%D8%A8-%D8%B3%DB%8C-%D8%A2%DB%8C)
+1. [چگونه می‌توانید کمک کنید؟](#%DA%86%DA%AF%D9%88%D9%86%D9%87-%D9%85%DB%8C%D8%AA%D9%88%D8%A7%D9%86%DB%8C%D8%AF-%DA%A9%D9%85%DA%A9-%DA%A9%D9%86%DB%8C%D8%AF%D8%9F)
+2. [سرویس گیت‌لب سی‌آی](#%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%DA%AF%DB%8C%D8%AA-%D9%84%D8%A8-%D8%B3%DB%8C-%D8%A2%DB%8C)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -46,7 +47,7 @@
   1. وارد حساب کاربری خود در framagit.org شوید، یا ثبت نام کنید.
   2. از این پروژه با عمل [`Fork`](https://framagit.org/shirazlug/shirazlug.frama.io/-/forks/new) یک نسخه در حساب کاربری خودتان ایجاد کنید.
   3. با استفاده از دستور زیر یک نسخه از پروژه را به همراه ساب ماژول‌های به کار رفته در آن، در کامپیوتر شخصی خود ذخیره کنید. دقت داشته باشید که در دستور زیر به جای عبارت `USERNAME`، نام‌کاربری خودتان که در فراماگیت ساختید را قرار دهید.
- 
+
 ```
 git clone --recursive git@framagit.org:USERNAME/shirazlug.frama.io.git
 ```
@@ -84,14 +85,14 @@ git submodule add https://framagit.org/shirazlug/hugo-refresh-rtl.git
 
 # ۲- سرویس گیت‌لب سی‌آی
 
-صفحات ایستای این پروژه با استفاده از 
+صفحات ایستای این پروژه با استفاده از
 **گیت لب سی آی**
-تولید شده اند. مراحل اجرایی تعریف شده در فایل 
+تولید شده اند. مراحل اجرایی تعریف شده در فایل
 [`.gitlab-ci.yml`](.gitlab-ci.yml)
 را در ادامه مشاهده می کنید.
 
 ```
-    
+
     image: monachus/hugo
 
     variables:
