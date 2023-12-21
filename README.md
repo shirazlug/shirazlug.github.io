@@ -44,12 +44,12 @@
 ### نحوه کار با پروژه بر روی کامپیوتر شخصی
 برای کار کردن بر روی این پروژه از طریق کامپیوتر شخصی، کافی است مراحل زیر را دنبال کنید:
 
-  1. وارد حساب کاربری خود در framagit.org شوید، یا ثبت نام کنید.
-  2. از این پروژه با عمل [`Fork`](https://framagit.org/shirazlug/shirazlug.frama.io/-/forks/new) یک نسخه در حساب کاربری خودتان ایجاد کنید.
+  1. وارد حساب کاربری خود در github.com شوید، یا ثبت نام کنید.
+  2. از این پروژه با عمل [`Fork`](https://github.com/shirazlug/shirazlug.github.io/fork) یک نسخه در حساب کاربری خودتان ایجاد کنید.
   3. با استفاده از دستور زیر یک نسخه از پروژه را به همراه ساب ماژول‌های به کار رفته در آن، در کامپیوتر شخصی خود ذخیره کنید. دقت داشته باشید که در دستور زیر به جای عبارت `USERNAME`، نام‌کاربری خودتان که در فراماگیت ساختید را قرار دهید.
 
 ```
-git clone --recursive git@framagit.org:USERNAME/shirazlug.frama.io.git
+git clone --recursive git@github.com:USERNAME/shirazlug.github.io.git
 ```
 
   4. آخرین نسخه از هیوگو (hugo) را از طریق [این آموزش](https://gohugo.io/installation/) نصب کنید. برای اطمینان از اینکه hugo را نصب کردید و دسترسی در ترمینال دارید، در خط فرمان وارد کنید:
@@ -61,7 +61,7 @@ hugo version
 باید در خروجی شبیه به این به شما نشان دهد:
 
 ```
-hugo v0.111.3+extended linux/amd64 BuildDate=unknown
+hugo v0.120.1+extended linux/amd64 BuildDate=unknown
 ```
 ### پیش‌نمایش وب‌سایت
 
@@ -76,7 +76,7 @@ hugo server -D
 در صورتی که در حین اجرا خطای ساب‌ماژول یا پوسته را داد در دایرکتوری `themes` برید و این را اجرا کنید که پوسته مد نظر را دریافت کند و بعد دوباره مرحله ۵ را تکرار کنید:
 
 ```
-git submodule add https://framagit.org/shirazlug/hugo-refresh-rtl.git
+git submodule add https://github.com/shirazlug/hugo-refresh-rtl.git
 ```
 
   6. هر گونه تغییرات که مد نظرتان هست به سایت اضافه یا تغییر دهید. «در صورتی که با هیوگو آشنای کمتری دارید از طریق [این مستندات](https://gohugo.io/documentation/) می‌توانید، با هیوگو کار کنید.»
