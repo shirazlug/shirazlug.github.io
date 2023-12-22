@@ -186,13 +186,13 @@ params:
       {
         title: "لینکدین",
         icon: "fab fa-linkedin",
-        url: "https://www.linkedin.com/in/shirazlug/",
+        url: "https://www.linkedin.com/company/shirazlug/",
         weight: 2
       },
       {
         title: "سورس کدها",
-        icon: "fab fa-gitlab",
-        url: "https://framagit.org/shirazlug",
+        icon: "fab fa-github",
+        url: "https://github.com/shirazlug/",
         weight: 1
       }
     ]
