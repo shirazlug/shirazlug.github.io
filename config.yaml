@@ -135,9 +135,9 @@ params:
     logo: "logo/shirazlug.svg"
 
     # Last Session Details
-    lastSessionPoster: "img/sessions/poster221.jpg"
-    lastSessionAlt: "Contributing to Free software"
-    lastSessionNo: "221"
+    lastSessionPoster: "img/sessions/poster222.jpg"
+    lastSessionAlt: "Introduction to Kubernetes"
+    lastSessionNo: "222"
 
     imageWidth: 500px
     # Address
