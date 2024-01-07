@@ -31,8 +31,14 @@ summaryImage: "/img/team/behzadi.svg"
  
 ---
 
+# سایر فعالیت‌ها
+* فعال در حوزه‌ی نرم‌افزار آزاد
+* مشارکت در فارسی‌سازی و راست‌چین کردن قالب [hugo-refresh](https://github.com/mariebehzadi/hugo-refresh-rtl)
+
+---
+
 # سایر مسئولیت‌های اجرایی
-* مدرس دانشگاه از سال ۹۶
+* مدرس دانشگاه از سال ۹۶ تا ۱۴۰۰
 * مدیرعامل شرکت 
 [فناوران اینترنت اشیاء هیوا](https://hiva-iot.com/)
 * سخنران 
@@ -40,9 +46,7 @@ summaryImage: "/img/team/behzadi.svg"
 
 ---
 
-# لینک‌های ارتباطی
-* [ایمیل](mailto:behzadi@shirazlug.ir)
+# راه‌های ارتباطی
+* [ایمیل](mailto:mariebehzadi@gmail.com)
 * [تلگرام](https://t.me/mariebehzadi)
 * [لینکدین](https://linkedin.com/in/mariebehzadi) 
-* [اینستاگرام](https://www.instagram.com/mariebehzadi)
-* [توییتر](https://twitter.com/mariebehzadi)
