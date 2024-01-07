@@ -3,9 +3,9 @@ title: "سعید بستان دوست"
 keywords: ["بستان دوست", "دوآپس", "کلود", "برنامه نویس", "نرم‌افزار", "آزاد", "دولوپر"]
 description: "سعید بستان دوست متخصص دوآپس و کلود که از سال ۹۶ در شیرازلاگ فعال است."
 subtitle: "نرم افزار آزاد، دنیای آزاد، برنامه نویس و مهندس دوآپس"
-summaryImage: "/img/team/ssbostan.png"
+summaryImage: "/img/team/ssbostan.svg"
 ---
-![سعید بستان دوست](/img/team/ssbostan.png)
+![سعید بستان دوست](/img/team/ssbostan.svg)
 
 ---
 

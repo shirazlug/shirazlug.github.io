@@ -18,7 +18,8 @@ summaryImage: "/img/team/behzadi.svg"
 ---
 
 # فعالیت‌های اجرایی در شیرازلاگ
-* راهبر منتخب شیرازلاگ در سال‌های ۹۶، ۹۷، ۹۸ و ۹۹
+* عضو فعال در شیرازلاگ از سال ۱۳۹۵
+* راهبر منتخب شیرازلاگ در سال‌های ۱۳۹۶، ۱۳۹۷، ۱۳۹۸ و ۱۳۹۹
 * فعالیت به عنوان طراح گرافیک در شیرازلاگ
 * فعالیت در تیم توسعه سایت شیرازلاگ
 * هماهنگی و برنامه‌ریزی جلسات و رویدادها
@@ -31,8 +32,15 @@ summaryImage: "/img/team/behzadi.svg"
  
 ---
 
+# سایر فعالیت‌ها
+* فعال در حوزه‌ی نرم‌افزار آزاد
+* مشارکت در فارسی‌سازی و راست‌چین کردن قالب [hugo-refresh](https://github.com/mariebehzadi/hugo-refresh-rtl)
+* مشارکت در پروژه‌ی [vee-validate](https://github.com/logaretm/vee-validate/pull/2190) جهت رفع مشکلات مربوط به کاراکترهای فارسی
+
+---
+
 # سایر مسئولیت‌های اجرایی
-* مدرس دانشگاه از سال ۹۶
+* مدرس دانشگاه از سال ۱۳۹۶ تا ۱۴۰۰
 * مدیرعامل شرکت 
 [فناوران اینترنت اشیاء هیوا](https://hiva-iot.com/)
 * سخنران 
@@ -40,9 +48,7 @@ summaryImage: "/img/team/behzadi.svg"
 
 ---
 
-# لینک‌های ارتباطی
-* [ایمیل](mailto:behzadi@shirazlug.ir)
+# راه‌های ارتباطی
+* [ایمیل](mailto:mariebehzadi@gmail.com)
 * [تلگرام](https://t.me/mariebehzadi)
 * [لینکدین](https://linkedin.com/in/mariebehzadi) 
-* [اینستاگرام](https://www.instagram.com/mariebehzadi)
-* [توییتر](https://twitter.com/mariebehzadi)
