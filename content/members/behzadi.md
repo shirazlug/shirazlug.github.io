@@ -35,6 +35,7 @@ summaryImage: "/img/team/behzadi.svg"
 # سایر فعالیت‌ها
 * فعال در حوزه‌ی نرم‌افزار آزاد
 * مشارکت در فارسی‌سازی و راست‌چین کردن قالب [hugo-refresh](https://github.com/mariebehzadi/hugo-refresh-rtl)
+* مشارکت در پروژه‌ی [vee-validate](https://github.com/logaretm/vee-validate/pull/2190) جهت رفع مشکلات مربوط به کاراکترهای فارسی
 
 ---
 
