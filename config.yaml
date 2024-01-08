@@ -135,9 +135,9 @@ params:
     logo: "logo/shirazlug.svg"
 
     # Last Session Details
-    lastSessionPoster: "img/sessions/poster222.jpg"
-    lastSessionAlt: "Introduction to Kubernetes"
-    lastSessionNo: "222"
+    lastSessionPoster: "img/sessions/poster223.jpg"
+    lastSessionAlt: "Pros and Cons of MicroPython"
+    lastSessionNo: "223"
 
     imageWidth: 500px
     # Address
