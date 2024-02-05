@@ -135,9 +135,9 @@ params:
     logo: "logo/shirazlug.svg"
 
     # Last Session Details
-    lastSessionPoster: "img/sessions/poster223.jpg"
-    lastSessionAlt: "Pros and Cons of MicroPython"
-    lastSessionNo: "223"
+    lastSessionPoster: "img/sessions/poster225.jpg"
+    lastSessionAlt: "HuggingFace & Open LLMs"
+    lastSessionNo: "225"
 
     imageWidth: 500px
     # Address
