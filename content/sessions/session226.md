@@ -1,8 +1,8 @@
 ---
 title: "نشست ۲۲۶"
-subtitle: "مهندسی معکوس APIهای خصوصیزرگ آزاد"
+subtitle: "مهندسی معکوس APIهای خصوصی"
 description: ""
-keywords: "مهندسی معکوس APIهای خصوصیزرگ آزاد , Private API Reverse Engineering , شیرازلاگ"
+keywords: "مهندسی معکوس APIهای خصوصی , Private API Reverse Engineering , شیرازلاگ"
 presenter: "حسین باصری"
 date: "1402-12-02"
 author: "گودرز جعفری"
