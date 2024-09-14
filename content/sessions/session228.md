@@ -13,7 +13,7 @@ categories:
 summaryImage: "/img/sessions/poster228.jpg"
 readmore: true
 ---
-[![i3 window manager](/img/sessions/poster228.jpg)](/img/sessions/poster228.jpg)
+[![تلگرام و فرصت‌های تجاری](/img/sessions/poster228.jpg)](/img/sessions/poster228.jpg)
 
 چکیده‌ای از موضوع نشست:
 
