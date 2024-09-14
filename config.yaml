@@ -135,9 +135,9 @@ params:
     logo: "logo/shirazlug.svg"
 
     # Last Session Details
-    lastSessionPoster: "img/sessions/poster226.jpg"
-    lastSessionAlt: "Private API Reverse Engineering"
-    lastSessionNo: "226"
+    lastSessionPoster: "img/sessions/poster231.jpg"
+    lastSessionAlt: "Introduction Zig Programming Language"
+    lastSessionNo: "231"
 
     imageWidth: 500px
     # Address
