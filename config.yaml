@@ -141,7 +141,7 @@ params:
 
     imageWidth: 500px
     # Address
-    address: "شیراز، بلوار مدرس، بلوار آزادگان، کارخانه نوآوری شیراز"
+    address: "شیراز، خیابان ملاصدرا، ساختمان مهندسی ۲، سالن مطهری"
 
   section:
     fontFamily: "Shabnam"
