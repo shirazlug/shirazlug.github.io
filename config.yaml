@@ -156,6 +156,12 @@ params:
         title: "contact@shirazlug.ir",
         icon: "fas fa-envelope",
         url: "mailto:contact@shirazlug.ir",
+        weight: 8
+      },
+      {
+        title: "حامی باش",
+        icon: "fab fa-superpowers",
+        url: "https://hamibash.com/ShirazLUG",
         weight: 7
       },
       {
