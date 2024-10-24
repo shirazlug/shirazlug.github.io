@@ -135,9 +135,9 @@ params:
     logo: "logo/shirazlug.svg"
 
     # Last Session Details
-    lastSessionPoster: "img/sessions/poster233.jpg"
-    lastSessionAlt: "Introduction to Cryptography"
-    lastSessionNo: "233"
+    lastSessionPoster: "img/sessions/poster234.png"
+    lastSessionAlt: "Socket programming for hackers"
+    lastSessionNo: "234"
 
     imageWidth: 500px
     # Address
