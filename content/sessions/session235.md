@@ -4,7 +4,7 @@ subtitle: "ویدیو و صدا دیجیتال"
 description: ""
 keywords: "ویدیو و صدا دیجیتال, شیرازلاگ"
 presenter: "سید رحیم فیروزی"
-date: "1403-08-03"
+date: "1403-09-03"
 author: "گودرز جعفری"
 draft: false
 weight: -1
