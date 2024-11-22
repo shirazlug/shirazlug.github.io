@@ -136,7 +136,7 @@ params:
 
     # Last Session Details
     lastSessionPoster: "img/sessions/poster235.jpg"
-    lastSessionAlt: "یدیو و صدا دیجیتال"
+    lastSessionAlt: "ویدیو و صدا دیجیتال"
     lastSessionNo: "235"
 
     imageWidth: 500px
