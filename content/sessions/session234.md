@@ -4,7 +4,7 @@ subtitle: "سوکت نویسی برای هکرها"
 description: ""
 keywords: "سوکت نویسی برای هکرها, Socket programming for hackers, شیرازلاگ"
 presenter: "حسین نوح‌پیشه"
-date: "1403-08-05"
+date: "1403-07-05"
 author: "گودرز جعفری"
 draft: false
 weight: -1
